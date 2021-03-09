@@ -7,7 +7,7 @@ You will:
 + Choose which skills to use to make your idea,
 + Learn how to use the project online via a web address.
 
-<div style="border-top: solid; border-width:15px; border-color: #f3524f; box-shadow: 10px 10px 5px grey; padding: 10px;">
+<div style="border: 2px solid black; border: 30px solid #f3524f; box-shadow: 10px 10px 5px grey; padding: 10px; background-color: grey; margin-bottom: 20px; margin-left: 5%; margin-right: 5px;">
 ### PROJECT BRIEF: I made you a book
 
 You need to create a **digital book** that is educational, interesting, funny or all of those. 
@@ -24,6 +24,8 @@ Your book could:
 + Have artwork created in the paint editor,
 + Have interactive features on each page.
 </div>
+
+<br/>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
