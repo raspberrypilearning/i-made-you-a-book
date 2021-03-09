@@ -7,9 +7,8 @@ You will:
 + Choose which skills to use to make your idea,
 + Learn how to use the project online via a web address.
 
-<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; margin-left: 3%; margin-right: 3%">
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; margin-left: 3%; margin-right: 3%; padding: 10px;">
 
-<hr style="border-top: 2px solid black;">
 ### PROJECT BRIEF: I made you a book
 <hr style="border-top: 2px solid black;">
 
