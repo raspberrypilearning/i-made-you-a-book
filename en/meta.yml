@@ -1,11 +1,15 @@
-title: scratch-book
+title: I made you a book
 hero_image: images/banner.png
-description: scratch-book description
+description: Create a book in Scratch with multiple pages to tell a story or share facts.
 version: 4
 listed: false
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - title: Introduction
-  - title: Step title
+  - title: Plan your project
+  - title: Build and test
+  - title: Share and get feedback
+  - title: Upgrade your project
+  - title: Reflect
   - title: What next?
