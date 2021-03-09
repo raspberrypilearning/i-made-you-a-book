@@ -7,7 +7,9 @@ You will:
 + Choose which skills to use to make your idea,
 + Learn how to use the project online via a web address.
 
-<div class="project-brief">
+<div style="border-top: solid; border-width:15px; border-color: #f3524f; box-shadow: 10px 10px 5px grey; padding: 10px;">
+### PROJECT BRIEF: I made you a book
+
 You need to create a **digital book** that is educational, interesting, funny or all of those. 
 
 You must choose who to write the book for such as "My little sister", "Dinosaur fans" or "People who are learning to sing".  
@@ -81,12 +83,3 @@ Think about what the topic of your book could be as you investigate these exampl
 --- /print-only ---
 
 
-<style>
-.project-brief {
-  width: 200px;
-  min-height: 200px;
-  -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
-  clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
-  background: lightblue;
-}
-</style>
