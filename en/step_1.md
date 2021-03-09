@@ -8,7 +8,10 @@ You will:
 + Learn how to use the project online via a web address.
 
 <div style="border: 2px solid black; border-top: 15px solid #f3524f; box-shadow: 10px 10px 5px grey; padding: 10px; background-color: whitesmoke; margin-bottom: 20px; margin-left: 5%; margin-right: 5px;">
+
+<hr style="border-top: 2px solid black">
 ### PROJECT BRIEF: I made you a book
+<hr style="border-top: 2px solid black">
 
 You need to create a **digital book** that is educational, interesting, funny or all of those. 
 
