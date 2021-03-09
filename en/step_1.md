@@ -7,11 +7,11 @@ You will:
 + Choose which skills to use to make your idea,
 + Learn how to use the project online via a web address.
 
-<div style="border: 2px solid black; border-top: 15px solid #f3524f; box-shadow: 10px 10px 5px grey; padding: 10px; background-color: whitesmoke; margin-bottom: 20px; margin-left: 5%; margin-right: 5px;">
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; margin-left: 3%; margin-right: 3%">
 
-<hr style="border-top: 2px solid black">
+<hr style="border-top: 2px solid black;">
 ### PROJECT BRIEF: I made you a book
-<hr style="border-top: 2px solid black">
+<hr style="border-top: 2px solid black;">
 
 You need to create a **digital book** that is educational, interesting, funny or all of those. 
 
