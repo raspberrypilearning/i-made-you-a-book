@@ -27,14 +27,12 @@ Your book could:
 + Have interactive features on each page.
 </div>
 
-<br/>
-
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, table, phone or other electronic device. Have you read any books on a digital device?
+A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
 </p>
 
 --- task ---
@@ -45,7 +43,7 @@ A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created 
 ### Try it
 
 Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
-
+</div>
 <div>
 **A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -53,6 +51,7 @@ Click on the character and object to choose the ones you want in the story, then
 </div>
 </div>
 </div>
+
 --- /task ---
 
 --- no-print ---
