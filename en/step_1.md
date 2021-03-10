@@ -2,6 +2,10 @@
 
 You are going to create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+</p>
+
 You will:
 + Think of original design ideas to create a digital book for someone specific,
 + Choose which skills to use to make your idea,
@@ -28,10 +32,6 @@ Your book could:
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
-</p>
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
 </p>
 
@@ -56,15 +56,17 @@ Click on the character and object to choose the ones you want in the story, then
 
 --- no-print ---
 
+# Get inspiration
+
 --- task ---
 
 You are going create a digital book based on your own original idea. It could be a short story, a tutorial or fact book, a silly or funny book, an interactive book for young children or something we haven't thought of.
 
 Think about what the topic of your book could be as you investigate these example projects to get more ideas:
 
-**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
+**Tickle monster**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
@@ -72,9 +74,9 @@ Think about what the topic of your book could be as you investigate these exampl
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---

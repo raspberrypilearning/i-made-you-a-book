@@ -1,11 +1,23 @@
 ## Upgrade your project
 
-Add an introductory sentence. What will learners achieve by the end of this step?
+If you have time you can upgrade your project. 
 
---- task ---
+You could:
+- Add more code to your sprites. 
+- Add another sprite. 
+- Record a sound 
+- Create a new costume in the Paint editor. 
 
-Step content...
+You may want to ‘See Inside’ the example projects in step 1, they each have a link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
---- /task ---
+
+
+
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
+
+Take a look at some I made you a book projects created by community members in the Raspberry Pi Foundation’s studio of I made you a book Community Projects [See inside](https://scratch.mit.edu/studios/29092393/){:target="_blank"}.
 
 --- save ---
