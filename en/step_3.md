@@ -28,7 +28,7 @@ Think about the backdrops and sprites:
 
 [[[scratch3-copy-parts-between-sprite-costumes]]]
 
-[[[scratch3-add-a-sound]]]
+[[[scratch3-add-sound]]]
 
 [[[scratch3-record-sound]]]
 
