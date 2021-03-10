@@ -13,7 +13,7 @@ Why not invite your friends to create a project? Let them know how you had fun.
 
 If you have a Scratch account, and have shared your googly eye project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
-[[[comments-and-feedback-in-scratch]]]
+[[[comments-feedback-scratch]]]
 
 Inspire the Raspberry Pi Foundation community with your project!
 
