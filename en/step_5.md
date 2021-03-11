@@ -10,9 +10,6 @@ You could:
 
 You may want to ‘See Inside’ the example projects in step 1, they each have a link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
-
-
-
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
