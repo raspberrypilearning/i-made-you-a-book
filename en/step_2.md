@@ -2,11 +2,11 @@
 
 Use this step to come up with your idea plan your book. You can plan however you want: by just thinking; with sticky notes; adding backdrops and sprites in Scratch; by drawing or writing; or whatever you like! 
 
-**Tip**: Write down your main idea or tell a friend or family member. Like in the debugging story, it is easier to make a project when you can explain what your idea is.
+**Tip**: Write down your main idea or tell someone. Like in the debugging story, it is easier to make a project when you can explain what your idea is.
 
-**Tip**: Some of the best ideas come from playing. You will find good ideas by accident.
+![stage with sprite thinking some of the best ideas come from playing you will find good ideas by accident](images/best-ideas.png)
 
-## Why are you making the book?
+### Why are you making the book?
 
 --- task ---
 
@@ -22,7 +22,7 @@ It could be:
 
 --- /task ---
 
-## Who is it for?
+### Who is it for?
 
 --- task ---
 

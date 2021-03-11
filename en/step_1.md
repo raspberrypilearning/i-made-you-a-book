@@ -27,7 +27,7 @@ Your book should:
 
 Your book could:
 + Have speech or sound effects,
-+ Have artwork created in the paint editor,
++ Have text or art created in the paint editor,
 + Have interactive features on each page.
 </div>
 

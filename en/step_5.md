@@ -6,7 +6,7 @@ You could:
 - Add more code to your sprites. 
 - Add another sprite. 
 - Record a sound 
-- Create a new costume in the Paint editor. 
+- Create a new costume in the Paint editor . 
 
 You may want to ‘See Inside’ the example projects in step 1, they each have a link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
