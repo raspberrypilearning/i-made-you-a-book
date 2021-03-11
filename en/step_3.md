@@ -12,7 +12,7 @@ Think about the backdrops and sprites:
 
 --- task ---
 
-<mark>scratch3-changing-backdrops-pages-levels</mark>
+[[[scratch3-changing-backdrops-pages-levels]]]
 
 <mark>scratch3-paint-a-backdrop</mark>
 
@@ -22,7 +22,7 @@ Think about the backdrops and sprites:
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-<mark>scratch3-show-hide-sprites-backdrops</mark>
+[[[scratch3-show-hide-sprites-backdrops]]]
 
 [[[scratch3-animate-movement-costumes]]]
 
