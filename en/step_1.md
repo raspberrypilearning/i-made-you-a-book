@@ -40,23 +40,34 @@ A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
+<div>
+
 ### Try it
 
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
+Click on the corner to turn the page.
+
+How many pages does the book have?
+
+Look for sprites that show and hide on different pages.
+
 </div>
 <div>
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+
+**Rama and Sita come home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+</div>
+
 </div>
 </div>
-</div>
+
+
 
 --- /task ---
 
 --- no-print ---
 
-# Get inspiration
+### Get inspiration
 
 --- task ---
 
@@ -74,6 +85,14 @@ Think about what the topic of your book could be as you investigate these exampl
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
+
+**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
+</div>
+
+<mark>Move to ingredient</mark>
 **Changing backdrop tutorial**: [See inside](https://scratch.mit.edu/projects/498966268/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498966268/?autostart=false" frameborder="0"></iframe>
