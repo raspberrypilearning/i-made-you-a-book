@@ -40,8 +40,6 @@ A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-<div>
-
 ### Try it
 
 Click on the corner to turn the page.
