@@ -14,7 +14,7 @@ Think about the backdrops and sprites:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
-<mark>scratch3-paint-a-backdrop</mark>
+[[[scratch3-paint-a-new-backdrop-extended]]]
 
 <mark>scratch3-text-tool</mark>
 
