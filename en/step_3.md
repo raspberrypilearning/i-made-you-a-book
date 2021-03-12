@@ -2,7 +2,7 @@
 
 Now it's time to make your book. Start small, and add more to your project if you have time.
 
-![multiple pages of a book](images/book-pages.png)
+![multiple pages of a book](images/pages-rama.png)
 
 Think about the backdrops and sprites:
 - Which backdrops or background colours will you use in your book? 
