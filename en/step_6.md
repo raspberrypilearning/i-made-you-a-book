@@ -1,0 +1,48 @@
+## Reflect
+
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+
+Does your book have:
+
+--- task ---
+Multiple pages with a way to turn to the next page
+--- /task ---
+--- task ---
+At least one sprite
+--- /task ---
+--- task ---
+Different actions on every page
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+Speech or sound effects.
+--- /task ---
+--- task ---
+Text or art created in the paint editor.
+--- /task ---
+--- task ---
+Interactive features on each page.
+--- /task ---
+
+Reflecting about the experience of making your project can help you celebrate what you have made:
+
+--- task ---
+How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
+--- /task ---
+
+--- task ---
+What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
+--- /task ---
+
+### Now you are the author of a digital book!
+
+--- task ---
+
+Where will you take your new powers? <mark>free text answer, 3 characters possibly</mark>
+
+--- /task ---
+
+![scratch cat in at party hat](images/reflect.png)
+
