@@ -26,7 +26,7 @@ You may not have time to add everything you want to your book. That's okay, you 
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
-<mark>scratch3-text-tool</mark>
+[[[scratch3-use-text-tool]]]
 
 [[[scratch3-backdrops-and-sprites-using-shapes]]]
 
