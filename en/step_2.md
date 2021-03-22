@@ -1,6 +1,6 @@
 ## Your idea
 
-Use this step to come up with your idea plan your book. You can plan however you want: by just thinking; with sticky notes; adding backdrops and sprites in Scratch; by drawing or writing; or whatever you like! 
+Use this step to come up with your idea plan for your book. You can plan however you want: by just thinking; with sticky notes; adding backdrops and sprites in Scratch; by drawing or writing; or whatever you like! 
 
 **Tip**: Write down your main idea or tell someone. Like in the debugging story, it is easier to make a project when you can explain what your idea is.
 
@@ -49,7 +49,7 @@ To set up Scratch for offline use visit [our Scratch guide](https://learning-adm
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to sketch out your for your book.
+Use your new Scratch project, a pen and paper, or both to sketch out your plan for your book.
 
 --- /task ---
 
