@@ -8,7 +8,7 @@ Think about the backdrops and sprites:
 - Which backdrops or background colours will you use in your book? 
 - How will users interact with your book to turn to the next page?
 - Which characters and objects will you have in your book? 
-- How will the the sprits be animated and interact on each page?
+- How will the the sprites be animated and interact on each page?
 
 **Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
 
@@ -21,6 +21,8 @@ You may not have time to add everything you want to your book. That's okay, you 
 </p>
 
 --- task ---
+
+You have built up some really useful Scratch skills here is a reminder of them to help you make your book. 
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -51,6 +53,8 @@ You may not have time to add everything you want to your book. That's okay, you 
 --- task ---
 
 **Debug:**
+
+You might find some bugs in your code that you need to fix. Here are some we found when making our books.
 
 --- collapse ---
 
@@ -132,7 +136,7 @@ What is your next step?
 
 You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
-Show someone else your project. Do you want make any changes to your project? 
+Show someone else your project. Do you want make any changes to your book? 
 
 --- /task ---
 
