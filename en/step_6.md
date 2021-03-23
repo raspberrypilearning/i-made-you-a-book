@@ -26,7 +26,7 @@ Text or art created in the paint editor.
 Interactive features on each page.
 --- /task ---
 
-Reflecting about the experience of making your project can help you celebrate what you have made:
+Reflecting about how you made your book will help you in your future projects:
 
 --- task ---
 How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
@@ -38,9 +38,11 @@ What cool new thing(s) did you learn? <mark>free text answer, 3 characters possi
 
 ### Now you are the author of a digital book!
 
+Take a moment to celebrate what you have made.
+
 --- task ---
 
-Where will you take your new powers? <mark>free text answer, 3 characters possibly</mark>
+Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
 
 --- /task ---
 

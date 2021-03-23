@@ -4,17 +4,13 @@ Now it's time to make your book. Start small, and add more to your project if yo
 
 ![multiple pages of a book](images/pages-rama.png)
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book? 
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book? 
-- How will the the sprites be animated and interact on each page?
-
 **Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
 
+--- task ---
 You will need to decide what order to build your book. To get started, you could:
 - Create all the pages as backdrops, or
 - Get one page working first
+--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 You may not have time to add everything you want to your book. That's okay, you can always come back to it later. 
@@ -22,23 +18,37 @@ You may not have time to add everything you want to your book. That's okay, you 
 
 --- task ---
 
-You have built up some really useful Scratch skills here is a reminder of them to help you make your book. 
+You have built up some really useful Scratch skills. Here is a reminder to help you make your book: 
+
+Code:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
-[[[scratch3-paint-a-new-backdrop-extended]]]
-
-[[[scratch3-use-text-tool]]]
-
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
-
 [[[scratch3-change-costumes-to-show-mood]]]
-
-[[[scratch3-show-hide-sprites-backdrops]]]
 
 [[[scratch3-animate-movement-costumes]]]
 
+[[[scratch3-graphic-effects]]]
+
+[[[scratch3-show-hide-sprites-backdrops]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+[[[scratch3-jiggle-a-sprite]]]
+
+Paint editor - backdrops and costumes:
+
+[[[scratch3-paint-a-new-backdrop-extended]]]
+
+[[[scratch3-backdrops-and-sprites-using-shapes]]]
+
+[[[scratch3-use-text-tool]]]
+
 [[[scratch3-copy-parts-between-sprite-costumes]]]
+
+[[[scratch3-add-costumes-to-a-sprite]]]
+
+Sound: 
 
 [[[scratch3-add-sound]]]
 
@@ -46,7 +56,20 @@ You have built up some really useful Scratch skills here is a reminder of them t
 
 [[[scratch3-text-to-speech]]]
 
-[[[scratch3-graphic-effects]]]
+Editor:
+
+[[[scratch3-copy-code]]]
+
+[[[scratch3-full-screen]]]
+
+[[[scratch3-duplicate-sprite]]]
+
+
+--- /task ---
+
+--- task ---
+
+**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
 
 --- /task ---
 
@@ -54,7 +77,7 @@ You have built up some really useful Scratch skills here is a reminder of them t
 
 **Debug:**
 
-You might find some bugs in your code that you need to fix. Here are some we found when making our books.
+You might find some bugs in your code that you need to fix. Here are some common bugs:
 
 --- collapse ---
 
@@ -126,18 +149,11 @@ Check what order your backdrops are in, in the Paint Editor. Click on the Stage 
 
 --- /collapse ---
 
-You might find a bug that we have not listed here. Can you figure out how to fix it?
+You might find a bug not listed here. Can you figure out how to fix it?
+
+We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
 
 --- /task ---
 
---- task ---
-
-What is your next step?
-
-You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
-
-Show someone else your project. Do you want make any changes to your book? 
-
---- /task ---
 
 --- save ---
