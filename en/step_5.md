@@ -1,6 +1,6 @@
 ## Upgrade your project
 
-If you have time you can upgrade your project. 
+If you have time you can upgrade your project. You might have ideas to add more already or you might want to go back to the first step and look at other projects again for more inspiration.
 
 You could:
 - Add more code to your sprites. 
@@ -8,7 +8,7 @@ You could:
 - Record a sound 
 - Create a new costume in the Paint editor . 
 
-You may want to ‘See Inside’ the example projects in step 1, they each have a link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Each example project in the [Introduction](../) has a ‘See Inside’ link for you to open the project in Scratch and look at the code to get ideas and see how they work.
 
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">

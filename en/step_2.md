@@ -1,8 +1,6 @@
 ## Your idea
 
-Use this step to come up with your idea plan for your book. You can plan however you want: by just thinking; with sticky notes; adding backdrops and sprites in Scratch; by drawing or writing; or whatever you like! 
-
-**Tip**: Write down your main idea or tell someone. Like in the debugging story, it is easier to make a project when you can explain what your idea is.
+Use this step to plan your book. You can plan by just thinking; adding backdrops and sprites in Scratch; drawing or writing; or however you like! 
 
 ![stage with sprite thinking some of the best ideas come from playing you will find good ideas by accident](images/best-ideas.png)
 
@@ -28,9 +26,7 @@ It could be:
 
 Think about who you will make your book for (your **audience**).
 
-You can make a book for people you know. Perhaps a friend, someone in your family, a class at your school or even just for yourself. 
-
-You can make a book for people you don't know. They could be people who share a hobby, fans of a musician, or for everyone to enjoy.
+It could be for a friend, a family member, a school class, people who share a hobby, fans of a musician, or just for yourself.
 
 --- /task ---
 
@@ -49,7 +45,17 @@ To set up Scratch for offline use visit [our Scratch guide](https://learning-adm
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to sketch out your plan for your book.
+Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+
+--- /task ---
+
+--- task ---
+
+Think about the backdrops and sprites:
+- Which backdrops or background colours will you use in your book? 
+- How will users interact with your book to turn to the next page?
+- Which characters and objects will you have in your book? 
+- How will the the sprites be animated and interact on each page?
 
 --- /task ---
 

@@ -16,7 +16,7 @@ You will:
 ### PROJECT BRIEF: I made you a book
 <hr style="border-top: 2px solid black;">
 
-You need to create a **digital book** that is educational, interesting, funny or all of those. 
+You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book or something else.
 
 You must choose who to write the book for such as "My little sister", "Dinosaur fans" or "People who are learning to sing".  
 
@@ -67,13 +67,11 @@ Look for sprites that show and hide on different pages.
 
 --- task ---
 
-You are going create a digital book based on your own original idea. It could be a short story, a tutorial or fact book, a silly or funny book, an interactive book for young children or something we haven't thought of.
+Think about the topic of your book as you investigate these example projects to get more ideas:
 
-Think about what the topic of your book could be as you investigate these example projects to get more ideas:
-
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
+**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
