@@ -17,6 +17,6 @@ If you have a Scratch account, and have shared your book project, keep an eye ou
 --- task ---
 Inspire the Raspberry Pi Foundation community with your project!
 
-To share your I made a book project with the Raspberry Pi Foundation community, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target=_blank}
+To share your I made a book project with the Raspberry Pi Foundation community, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
 
 --- /task ---
