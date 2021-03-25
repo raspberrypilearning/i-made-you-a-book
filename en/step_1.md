@@ -11,6 +11,7 @@ You will:
 + Choose which skills to use to make your idea,
 + Learn how to use the project online via a web address.
 
+--- no-print ---
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
@@ -34,6 +35,8 @@ Look for sprites that show and hide on different pages.
 
 </div>
 </div>
+
+--- /no-print ---
 
 --- /task ---
 
@@ -60,8 +63,6 @@ Your book could:
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
 </p>
-
-
 
 --- no-print ---
 
