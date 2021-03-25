@@ -36,9 +36,9 @@ Look for sprites that show and hide on different pages.
 </div>
 </div>
 
---- /no-print ---
-
 --- /task ---
+
+--- /no-print ---
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
