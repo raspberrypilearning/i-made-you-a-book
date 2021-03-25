@@ -30,6 +30,8 @@ It could be for a friend, a family member, a school class, people who share a ho
 
 --- /task ---
 
+### Get started
+
 Now it's time to start thinking about the pages (backdrops) and the characters and objects (sprites) in your book.
 
 --- task ---
