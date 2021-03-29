@@ -3,7 +3,7 @@
 In this project, you will create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
+A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
 You will:
@@ -11,30 +11,7 @@ You will:
 + Choose which skills to use to make your idea
 + Learn how to use the project online via a web address
 
-<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
-
-### PROJECT BRIEF: I made you a book
-<hr style="border-top: 2px solid black;">
-
-You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
-
-You must choose who to write the book for, such as "My little sister", "Dinosaur fans", or "People who are learning to sing".  
-
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
-
-Your book could:
-+ Have speech or sound effects
-+ Have text or art created in the Paint editor
-+ Have interactive features on each page
-</div>
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
-</p>
-
+--- no-print ---
 --- task ---
 
 <div style="display: flex; flex-wrap: wrap">
@@ -60,6 +37,32 @@ Look for sprites that show and hide on different pages.
 </div>
 
 --- /task ---
+
+--- /no-print ---
+
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
+
+### PROJECT BRIEF: I made you a book
+<hr style="border-top: 2px solid black;">
+
+You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
+
+You must choose who to write the book for, such as "My little sister", "Dinosaur fans", or "People who are learning to sing".  
+
+Your book should:
++ Have multiple pages, with a way to turn to the next page
++ Have at least one sprite
++ Say or do something different on every page
+
+Your book could:
++ Have speech or sound effects
++ Have text or art created in the Paint editor
++ Have interactive features on each page
+</div>
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+</p>
 
 --- no-print ---
 
