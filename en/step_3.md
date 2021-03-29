@@ -1,19 +1,19 @@
 ## Build and test
 
-Now it's time to make your book. Start small, and add more to your project if you have time.
+Now, it's time to make your book. Start small, and add more to your project if you have time.
 
-![multiple pages of a book](images/pages-rama.png)
+![Multiple pages of a book.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It's much easier to find and fix bugs before you make more changes.
+**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
 --- task ---
-You will need to decide what order to build your book. To get started, you could:
+You will need to decide in what order to build your book. To get started, you could:
 - Create all the pages as backdrops, or
 - Get one page working first
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything you want to your book. That's okay, you can always come back to it later. 
+You may not have time to add everything you want to your book. That's OK — you can always come back to it later. 
 </p>
 
 --- task ---
@@ -36,7 +36,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-Paint editor - backdrops and costumes:
+Paint editor — backdrops and costumes:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -69,7 +69,7 @@ Editor:
 
 --- task ---
 
-**Test:** Show someone else your project and get their feedback. Do you want make any changes to your book? 
+**Test:** Show someone else your project and get their feedback. Do you want to make any changes to your book? 
 
 --- /task ---
 
@@ -82,10 +82,10 @@ You might find some bugs in your code that you need to fix. Here are some common
 --- collapse ---
 
 ---
-title: My sprites is showing or hiding on the wrong pages
+title: My sprite is showing or hiding on the wrong pages
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} as needed. Check that you have chosen the correct backdrop name `when backdrop switches to`{:class="block3events"}. It helps to give backdrops good names to help spot problems like this.
+Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops good names, to help spot problems like this.
 
 --- /collapse ---
 
@@ -105,7 +105,7 @@ Add a `set rotation style left-right`{:class="block3motion"} or `set rotation st
 title: My sprite 'jumps' when it changes costume or bounces
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross with the cross hairs in the centre of the Paint editor).
+Make sure that the costume is centred in the Paint editor (line up the blue cross with the crosshair in the centre of the Paint editor).
 
 --- /collapse ---
 
@@ -115,7 +115,7 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 title: My sound does not play
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite from the **Sounds** tab. Check the volume on your computer and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"}`100`.
+Have you added a block to `play sound`{:class="block3sound"} when the sprite is clicked? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
@@ -145,11 +145,11 @@ Put your code inside a `forever`{:class="block3control"} block so it keeps runni
 title: My pages are in the wrong order
 ---
 
-Check what order your backdrops are in, in the Paint Editor. Click on the Stage pane and then the Backdrops tab to view the backdrops for your project.
+Check what order your backdrops are in, in the Paint editor. Click on the Stage pane and then the **Backdrops** tab to view the backdrops for your project.
 
 --- /collapse ---
 
-You might find a bug not listed here. Can you figure out how to fix it?
+You might find a bug that is not listed here. Can you work out how to fix it?
 
 We love hearing about your bugs and how you fixed them. Use the feedback button at the bottom of this page if you found a different bug in your project.
 

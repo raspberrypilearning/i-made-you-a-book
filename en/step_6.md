@@ -5,7 +5,7 @@ Did you meet the **project brief**? Think about your project and go through the 
 Does your book have:
 
 --- task ---
-Multiple pages with a way to turn to the next page
+Multiple pages, with a way to turn to the next page
 --- /task ---
 --- task ---
 At least one sprite
@@ -17,13 +17,13 @@ Different actions on every page
 Your book could also have:
 
 --- task ---
-Speech or sound effects.
+Speech or sound effects
 --- /task ---
 --- task ---
-Text or art created in the paint editor.
+Text or art created in the Paint editor
 --- /task ---
 --- task ---
-Interactive features on each page.
+Interactive features on each page
 --- /task ---
 
 Reflecting about how you made your book will help you in your future projects:
@@ -36,7 +36,7 @@ How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>
 What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark>
 --- /task ---
 
-### Now you are the author of a digital book!
+### Now, you are the author of a digital book!
 
 Take a moment to celebrate what you have made.
 
@@ -46,5 +46,5 @@ Where will you take your new powers? What will you make next? <mark>free text an
 
 --- /task ---
 
-![scratch cat in at party hat](images/reflect.png)
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 

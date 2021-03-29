@@ -1,38 +1,38 @@
 ## Introduction
 
-You are going to create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
+In this project, you will create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">project brief</span> describes what a project must do. It's a bit like being given a mission to complete.
 </p>
 
 You will:
-+ Think of original design ideas to create a digital book for someone specific,
-+ Choose which skills to use to make your idea,
-+ Learn how to use the project online via a web address.
++ Think of original design ideas to create a digital book for someone specific
++ Choose which skills to use to make your idea
++ Learn how to use the project online via a web address
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
 ### PROJECT BRIEF: I made you a book
 <hr style="border-top: 2px solid black;">
 
-You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book or something else.
+You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
 
-You must choose who to write the book for such as "My little sister", "Dinosaur fans" or "People who are learning to sing".  
+You must choose who to write the book for, such as "My little sister", "Dinosaur fans", or "People who are learning to sing".  
 
 Your book should:
-+ Have multiple pages with a way to turn to the next page,
-+ Have at least one sprite,
-+ Say or do something different on every page.
++ Have multiple pages, with a way to turn to the next page
++ Have at least one sprite
++ Say or do something different on every page
 
 Your book could:
-+ Have speech or sound effects,
-+ Have text or art created in the paint editor,
-+ Have interactive features on each page.
++ Have speech or sound effects
++ Have text or art created in the Paint editor
++ Have interactive features on each page
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">digital book</span> (or ebook) is a book created and read on a computer, tablet, phone or other electronic device. Have you read any books on a digital device?
+A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
 </p>
 
 --- task ---
@@ -80,7 +80,7 @@ Think about the topic of your book as you investigate these example projects to 
 </div>
 
 **A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones you want in the story, then click on the Stage to turn the page.
+Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -90,7 +90,7 @@ Click on the character and object to choose the ones you want in the story, then
 --- /no-print ---
 
 --- print-only ---
-![Complete project](images/showcase_static.png)
+![The completed project.](images/showcase_static.png)
 --- /print-only ---
 
 
