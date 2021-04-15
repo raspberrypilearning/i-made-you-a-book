@@ -1,8 +1,8 @@
-## Reflect
+## Reflection
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the items that apply to your project.
 
-Does your book have:
+Your book should have:
 
 --- task ---
 Multiple pages, with a way to turn to the next page
@@ -26,7 +26,7 @@ Text or art created in the Paint editor
 Interactive features on each page
 --- /task ---
 
-Reflecting about how you made your book will help you in your future projects:
+You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 How did you get your ideas? <mark>free text answer, 3 characters possibly</mark>

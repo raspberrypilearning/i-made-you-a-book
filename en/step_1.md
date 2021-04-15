@@ -3,7 +3,7 @@
 In this project, you will create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It's a bit like being given a mission to complete.
+A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
 </p>
 
 You will:
@@ -56,7 +56,7 @@ Your book should:
 
 Your book could:
 + Have speech or sound effects
-+ Have text or art created in the Paint editor
++ Have text or art that has been created in the Paint editor
 + Have interactive features on each page
 </div>
 
@@ -77,7 +77,7 @@ Think about the topic of your book as you investigate these example projects to 
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>

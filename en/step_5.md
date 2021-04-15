@@ -8,14 +8,14 @@ You could:
 - Record a sound 
 - Create a new costume in the Paint editor
 
-Each example project in the [Introduction](.) has a **See Inside** link for you to open the project in Scratch and look at the code to get ideas and see how they work.
+Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how the project works.
 
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at some 'I made you a book' projects created by community members in the Raspberry Pi Foundation's studio of 'I made you a book' Community Projects: [See inside](https://scratch.mit.edu/studios/29092393/){:target="_blank"}
+Take a look at projects created by community members in our 'I made you a book' Scratch studio: [See inside](https://scratch.mit.edu/studios/29092393/){:target="_blank"}
 
 --- save ---
 

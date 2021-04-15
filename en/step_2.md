@@ -2,7 +2,7 @@
 
 Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like! 
 
-![Stage with sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
 
 ### Why are you making the book?
 
@@ -26,7 +26,7 @@ It could be:
 
 Think about who you will make your book for (your **audience**).
 
-It could be for a friend, a family member, a school class, people who share a hobby, fans of a musician, or just for yourself.
+It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
 
 --- /task ---
 
@@ -36,14 +36,14 @@ Now, it's time to start to think about the pages (backdrops) and the characters 
 
 --- task ---
 
-Open a [new Scratch project](http://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
 
 --- collapse ---
 ---
 title: Working offline
 ---
 
-To set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
+For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://learning-admin.raspberrypi.org/en/projects/getting-started-scratch/1){:target="_blank"}.
 
 --- /collapse ---
 
