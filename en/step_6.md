@@ -29,11 +29,11 @@ Interactive features on each page
 You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
-How did you get your ideas? <mark>free text functionality to be added</mark>
+How did you get your ideas? <mark>Comming soon</mark>
 --- /task ---
 
 --- task ---
-What cool new thing(s) did you learn? <mark>free text functionality to be added</mark>
+What cool new thing(s) did you learn? <mark>Comming soon</mark>
 --- /task ---
 
 ### Now, you are the author of a digital book!
@@ -42,7 +42,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>free text functionality to be added</mark>
+Where will you take your new powers? What will you make next? <mark>Comming soon</mark>
 
 --- /task ---
 
