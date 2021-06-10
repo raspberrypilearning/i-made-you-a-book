@@ -1,15 +1,16 @@
 ## Introduction
 
-In this project, you will create a book in Scratch based on your own original idea. Your book will need to meet the **project brief**.
+Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
 </p>
 
 You will:
-+ Think of original design ideas to create a digital book for someone specific
-+ Choose which skills to use to make your idea
-+ Learn how to use the project online via a web address
+
++ Think of ideas to create a digital book for someone specific
++ Choose which skills to use to make your book
++ Share a web address for your book
 
 --- no-print ---
 --- task ---
@@ -42,10 +43,10 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: I made you a book
+### PROJECT BRIEF: Create a **digital book**
 <hr style="border-top: 2px solid black;">
 
-You need to create a **digital book**. Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
+Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
 
 You must choose who to write the book for, such as "My little sister", "Dinosaur fans", or "People who are learning to sing".  
 
@@ -70,7 +71,7 @@ A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book cre
 
 --- task ---
 
-Think about the topic of your book as you investigate these example projects to get more ideas:
+Get ideas for your book from these examples:
 
 **Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">

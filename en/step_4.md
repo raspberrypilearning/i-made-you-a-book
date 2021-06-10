@@ -2,7 +2,7 @@
 
 Now, it's time to share your book with your audience.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
 [[[share-scratch]]]
 
