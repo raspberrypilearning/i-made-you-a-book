@@ -93,6 +93,9 @@ Click on the character and object to choose the ones that you want in the story,
 --- /no-print ---
 
 --- print-only ---
+You are going to make some design decisions to create your character. **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
+https://scratch.mit.edu/studios/29082370
+
 ![The completed project.](images/showcase_static.png)
 --- /print-only ---
 
