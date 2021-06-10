@@ -8,7 +8,7 @@ You could:
 - Record a sound 
 - Create a new costume in the Paint editor
 
-Each example project in the [Introduction](.) has a **See inside** link for you to open the project in Scratch and look at the code to get ideas and see how the project works.
+Look at the projects in the 'I made you a book — Examples' Scratch studio to get ideas and see how the project works. [See inside](https://scratch.mit.edu/studios/29082370){:target="_blank"}
 
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
