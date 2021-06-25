@@ -12,7 +12,9 @@ You will:
 + Choose which skills to use to make your book
 + Share a web address for your book
 
---- no-print --- --- task ---
+--- no-print ---
+
+--- task ---
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
@@ -92,8 +94,12 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- /no-print ---
 
---- print-only --- You are going to make some design decisions to create your character. **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+--- print-only ---
 
-![The completed project.](images/showcase_static.png) --- /print-only ---
+You are going to make some design decisions to create your character. **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+
+![The completed project.](images/showcase_static.png)
+
+--- /print-only ---
 
 
