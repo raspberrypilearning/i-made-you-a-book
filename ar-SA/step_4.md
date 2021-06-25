@@ -1,8 +1,8 @@
 ## Share
 
-Now is the time to share your book with your audience.
+Now, it's time to share your book with your audience.
 
-If you have a Scratch account, you can share your project through Scratch. Check with an adult first. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
 [[[share-scratch]]]
 
@@ -14,8 +14,8 @@ If you have a Scratch account, and have shared your book project, keep an eye ou
 
 --- task ---
 
-Inspire others with your project by submitting it to our Scratch studio!
+Inspire the Raspberry Pi Foundation community with your project!
 
-To share your book with others who make the 'I made a book' project, please complete [this form.](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}
+To submit your project to our 'I made you a book' Scratch studio for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
