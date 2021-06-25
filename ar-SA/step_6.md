@@ -1,30 +1,30 @@
-## Reflect
+## Reflection
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the ones that apply to your project.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the items that apply to your project.
 
-Does your book have:
+Your book should have:
 
---- task --- Multiple pages with a way to turn to the next page --- /task --- --- task --- At least one sprite --- /task --- --- task --- Different actions on every page --- /task ---
+--- task --- Multiple pages, with a way to turn to the next page --- /task --- --- task --- At least one sprite --- /task --- --- task --- Different actions on every page --- /task ---
 
 Your book could also have:
 
---- task --- Speech or sound effects. --- /task --- --- task --- Text or art created in the paint editor. --- /task --- --- task --- Interactive features on each page. --- /task ---
+--- task --- Speech or sound effects --- /task --- --- task --- Text or art created in the Paint editor --- /task --- --- task --- Interactive features on each page --- /task ---
 
-Reflecting about how you made your book will help you in your future projects:
+You can reflect on how you made your book, to help you in your future projects:
 
---- task --- How did you get your ideas? <mark>free text answer, 3 characters possibly</mark> --- /task ---
+--- task --- How did you get your ideas? <mark>Comming soon</mark> --- /task ---
 
---- task --- What cool new thing(s) did you learn? <mark>free text answer, 3 characters possibly</mark> --- /task ---
+--- task --- What cool new thing(s) did you learn? <mark>Comming soon</mark> --- /task ---
 
-### Now you are the author of a digital book!
+### Now, you are the author of a digital book!
 
 Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>free text answer, 3 characters possibly</mark>
+Where will you take your new powers? What will you make next? <mark>Comming soon</mark>
 
 --- /task ---
 
-![scratch cat in at party hat](images/reflect.png)
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 
