@@ -7,9 +7,11 @@ Now, it's time to make your book. Start small, and add more to your project if y
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
 --- task ---
+
 You will need to decide in what order to build your book. To get started, you could:
 - Create all the pages as backdrops, or
 - Get one page working first
+
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
