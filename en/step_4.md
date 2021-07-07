@@ -16,6 +16,6 @@ If you have a Scratch account, and have shared your book project, keep an eye ou
 
 Inspire the Raspberry Pi Foundation community with your project! 
 
-To submit your project to our 'I made you a book' Scratch studio for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our 'I made you a book — Community' Scratch studio for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
