@@ -47,9 +47,9 @@ Look for sprites that show and hide on different pages.
 ### PROJECT BRIEF: Create a **digital book**
 <hr style="border-top: 2px solid black;">
 
-Your book could be a story, a tutorial, a fact book, an interactive book, or something else.
+Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
 
-You must choose who to write the book for, such as "My little sister", "Dinosaur fans", or "People who are learning to sing".  
+You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
 
 Your book should:
 + Have multiple pages, with a way to turn to the next page
@@ -72,7 +72,7 @@ A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book cre
 
 --- task ---
 
-Get ideas for your book from these examples:
+Explore these example projects to get ideas for your book:
 
 **Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -96,10 +96,10 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-You are going to make some design decisions to create your character. **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
+To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
 https://scratch.mit.edu/studios/29082370
 
-![The completed project.](images/showcase_static.png)
+![The 'Light the way home' project.](images/showcase_static.png)
 
 --- /print-only ---
 
