@@ -1,6 +1,6 @@
 ## Reflection
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the items that apply to your project.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
 Your book should have:
 
