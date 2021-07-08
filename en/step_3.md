@@ -77,7 +77,7 @@ The Scratch editor:
 
 --- task ---
 
-**Debug:** You might find some bugs in your code that you need to fix. Here are some common bugs:
+**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
 
@@ -125,7 +125,7 @@ Have you added a block to `play sound`{:class="block3sound"} when needed? If you
 title: Other sprites keep going in front of a sprite
 ---
 
-Use a `go to front layer`{:class="block3looks"} block.
+Add a `go to front layer`{:class="block3looks"} block.
 
 --- /collapse ---
 
