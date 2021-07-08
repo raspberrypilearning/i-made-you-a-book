@@ -59,7 +59,7 @@ Your book should:
 Your book could:
 + Have speech or sound effects
 + Have text or art that has been created in the Paint editor
-+ Have interactive features on each page
++ Have interactive features on every page
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
