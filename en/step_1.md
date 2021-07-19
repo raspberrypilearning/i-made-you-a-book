@@ -96,6 +96,8 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
+### Get inspiration
+
 To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
 https://scratch.mit.edu/studios/29082370
 
