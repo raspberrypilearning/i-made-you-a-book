@@ -1,6 +1,6 @@
 ## Reflection
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the items that apply to your project.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
 Your book should have:
 
@@ -32,13 +32,13 @@ Speech or sound effects
 
 --- task ---
 
-Text or art created in the Paint editor
+Text or art that has been created in the Paint editor
 
 --- /task ---
 
 --- task ---
 
-Interactive features on each page
+Interactive features on every page
 
 --- /task ---
 
@@ -46,13 +46,13 @@ You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 
-How did you get your ideas? <mark>Comming soon</mark>
+How did you get your ideas? <mark>Coming soon</mark>
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn? <mark>Comming soon</mark>
+What cool new thing(s) did you learn? <mark>Coming soon</mark>
 
 --- /task ---
 
@@ -62,7 +62,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>Comming soon</mark>
+Where will you take your new powers? What will you make next? <mark>Coming soon</mark>
 
 --- /task ---
 

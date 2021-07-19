@@ -59,7 +59,7 @@ Your book should:
 Your book could:
 + Have speech or sound effects
 + Have text or art that has been created in the Paint editor
-+ Have interactive features on each page
++ Have interactive features on every page
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -95,6 +95,8 @@ Click on the character and object to choose the ones that you want in the story,
 --- /no-print ---
 
 --- print-only ---
+
+### Get inspiration
 
 To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
 https://scratch.mit.edu/studios/29082370
