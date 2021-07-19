@@ -1,6 +1,6 @@
 ## Upgrade your project
 
-If you have time, you can upgrade your project. You might have ideas about what to add already, you could:
+If you have time, you can upgrade your project. You might have ideas about what to add already! You could:
 - Add more code to your sprites
 - Add another sprite
 - Record a sound 
