@@ -46,13 +46,13 @@ You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 
-How did you get your ideas? <mark>Coming soon</mark>
+How did you get your ideas?
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn? <mark>Coming soon</mark>
+What cool new thing(s) did you learn?
 
 --- /task ---
 
@@ -62,7 +62,7 @@ Take a moment to celebrate what you have made.
 
 --- task ---
 
-Where will you take your new powers? What will you make next? <mark>Coming soon</mark>
+Where will you take your new powers? What will you make next?
 
 --- /task ---
 
