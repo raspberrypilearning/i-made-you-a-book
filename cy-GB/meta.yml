@@ -1,9 +1,9 @@
 ---
 title: I made you a book
 hero_image: images/banner.png
-description: Create a book in Scratch with multiple pages to tell a story or share facts
+description: Create a book with multiple pages to tell a story or share facts
 version: 4
-listed: false
+listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
