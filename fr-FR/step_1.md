@@ -1,16 +1,16 @@
 ## Introduction
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+Crée ton propre livre avec Scratch. Ton livre devra respecter la **fiche de projet**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+La <span style="color: #0faeb0">**fiche de projet**</span> décrit ce qu'un projet doit faire. C'est un peu comme une mission à accomplir.
 </p>
 
-You will:
+Tu vas devoir :
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Penser à des idées afin de créer un livre numérique pour quelqu'un en particulier
++ Choisir les compétences à utiliser pour créer ton livre
++ Partager l'adresse Web de ton livre
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### Essaie le livre
 
-Click on the corner to turn the page.
+Clique sur le coin pour tourner la page.
 
-How many pages does the book have?
+Combien de pages le livre a-t-il ?
 
-Look for sprites that show and hide on different pages.
+Recherche les sprites qui s'affichent et se cachent sur différentes pages.
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Éclaire le chemin du retour** : [Voir à l'intérieur](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+### FICHE DE PROJET : Crée un **livre numérique**
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+Ton livre peut être un livre d'histoires, un manuel d'instructions, un livre relatant des faits, un livre interactif ou autre.
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+Tu dois choisir pour qui écrire le livre, comme « ma petite sœur », « les fans de dinosaures » ou « les gens qui apprennent à chanter ».  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+Ton livre doit :
++ Avoir plusieurs pages, avec un moyen de passer à la page suivante
++ Avoir au moins un sprite
++ Dire ou faire quelque chose de différent sur chaque page
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+Ton livre pourrait :
++ Avoir des paroles ou des effets sonores
++ Avoir du texte ou de l'art qui a été créé dans l'éditeur d'images
++ Avoir des fonctionnalités interactives sur chaque page
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+Un <span style="color: #0faeb0">**livre numérique**</span> (ou e-book) est un livre créé et lu sur un ordinateur, une tablette, un téléphone ou tout autre appareil électronique. As-tu déjà lu des livres sur un appareil numérique ?
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### Trouve l'inspiration
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+Explore ces exemples de projets pour trouver des idées pour ton livre :
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Monstre chatouilleur** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Scratch le chat se transforme** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**Une histoire de débogage** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+Clique sur le personnage et l'objet pour choisir ceux que tu veux utiliser dans l'histoire, puis clique sur la scène pour tourner la page.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Pour trouver des idées pour ton livre, **regarde** ces exemples de projets dans le studio Scratch « Je t'ai fait un livre — Exemples » : https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Le projet « Éclaire le chemin du retour ».](images/showcase_static.png)
 
 --- /print-only ---
 
