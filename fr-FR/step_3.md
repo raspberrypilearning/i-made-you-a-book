@@ -1,28 +1,28 @@
-## Build and test
+## Construire et tester
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+Maintenant, il est temps de créer ton livre. Commence doucement et développe ton projet si tu as le temps.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Plusieurs pages d'un projet de livre.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Astuce :** N'oublie pas de tester ton projet à chaque fois que tu ajoutes quelque chose. Il est beaucoup plus facile de trouver et de corriger les bogues avant d'apporter d'autres modifications.
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
+Tu devras décider dans quel ordre construire ton livre. Pour commencer, tu pourrais :
+- Créer toutes les pages comme arrière-plans, ou
+- Faire fonctionner une seule page en premier
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+Tu n'auras peut-être pas le temps d'ajouter tout ce que tu veux à ton livre au début. Ce n'est pas grave, tu peux toujours revenir sur ton projet plus tard. 
 </p>
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book:
+Tu as déjà acquis des compétences très utiles dans Scratch. Voici un rappel pour t'aider à réaliser ton livre :
 
-Code:
+Code :
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -38,7 +38,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+L'éditeur d'images — arrière-plans et costumes :
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound:
+Effets sonores :
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+L'éditeur Scratch :
 
 [[[scratch3-copy-code]]]
 
@@ -71,87 +71,80 @@ The Scratch editor:
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book?
+**Test :** Montre ton projet à quelqu'un d'autre et demande-lui son avis. Tu souhaites apporter des modifications à ton livre ?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Débogage :** Il est possible que tu trouves des bogues dans ton projet que tu dois corriger. Voici quelques bogues assez courants :
 
 --- collapse ---
-
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Un sprite s'affiche ou se cache sur la mauvaise page
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Vérifie que le sprite a des scripts `quand l'arrière-plan bascule sur`{:class="block3events"} avec le bloc `montrer`{:class="block3looks"} ou `cacher`{:class="block3looks"} selon les besoins. Vérifie que tu as choisi le bon nom d'arrière plan dans le `quand l'arrière-plan bascule sur`{:class="block3events"}. Il est utile de donner aux arrière-plans des noms que tu peux comprendre facilement, pour aider à repérer des problèmes comme celui-ci.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: A sprite is going upside down
+title : Un sprite part à l'envers
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Ajoute un bloc `fixer le sens de rotation gauche-droite`{:class="block3motion"} ou un `fixer le sens de rotation ne tourne pas`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title : Un sprite « saute » lorsqu'il change de costume ou rebondit
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Assure-toi que le costume est centré dans l'éditeur d'image (aligne la croix bleue dans le costume avec le réticule au centre de l'éditeur de peinture).
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: A sound does not play
+title : Un son ne joue pas
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+As-tu ajouté un bloc `jouer le son`{:class="block3sound"} en cas de besoin ? Si tu as copié le code d'un autre sprite, tu dois ajouter le son à ce sprite dans l'onglet **Sons**. Vérifie le volume sur ton ordinateur ou ta tablette et assure-toi que tu n'as pas baissé le volume avec le code — essayer `mettre le volume à`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: Other sprites keep going in front of a sprite
+title: D'autres sprites restent devant un sprite
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Ajoute un `aller à l'avant plan`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: A sprite only moves or changes once
+title : Un sprite ne bouge ou ne change qu'une seule fois
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Mets ton code dans un `répéter indéfiniment`{:class="block3control"} afin qu'il continue de s'exécuter.
 
 --- /collapse ---
 
 --- collapse ---
-
 ---
-title: The pages are in the wrong order
+titre : Les pages sont dans le mauvais ordre
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Vérifie l'ordre dans lequel se trouvent tes arrière-plans : clique sur le panneau Scène, puis sur l' onglet **Arrière-plans** pour afficher les arrière-plans de ton projet.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Tu pourrais trouver un bogue qui n'est pas répertorié ici. Peux-tu trouver comment le réparer?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Nous aimons avoir des nouvelles de tes bogues et de la façon dont tu les as corrigés. Utilise le bouton **Envoyer des commentaires** en bas de cette page et dis-nous si tu as trouvé un bogue différent dans ton projet.
 
 --- /task ---
 
