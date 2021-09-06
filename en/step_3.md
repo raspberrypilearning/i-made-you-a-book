@@ -80,7 +80,6 @@ The Scratch editor:
 **Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
-
 ---
 title: A sprite is showing or hiding on the wrong pages
 ---
@@ -90,7 +89,6 @@ Check that the sprite has `when backdrop switches to`{:class="block3events"} scr
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: A sprite is going upside down
 ---
@@ -100,7 +98,6 @@ Add a `set rotation style left-right`{:class="block3motion"} or `set rotation st
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: A sprite 'jumps' when it changes costume or bounces
 ---
@@ -110,7 +107,6 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: A sound does not play
 ---
@@ -120,7 +116,6 @@ Have you added a block to `play sound`{:class="block3sound"} when needed? If you
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: Other sprites keep going in front of a sprite
 ---
@@ -130,7 +125,6 @@ Add a `go to front layer`{:class="block3looks"} block.
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: A sprite only moves or changes once
 ---
@@ -140,7 +134,6 @@ Put your code inside a `forever`{:class="block3control"} block so that it keeps 
 --- /collapse ---
 
 --- collapse ---
-
 ---
 title: The pages are in the wrong order
 ---
