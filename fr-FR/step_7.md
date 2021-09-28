@@ -7,6 +7,7 @@ Désormais, tu peux donner vie à toutes tes idées dans Scratch. Essaie d'utili
 [[[scratch-coolest-projects]]]
 
 Tu peux également explorer nos [autres projets Scratch](https://projects.raspberrypi.org/fr-FR/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) et les essayer.
+
 ***
 Ce projet a été traduit par des bénévoles:
 

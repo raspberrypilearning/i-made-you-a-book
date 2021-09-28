@@ -138,7 +138,7 @@ Mets ton code dans un `répéter indéfiniment`{:class="block3control"} afin qu'
 title: Les pages sont dans le mauvais ordre
 ---
 
-Vérifie l'ordre dans lequel se trouvent tes arrière-plans : clique sur le panneau Scène, puis sur l' onglet **Arrière-plans** pour afficher les arrière-plans de ton projet.
+Vérifie l'ordre dans lequel se trouvent tes arrière-plans : clique sur le panneau Scène, puis sur l'onglet **Arrière-plans** pour afficher les arrière-plans de ton projet.
 
 --- /collapse ---
 

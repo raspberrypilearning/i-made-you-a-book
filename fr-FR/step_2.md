@@ -40,7 +40,7 @@ Ouvre un [nouveau projet Scratch](https://rpf.io/scratch-new){:target="_blank"}.
 
 --- collapse ---
 ---
-titre : Travailler hors ligne
+title: Travailler hors ligne
 ---
 
 Pour plus d'informations sur la configuration de Scratch pour une utilisation hors connexion, consulte [notre guide « Premiers pas avec Scratch »](https://projects.raspberrypi.org/fr-FR/projects/getting-started-scratch){:target="_blank"}.
