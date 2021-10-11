@@ -36,7 +36,7 @@ Now, it's time to start to think about the pages (backdrops) and the characters 
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 --- collapse ---
 ---
