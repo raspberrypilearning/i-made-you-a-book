@@ -1,16 +1,16 @@
-## Introduction
+## Inleiding
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+Maak een boek in Scratch op basis van je eigen idee. Je boek moet voldoen aan de **projectbeschrijving**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+Een <span style="color: #0faeb0">**projectbeschrijving**</span> beschrijft wat een project moet doen. Het is een beetje alsof je een missie krijgt om te voltooien.
 </p>
 
-You will:
+Je gaat:
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Ideeën bedenken om voor een speciaal iemand een digitaal boek te maken
++ Kiezen welke vaardigheden je wilt gebruiken om je boek te maken
++ Een webadres voor je boek delen
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### Probeer het
 
-Click on the corner to turn the page.
+Klik op de hoek om de pagina om te slaan.
 
-How many pages does the book have?
+Hoeveel pagina's heeft het boek?
 
-Look for sprites that show and hide on different pages.
+Zoek naar sprites die op verschillende pagina's worden weergegeven en verborgen.
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Verlicht de weg naar huis**: [Bekijk van binnen](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+### PROJECTBESCHRIJVING: Maak een **digitaal boek**
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+Jouw boek kan een verhalenboek, een instructieboek, een feitenboek, een interactief boek of iets anders zijn.
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+Je moet kiezen voor wie je het boek wilt schrijven, zoals 'mijn zusje', 'dinosaurusfans' of 'mensen die leren zingen'.  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+Je boek moet:
++ meerdere pagina's hebben, met een manier om naar de volgende pagina te gaan
++ minstens één sprite hebben
++ op elke pagina iets anders zeggen of doen
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+Je boek kan:
++ spraak- of geluidseffecten hebben
++ tekst of illustraties hebben die zijn gemaakt in de Paint-editor
++ interactieve functies op elke pagina hebben
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+Een <span style="color: #0faeb0">**digitaal boek**</span> (of e-book) is een boek dat is gemaakt en wordt gelezen op een computer, tablet, telefoon of ander elektronisch apparaat. Heb je al eens een boek op een digitaal apparaat gelezen?
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### Doe inspiratie op
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Kietelmonster**: [Bekijk van binnen](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Scratch kat past zich aan**: [Bekijk van binnen](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**Een verhaal over fouten opsporen**: [Bekijk van binnen](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+Klik op het personage en het object om degene te kiezen die je in het verhaal wilt hebben, en klik vervolgens op het werkgebied om de pagina om te slaan.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### Doe inspiratie op
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Om ideeën voor jouw boek op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Ik maak een boek voor je — Voorbeelden': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Het project 'Verlicht de weg naar huis'.](images/showcase_static.png)
 
 --- /print-only ---
 
