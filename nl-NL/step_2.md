@@ -36,7 +36,7 @@ Nu is het tijd om na te denken over de pagina's (achtergronden) en de personages
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch wordt in een nieuwe browsertabblad geopend.
+Open het [Ik heb een boek voor je gemaakt startproject](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch wordt in een nieuwe browsertabblad geopend.
 
 --- collapse ---
 ---
