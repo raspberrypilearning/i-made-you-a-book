@@ -36,7 +36,7 @@ Maintenant, il est temps de commencer à penser aux pages (arrière-plans) et au
 
 --- task ---
 
-Ouvre un [nouveau projet Scratch](https://rpf.io/scratch-new){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 --- collapse ---
 ---
