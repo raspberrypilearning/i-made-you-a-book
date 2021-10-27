@@ -1,63 +1,63 @@
-## Your idea
+## Twój pomysł
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Użyj ten etap do zaplanowania swojej książki. Możesz planować po prostu myśląc, dodając tła i duszki w Scratchu lub rysując albo pisząc — lub jak tylko chcesz!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Scena pokazująca duszka myślącego "Niektóre świetne pomysły pojawiają się podczas zabawy. Będziesz znajdować dobre pomysły przypadkiem."](images/best-ideas.png)
 
-### Why are you making the book?
+### Dlaczego robisz tę książkę?
 
 --- task ---
 
-Think about the purpose of your book.
+Pomyśl o przeznaczeniu swojej książki.
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+To może być:
+- Aby zabawiać młodsze dziecko
+- Aby podzielić się ważnym przesłaniem, takim jak zachęcanie do recyklingu
+- Aby nauczyć kogoś jak coś zrobić, na przykład ulubione jedzenie
+- Aby opowiedzieć historię
+- Aby podzielić się czymś o sobie
+- Aby wyrazić siebie i być kreatywnym
 
 --- /task ---
 
-### Who is it for?
+### Dla kogo to jest?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+Zastanów się, dla kogo napiszesz swoją książkę (twoich **odbiorców**).
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+To może być dla przyjaciela, członka rodziny, dla Twojej klasy, dla ludzi, którzy mają wspólne hobby, dla fanów jakiegoś muzyka lub po prostu dla siebie.
 
 --- /task ---
 
-### Get started
+### Zaczynamy
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Teraz nadszedł czas, aby zacząć myśleć o stronach (tłach) oraz postaciach i obiektach (duszkach) w twojej książce.
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
 
 --- collapse ---
 ---
-title: Working offline
+title: Praca offline
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Aby uzyskać informacje o tym, jak skonfigurować Scratcha do użytku w trybie offline, odwiedź [nasz przewodnik „Wprowadzenie do Scratcha”](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+Użyj swój nowy projekt w Scratchu, papier i długopis albo obu metod, aby zaplanować pomysły na swoją książkę.
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+Pomyśl o tłach i duszkach:
+- Jakie obrazki lub kolory tła użyjesz w swojej książce?
+- Co użytkownicy mają zrobić w Twojej książce, aby przejść do następnej strony?
+- Jakie postacie i przedmioty będziesz mieć w swojej książce?
+- Jak duszki będą animowane i jak się zachowają na każdej stronie?
 
 --- /task ---
 
