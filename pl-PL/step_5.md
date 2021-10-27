@@ -1,21 +1,21 @@
-## Upgrade your project
+## Ulepsz swój projekt
 
-If you have time, you can upgrade your project. You might have ideas about what to add already!
+Jeśli masz czas, możesz ulepszyć swój projekt. Być może masz już pomysły na to, co dodać!
 
-You could:
-- Add more code to your sprites
-- Add another sprite
-- Record a sound
-- Create a new costume in the Paint editor
+Mógłbyś:
+- dodać więcej kodu do swojego duszka
+- dodać kolejnego duszka
+- nagrać dźwięk
+- stworzyć nowy kostium w edytorze Paint
 
-Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Każdy projekt w [studio Scratch 'Zrobiłem ci książkę — Przykłady'](https://scratch.mit.edu/studios/29082370){:target="_blank"} ma link **Zajrzyj do środka**, który możesz kliknąć, aby otworzyć projekt w edytorze Scratch i spojrzeć na jego kod, i w ten sposób uzyskać pomysły i zobaczyć, jak działa projekt.
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg idzie do domu**: [Zajrzyj do środka](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
+Spójrz na nasze studio Scratch ['Zrobiłem ci książkę — Społeczność'](https://scratch.mit.edu/studios/29092393/){:target="_blank"}, aby zobaczyć projekty stworzone przez członków społeczności.
 
 --- save ---
 
