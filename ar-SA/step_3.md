@@ -1,28 +1,28 @@
-## Build and test
+## بناء واختبار
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+حان الوقت الآن لإعداد كتابك. ابدأ بمشروع صغير ، وأضف المزيد إلى مشروعك إذا كان لديك الوقت.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![صفحات متعددة لمشروع الكتاب.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**نصيحة:** تذكر أن تختبر مشروعك في كل مرة تضيف شيئًا. من الأسهل بكثير العثور على الأخطاء وإصلاحها قبل إجراء المزيد من التغييرات.
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
+سوف تحتاج إلى أن تقرر في أي ترتيب لبناء كتابك. للبدء ، يمكنك:
+- إنشاء جميع الصفحات كخلفيات ، أو
+- الحصول على صفحة واحدة تعمل أولاً
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+قد لا يكون لديك الوقت لإضافة كل ما تريد إلى كتابك في البداية. لا بأس بذلك - يمكنك دائمًا العودة إلى مشروعك لاحقًا. 
 </p>
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book:
+لقد اكتسبت بعض المهارات المفيدة حقًا في Scratch. إليك تذكير لمساعدتك في صنع كتابك:
 
-Code:
+التعليمات البرمجية:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -38,7 +38,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+محرر الرسام - الخلفيات والأزياء:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound:
+الصوت:
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+محرر Scratch:
 
 [[[scratch3-copy-code]]]
 
@@ -71,80 +71,80 @@ The Scratch editor:
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book?
+**اختبار:** اعرض مشروعك على شخص آخر واطلب منه إبداء الرأي. هل تريد إجراء أي تغييرات على كتابك؟
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: كائن يظهر أو يختبئ في الصفحات الخطأ
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+تأكد من أن الكائن يحتوي على `عندما تتبدل الخلفية إلى`{: class = "block3events"} مع `عرض`{: class = "block3looks"} أو `إخفاء`{: class = "block3looks"} حسب الحاجة. تأكد من أنك اخترت اسم الخلفية الصحيح في `عندما تتبدل الخلفية إلى`{: class = "block3events"}. من المفيد إعطاء أسماء الخلفيات التي يمكنك فهمها بسهولة ، للمساعدة في اكتشاف مثل هذه المشاكل.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: كائن ينقلب رأسًا على عقب
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+إضافة لبنة`نمط الدوران يمين-يسار`{: فئة = "block3motion"} أو `نمط الدوران لا دوران`{: فئة = "block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: "يقفز" الكائن عندما يغير زيه أو يرتد
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+تأكد من أن الزي يتم توسيطه في محرر الرسام (قم بمحاذاة الصليب الأزرق في الزي مع علامة التقاطع في وسط محرر الرسام).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: الصوت لا يعمل
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+هل أضفت لبنة إلى `تشغيل الصوت`{: class = "block3sound"} عند الحاجة؟ إذا نسخت رمزًا من كائن آخر ، فستحتاج إلى إضافة الصوت إلى هذا الكائن في علامة التبويب **الأصوات** تتحقق من مستوى الصوت على جهاز الكمبيوتر أو الجهاز اللوحي، وتأكد من أنك لم تخفض مستوى الصوت باستخدام التعليمة البرمجية- محاولة `اجعل القيمة إلى`{: فئة = "block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: الكائنات الأخرى تستمر في التقدم أمام كائن ما
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+أضف `انتقل إلى`{: class = "block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: يتحرك الكائن أو يتغير مرة واحدة فقط
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+ضع التعليمة البرمجية داخل `كرر باستمرار`{: class = "block3control"} بحيث تستمر في العمل.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: ترتيب الصفحات خاطئ
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+تحقق من ترتيب الخلفيات الخاصة بك: انقر فوق جزء المنصة ثم على **الخلفيات** لعرض الخلفيات الخاصة بمشروعك.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم **إرسال ملاحظات** في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
 
 --- /task ---
 
