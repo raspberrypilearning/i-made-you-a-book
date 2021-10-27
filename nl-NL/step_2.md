@@ -1,63 +1,63 @@
-## Your idea
+## Jouw idee
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Gebruik deze stap om je boek te plannen. Je kunt plannen door gewoon na te denken, achtergronden en sprites toe te voegen in Scratch, of te tekenen of te schrijven - of wat je maar wilt!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Het podium toont een sprite die denkt, "Enkele van de beste ideeën komen voort uit spelen. Goede ideeën kom je vanzelf tegen."](images/best-ideas.png)
 
-### Why are you making the book?
+### Waarom maak je het boek?
 
 --- task ---
 
-Think about the purpose of your book.
+Denk na over het doel van je boek.
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+Dat kan zijn:
+- Om een jonger kind te vermaken
+- Om een belangrijke boodschap te delen, zoals recycling (hergebruik) aanmoedigen
+- Iemand leren hoe hij iets moet doen, zoals hoe je je favoriete eten maakt
+- Een verhaal vertellen of navertellen
+- Om iets over jezelf te delen
+- Om jezelf te uiten en creatief te zijn
 
 --- /task ---
 
-### Who is it for?
+### Voor wie is het?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+Bedenk voor wie je je boek gaat maken (je **doelgroep**).
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+Het kan voor een vriend zijn, voor een familielid, voor een schoolklas, voor mensen die een hobby delen, voor fans van een muzikant, of gewoon voor jezelf.
 
 --- /task ---
 
-### Get started
+### Aan de slag
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Nu is het tijd om na te denken over de pagina's (achtergronden) en de personages en voorwerpen (sprites) in je boek.
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch wordt in een nieuwe browsertabblad geopend.
 
 --- collapse ---
 ---
-title: Working offline
+title: Offline werken
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Voor informatie over hoe je Scratch instelt voor offline gebruik, ga je naar [onze handleiding 'Aan de slag met Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+Gebruik je nieuwe Scratch-project, pen en papier of beide om ideeën voor je boek te plannen.
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+Denk na over de achtergronden en sprites:
+- Welke achtergronden of achtergrondkleuren gebruik je in je boek?
+- Hoe gaan gebruikers je boek gebruiken om naar de volgende pagina te gaan?
+- Welke personages en voorwerpen ga je gebruiken in je boek?
+- Hoe zullen de sprites op elke pagina worden geanimeerd en met elkaar omgaan?
 
 --- /task ---
 
