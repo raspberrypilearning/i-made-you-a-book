@@ -1,21 +1,21 @@
-## Upgrade your project
+## قم بتطوير مشروعك
 
-If you have time, you can upgrade your project. You might have ideas about what to add already!
+إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد يكون لديك أفكار حول ما تضيفه بالفعل!
 
-You could:
-- Add more code to your sprites
-- Add another sprite
-- Record a sound
-- Create a new costume in the Paint editor
+يمكنك:
+- إضافة المزيد من التعليمات البرمجية إلى الكائنات الخاصة بك
+- إضافة كائن آخر
+- تسجيل صوت
+- قم بإنشاء خلفية جديدة في محرر الرسام
 
-Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+كل مشروع في ['لقد صنعت لك كتابًا - أمثلة' Scratch معارضي في](https://scratch.mit.edu/studios/29082370){: target = "_ blank"} به **See inside** ، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على المقاطع البرمجية للحصول على أفكار ومعرفة كيفية عمل المشروع.
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg يذهب إلى المنزل**: [انظر من الداخل](https://scratch.mit.edu/projects/499498152/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
+ألق نظرة على ['لقد صنعت لك كتابًا - المجتمع' Scratch معارضي في](https://scratch.mit.edu/studios/29092393/){: target = "_ blank"} لمشاهدة المشروعات التي أنشأها أعضاء المجتمع.
 
 --- save ---
 
