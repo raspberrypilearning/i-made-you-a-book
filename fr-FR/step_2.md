@@ -36,7 +36,7 @@ Maintenant, il est temps de commencer à penser aux pages (arrière-plans) et au
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
+Ouvre le [Je t'ai fait un livre projet de démarrage](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
 --- collapse ---
 ---
