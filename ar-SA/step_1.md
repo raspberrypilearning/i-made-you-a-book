@@ -1,16 +1,16 @@
-## Introduction
+## المقدمة
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+قم بإنشاء كتاب باستخدام منصة Scratch بناءً على فكرتك الخاصة. سيحتاج كتابك إلى تلبية **ملخص المشروع**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">** موجز المشروع **</span> يوضح ما يجب ان يفعله المشروع. إنه يشبه إلى حد ما إعطاء مهمة لإكمالها.
 </p>
 
-You will:
+سوف:
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ تفكر في أفكار لإنشاء كتاب رقمي لشخص معين
++ تختار المهارات التي ستستخدمها في صنع كتابك
++ تشارك عنوان الموقع الالكتروني لكتابك
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### جربها
 
-Click on the corner to turn the page.
+انقر على الزاوية لقلب الصفحة.
 
-How many pages does the book have?
+كم عدد صفحات الكتاب؟
 
-Look for sprites that show and hide on different pages.
+ابحث عن الكائنات المتحركة التي تظهر وتختفي في صفحات مختلفة.
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+** أضيء الطريق إلى المنزل **: [اطلع على البرنامج] (https://scratch.mit.edu/projects/499860786/editor) {: target = "_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+### ملخص المشروع: إنشاء ** كتاب رقمي **
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+يمكن أن يكون كتابك قصة أو كتابًا تعليميًا أو كتاب حقائق أو كتابًا تفاعليًا أو أي شيء آخر.
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+يجب أن تختار لمن تكتب الكتاب ، مثل "أختي الصغيرة" أو "عشاق الديناصورات" أو "الأشخاص الذين يتعلمون الغناء".  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+يجب أن يكون كتابك:
++ يحتوي على صفحات متعددة ، مع طريقة للانتقال إلى الصفحة التالية
++ يتضمن كائن واحد على الأقل
++ يقول أو يفعل شيئًا مختلفًا في كل صفحة
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+يمكن لكتابك:
++ الحصول على كلام أو مؤثرات صوتية
++ الخصول على نص أو فن تم إنشاؤه في محرر الرسام
++ التمتع بميزات تفاعلية في كل صفحة
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+A <span style="color: #0faeb0">** كتاب رقمي **</span> (أو كتاب إلكتروني) هو كتاب تم إنشاؤه وقراءته على جهاز كمبيوتر أو كمبيوتر لوحي أو هاتف أو أي جهاز إلكتروني آخر. هل قرأت أي كتب على جهاز رقمي؟
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### احصل على الإلهام
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+استكشف هذه الأمثلة على المشاريع للحصول على أفكار لكتابك:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**دغدغة وحش**: [انظر من الداخل](https://scratch.mit.edu/projects/500189097/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**يمزج قطة Scratch في**: [انظر من الداخل](https://scratch.mit.edu/projects/498968472/editor){: target = "_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**قصة تصحيح أخطاء**: [شاهد ما بالداخل](https://scratch.mit.edu/projects/498960446/editor){: target = "_ blank"}
+انقر فوق الشخصية والكائن لاختيار العناصر التي تريدها في القصة ، ثم انقر فوق "المرحلة" لقلب الصفحة.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### احصل على الإلهام
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+للحصول على أفكار لكتابك، **انظر في الداخل** مثال على مشاريع في 'صممت لك كتاباً' استوديو سكراتش: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![مشروع "اضاءة طريق المنزل".](images/showcase_static.png)
 
 --- /print-only ---
 
