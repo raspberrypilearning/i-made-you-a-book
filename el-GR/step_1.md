@@ -1,16 +1,16 @@
-## Introduction
+## Εισαγωγή
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+Δημιούργησε ένα βιβλίο στο Scratch με βάση μια δική σου ιδέα. Το βιβλίο σου θα πρέπει να πληροί τη **σύνοψη έργου**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+Μια <span style="color: #0faeb0">**σύνοψη έργου **</span> περιγράφει το τι πρέπει να κάνει ένα έργο. Είναι σαν να σου έχει δοθεί μια αποστολή να ολοκληρώσεις.
 </p>
 
-You will:
+Θα χρειαστεί να:
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Σκεφτείς ιδέες για να δημιουργήσεις ένα ψηφιακό βιβλίο για κάποιο συγκεκριμένο άτομο
++ Επιλέξεις ποιες δεξιότητες θα χρησιμοποιήσεις για να φτιάξεις το βιβλίο σου
++ Κοινοποιήσεις μια διεύθυνση ιστοσελίδας για το βιβλίο σου
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### Δοκίμασε το
 
-Click on the corner to turn the page.
+Κάνε κλικ στη γωνία για να γυρίσεις σελίδα.
 
-How many pages does the book have?
+Πόσες σελίδες έχει το βιβλίο;
 
-Look for sprites that show and hide on different pages.
+Αναζήτησε αντικείμενα που εμφανίζονται και εξαφανίζονται σε διάφορες σελίδες.
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+** Φώτισε τον δρόμο για το σπίτι **: [Δείτε μέσα] (https://scratch.mit.edu/projects/499860786/editor) {: target = "_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+### ΣΥΝΟΨΗ ΕΡΓΟΥ: Δημιούργησε ένα ** ψηφιακό βιβλίο **
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+Το βιβλίο σου θα μπορούσε να είναι ένα βιβλίο ιστοριών, ένα εγχειρίδιο, ένα βιβλίο γεγονότων, ένα διαδραστικό βιβλίο ή κάτι άλλο.
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+Πρέπει να επιλέξεις για ποιον θα γράψεις το βιβλίο, όπως για "τη μικρή μου αδερφή", για "θαυμαστές δεινοσαύρων" ή για "άτομα που μαθαίνουν να τραγουδούν".  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+Το βιβλίο σου θα πρέπει να:
++ Έχει πολλές σελίδες, με έναν τρόπο να γυρνάει από τη μία σελίδα στην επόμενη
++ Έχει τουλάχιστον ένα αντικείμενο
++ Λέει ή κάνει κάτι διαφορετικό σε κάθε σελίδα
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+Το βιβλίο σου θα μπορούσε να:
++ Έχει ομιλία ή ηχητικά εφέ
++ Έχει κάποιο κείμενο ή κάποια ζωγραφιά που έχει δημιουργηθεί στον επεξεργαστή ζωγραφικής
++ Έχει διαδραστικές λειτουργίες σε κάθε σελίδα
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+Ένα <span style="color: #0faeb0">** ψηφιακό βιβλίο**</span> (ή ηλεκτρονικό βιβλίο) είναι ένα βιβλίο που δημιουργείται και διαβάζεται σε υπολογιστή, tablet, τηλέφωνο ή άλλη ηλεκτρονική συσκευή. Έχεις διαβάσει ποτέ βιβλία σε ψηφιακή συσκευή;
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### Βρες έμπνευση
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+Μελέτησε τα παρακάτω παραδείγματα έργων για να πάρεις ιδέες για το βιβλίο σου:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Το τέρας που γαργαλάει**: [Δες μέσα](https://scratch.mit.edu/projects/500189097/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Οι μεταμορφώσεις της Γάτας του Scratch**: [Δες εδώ](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**Μια ιστορία εντοπισμού σφαλμάτων**: [Δες μέσα](https://scratch.mit.edu/projects/498960446/editor){:target="_ blank"}
+Κάνε κλικ στον χαρακτήρα και το αντικείμενο για να επιλέξεις αυτούς που θέλεις στην ιστορία και, στη συνέχεια, κάνε κλικ στο υπόβαθρο για να γυρίσεις σελίδα.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### Βρες έμπνευση
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Για να πάρεις ιδέες για το βιβλίο σου, **δες μέσα** στα παραδείγματα έργων στο Scratch studio 'I made you a book — Examples': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Το έργο «Φώτισε το δρόμο για το σπίτι».](images/showcase_static.png)
 
 --- /print-only ---
 
