@@ -1,23 +1,23 @@
 ---
-title: I made you a book
+title: لقد صنعت لك كتابا
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: أنشئ كتابًا من عدة صفحات لسرد قصة أو مشاركة الحقائق
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Your idea
+    title: فكرتك
   - 
-    title: Build and test
+    title: بناء واختبار
   - 
-    title: Share
+    title: مشاركة
   - 
-    title: Upgrade your project
+    title: قم بتطوير مشروعك
   - 
-    title: Reflection
+    title: انعكاس
   - 
-    title: What next?
+    title: ما هي الخطوة التالية؟
