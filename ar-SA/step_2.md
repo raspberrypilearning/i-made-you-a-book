@@ -1,63 +1,63 @@
-## Your idea
+## فكرتك
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+استخدم هذه الخطوة لوضع خطة لتصميم كتابك. يمكنك التخطيط بمجرد التفكير ، وإضافة الخلفيات والكائنات في Scratch ، أو الرسم أو الكتابة - أو كيفما تريد!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![المسرح يظهر تفكير الشخصية، "تأتي بعض أفضل الأفكار من اللعب. ستجد أفكارًا جيدة عن طريق الصدفة."](images/best-ideas.png)
 
-### Why are you making the book?
+### لماذا قمت بتصميم الكتاب؟
 
 --- task ---
 
-Think about the purpose of your book.
+فكر في الغرض من كتابك.
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+من الممكن أن تكون:
+- للترفيه عن طفل أصغر سنًا
+- لمشاركة رسالة مهمة ، مثل تشجيع إعادة التدوير
+- لتعليم شخص ما كيفية عمل شيء ما ، مثل كيفية صنع طعامك المفضل
+- لرواية أو إعادة سرد قصة
+- لمشاركة شيء عن نفسك
+- للتعبير عن نفسك وتكون مبدعا
 
 --- /task ---
 
-### Who is it for?
+### لمن هذا؟
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+فكر حول لمن سوف تعد كتابك (**جمهورك**).
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+يمكن أن يكون لصديق أو لأحد أفراد الأسرة أو لصف المدرسة أو للأشخاص الذين يشاركون هواية أو لمحبي الموسيقي أو لنفسك فقط.
 
 --- /task ---
 
-### Get started
+### البدء
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+حان الوقت الآن للبدء في التفكير في الصفحات (الخلفيات) و (الشخصيات) في كتابك.
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. سيتم فتح Scratch في علامة تبويب متصفح أخرى.
 
 --- collapse ---
 ---
-title: Working offline
+title: العمل دون اتصال
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+للحصول على معلومات حول كيفية إعداد Scratch للاستخدام دون اتصال بالانترنت، قم بزيارة دليل [" العمل مع Scratch "](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+استخدم مشروع Scratch الجديد أو قلم وورقة أو كليهما لتخطيط أفكار لكتابك.
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+فكر في الخلفيات والشخصيات:
+- ما الخلفيات أو ألوان الخلفية التي ستستخدمها في كتابك؟
+- كيف سيتفاعل المستخدمون مع كتابك للانتقال إلى الصفحة التالية؟
+- ما هي الشخصيات والأشياء التي ستكون لديك في كتابك؟
+- كيف ستتحرك الشخصيات وتتفاعل في كل صفحة؟
 
 --- /task ---
 
