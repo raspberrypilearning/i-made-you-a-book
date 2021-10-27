@@ -1,28 +1,28 @@
-## Build and test
+## Construye y prueba
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+Ahora es el momento de hacer tu libro. Empieza poco a poco y agrega más a tu proyecto si tienes tiempo.
 
 ![Multiple pages of a book project.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
+Deberás decidir en qué orden crear tu libro. Para comenzar, puedes:
 - Create all the pages as backdrops, or
 - Get one page working first
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+Es posible que al principio no tengas tiempo para agregar todo lo que quieras a tu libro. Está bien — siempre puedes volver a tu proyecto más tarde. 
 </p>
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book:
+Has desarrollado algunas habilidades realmente útiles en Scratch. Aquí hay un recordatorio para ayudarte a crear tu libro:
 
-Code:
+Código:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound:
+Sonido:
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+El editor de Scratch:
 
 [[[scratch3-copy-code]]]
 
@@ -71,17 +71,17 @@ The Scratch editor:
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book?
+**Test:** Show someone else your project and ask for their feedback. ¿Quieres hacer cambios a tu libro?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Depurar:** Es posible que encuentres algunos errores en tu proyecto que necesites corregir. A continuación, se muestran algunos errores comunes:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Un objeto se muestra u oculta en las páginas incorrectas
 ---
 
 Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
