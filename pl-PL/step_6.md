@@ -1,4 +1,4 @@
-## Przemyślenia
+## Powtórka
 
 Czy udało Ci się spełnić **założenia projektu**? Pomyśl o swoim projekcie i przejrzyj poniższą listę kontrolną oraz sprawdź funkcje, które posiada Twój projekt.
 
