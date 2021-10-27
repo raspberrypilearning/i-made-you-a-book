@@ -1,63 +1,63 @@
-## Your idea
+## Η ιδέα σου
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Χρησιμοποίησε αυτό το βήμα για να σχεδιάσεις το βιβλίο σου. Μπορείς να το σχεδιάσεις απλώς στη σκέψη σου, προσθέτοντας υπόβαθρα και αντικείμενα στο Scratch, ζωγραφίζοντας, γράφοντας - όπως θέλεις!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Το Υπόβαθρο δείχνει ένα αντικείμενο να σκέφτεται, "Μερικές από τις καλύτερες ιδέες προέρχονται από το παιχνίδι. Θα βρεις καλές ιδέες ακόμη και κατά τύχη."](images/best-ideas.png)
 
-### Why are you making the book?
+### Γιατί φτιάχνεις το βιβλίο;
 
 --- task ---
 
-Think about the purpose of your book.
+Σκέψου τον σκοπό του βιβλίου σου.
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+Θα μπορούσε να είναι:
+- Για να διασκεδάσεις ένα μικρότερο παιδί
+- Για να μοιραστείς ένα σημαντικό μήνυμα, όπως η ενθάρρυνση της ανακύκλωσης
+- Για να διδάξεις σε κάποιον πώς να κάνει κάτι, όπως πώς να φτιάχνει το αγαπημένο σου φαγητό
+- Για να πεις ή να ξαναπείς μία ιστορία
+- Για να μοιραστείς κάποια προσωπική σου ιστορία ή πληροφορία
+- Για να εκφραστείς και να είσαι δημιουργικός
 
 --- /task ---
 
-### Who is it for?
+### Σε ποιον απευθύνεται;
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+Σκέψου για ποιον θα φτιάξεις το βιβλίο σου (το **κοινό σου**).
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+Θα μπορούσε να είναι για έναν φίλο, για ένα μέλος της οικογένειας, για μια σχολική τάξη, για άτομα που μοιράζονται ένα χόμπι, για θαυμαστές ενός μουσικού ή μόνο για εσένα.
 
 --- /task ---
 
-### Get started
+### Ξεκινήστε
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Τώρα, ήρθε η ώρα να αρχίσεις να σκέφτεσαι τις σελίδες (υπόβαθρα) και τους χαρακτήρες και τα αντικείμενα (αντικείμενα) στο βιβλίο σου.
 
 --- task ---
 
-Open a [new Scratch project](https://rpf.io/scratch-new){:target="_blank"}. Scratch will open in another browser tab.
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
 
 --- collapse ---
 ---
-title: Working offline
+title: Εργασία εκτός σύνδεσης
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκεφτείτε τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch): target = "_ blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+Χρησιμοποίησε το νέο σου έργο Scratch, ένα στυλό και χαρτί ή και τα δύο για να σχεδιάσεις ιδέες για το βιβλίο σου.
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+Σκέψου τα υπόβαθρα και τα αντικείμενα:
+- Ποια υπόβαθρα ή χρώματα φόντου θα χρησιμοποιήσεις στο βιβλίο σου;
+- Πώς θα αλληλεπιδράσουν οι χρήστες με το βιβλίο σου για να μεταβούν στην επόμενη σελίδα;
+- Ποιους χαρακτήρες και αντικείμενα θα έχεις στο βιβλίο σου;
+- Πώς θα ζωντανεύουν και θα αλληλεπιδρούν τα αντικείμενα σε κάθε σελίδα;
 
 --- /task ---
 
