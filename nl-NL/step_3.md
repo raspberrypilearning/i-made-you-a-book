@@ -1,26 +1,26 @@
-## Build and test
+## Bouwen en testen
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+Nu is het tijd om je boek te maken. Begin klein en voeg meer toe aan je project als je tijd hebt.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Meerdere pagina's van een boekproject.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tip:** Denk eraan om je project elke keer dat je iets toevoegt, te testen. Het is veel gemakkelijker om fouten te vinden en op te lossen voordat je meer wijzigingen aanbrengt.
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
+Je moet beslissen in welke volgorde je jouw boek wilt bouwen. Om te beginnen, kun je:
+- elke pagina's maken als achtergrond, of
+- eerst één pagina werkend maken
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+Misschien heb je in het begin geen tijd om alles wat je wilt aan je boek toe te voegen. Dat is OK - je kunt altijd later terugkomen naar jouw project. 
 </p>
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book:
+Je hebt een aantal echt nuttige vaardigheden in Scratch opgebouwd. Hier is een geheugensteuntje om je te helpen bij het maken van jouw boek:
 
 Code:
 
@@ -38,7 +38,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+De Paint-editor — achtergronden en uiterlijken:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound:
+Geluid:
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+De Scratch-editor:
 
 [[[scratch3-copy-code]]]
 
@@ -67,86 +67,86 @@ The Scratch editor:
 [[[scratch3-duplicate-sprite]]]
 
 
---- /task ---
+-- /task ---
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book?
+**Test:** Laat iemand anders je project zien en vraag om terugkoppeling. Wil je iets veranderen aan je boek?
 
---- /task ---
+-- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debug:** Mogelijk vindt je enkele fouten in jouw project die je moet oplossen. Hier zijn enkele veelvoorkomende fouten:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Er wordt een sprite op de verkeerde pagina's weergegeven of verborgen
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Controleer of de sprite bij `wanneer achtergrond verandert naar`{:class="block3events"} scripts een `verschijn`{:class="block3looks"} of `verdwijn`{:class="block3looks"} blok heeft. Controleer of je de juiste achtergrond naam hebt gekozen in het `wanneer achtergrond verandert naar`{:class="block3events"} blok. Het helpt om achtergronden namen te geven die je gemakkelijk kunt begrijpen, om dit soort problemen op te sporen.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: Een sprite gaat ondersteboven staan
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Voeg een `maak draaistijl links-rechts`{:class="block3motion"} blok toe of `maak de draaistijl niet draaien`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Een sprite 'springt' wanneer hij van uiterlijk verandert of stuitert
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Zorg ervoor dat het uiterlijk gecentreerd is in de Paint-editor (lijn het blauwe kruis in het uiterlijk op met het dradenkruis in het midden van de Paint-editor).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Er wordt geen geluid afgespeeld
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Heb je een `start geluid`{:class="block3sound"} blok toegevoegd waar dat nodig is? Als je code van een andere sprite hebt gekopieerd, moet je het geluid aan deze sprite toevoegen op het tabblad **Geluiden**. Controleer het volume op je computer of tablet en zorg ervoor dat je het volume niet met code hebt verlaagd — probeer `zet volume op`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Andere sprites worden steeds voor een sprite weergegeven
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Voeg een `ga naar laag voorgrond`{:class="block3looks"} blok toe.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Een sprite beweegt of verandert maar één keer
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Zet je code in een `herhaal`{:class="block3control"} blok zodat het blijft bewegen.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: De pagina's staan in de verkeerde volgorde
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Controleer in welke volgorde je achtergronden zich bevinden: klik op het deelvenster Speelveld en vervolgens op **Achtergronden** om de achtergronden voor jouw project te bekijken.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Mogelijk vind je een fout die hier niet wordt vermeld. Kun je achterhalen hoe deze te repareren is?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Feedback verzenden** knop onderaan deze pagina en vertel ons of je een andere fout in je project hebt gevonden.
 
---- /task ---
+-- /task ---
 
 
 --- save ---
