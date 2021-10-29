@@ -36,7 +36,7 @@
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. سيتم فتح Scratch في علامة تبويب متصفح أخرى.
+افتح [مشروع صنعت لك كتاباً](https://scratch.mit.edu/projects/582223042/editor){: target = "_ blank"}. سيتم فتح Scratch في علامة تبويب متصفح أخرى.
 
 --- collapse ---
 ---
