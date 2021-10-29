@@ -1,12 +1,12 @@
 ## ما التالي؟
 
-You have reached the end of the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path! Try using Scratch to make more cool stuff.
+لقد وصلت إلى نهاية مسار التعلم [مقدمة في Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)! جرب استخدام Scratch لصنع المزيد من الأشياء الرائعة.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path!
+لتعلم المزيد من المهارات ، حتى تتمكن من إحياء كل أفكارك في Scratch ، انتقل إلى مسار [المزيد من Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch)!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+إذا كنت بحاجة الى تذكر ما تعلمته، يمكنك الذهاب إلى دليلنا ["بدا التعلم مع Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+يمكنك أيضًا استكشاف [مشاريع Scratch الأخرى](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) وتجربتها.
 
