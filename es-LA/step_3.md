@@ -2,15 +2,15 @@
 
 Ahora es el momento de hacer tu libro. Empieza poco a poco y agrega más a tu proyecto si tienes tiempo.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Varias páginas de un proyecto de libro.](images/pages-rama.png)
 
 **Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
 
 --- task ---
 
 Deberás decidir en qué orden crear tu libro. Para comenzar, puedes:
-- Create all the pages as backdrops, or
-- Get one page working first
+- Crear todas las páginas como fondos, o
+- Hacer que una página funcione primero
 
 --- /task ---
 
@@ -38,7 +38,7 @@ Código:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+El Editor de dibujo — fondos y disfraces:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -71,7 +71,7 @@ El editor de Scratch:
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. ¿Quieres hacer cambios a tu libro?
+**Prueba:** Muéstrale tu proyecto a otra persona y pídele su opinión. ¿Quieres hacer cambios a tu libro?
 
 --- /task ---
 
@@ -84,67 +84,67 @@ El editor de Scratch:
 title: Un objeto se muestra u oculta en las páginas incorrectas
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Comprueba que el objeto tenga scripts `cuando el fondo cambie a`{:class="block3events"} con bloques `mostrar`{:class="block3looks"} o `esconder`{:class="block3looks"} según sea necesario. Comprueba que hayas elegido el nombre de fondo correcto en el bloque`cuando el fondo cambie a`{:class="block3events"}. Es útil dar nombres de fondo que pueda entender fácilmente, para ayudar a detectar problemas como este.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: Un objeto se pone boca abajo
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Agrega un bloque `fijar estilo de rotación a izquierda-derecha`{:class="block3motion"} o `fijar estilo de rotación a no rotar`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Un objeto 'salta' cuando cambia de vestuario o rebota
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Asegúrate de que el disfraz esté centrado en el editor de Paint (alinea la cruz azul del disfraz con la cruz en el centro del editor de Paint).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: No se reproduce un sonido
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+¿Ha agregado un bloque para `iniciar sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, deberás agregar el sonido a este objeto en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta, y asegúrate de no haber bajado el volumen con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Otros objetos continúan frente a un objeto
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Agrega un bloque `ir a la capa de adelante`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Un objeto solo se mueve o cambia una vez
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Pon tu código dentro de un bloque `por siempre`{:class="block3control"} para que siga funcionando.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Las páginas están en el orden incorrecto
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Verifica en qué orden están tus fondos: haz clic en el panel Escenario y luego en **Fondos** para ver los fondos de tu proyecto.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
 
 --- /task ---
 
