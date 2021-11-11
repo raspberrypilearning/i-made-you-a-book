@@ -74,7 +74,7 @@ Un <span style="color: #0faeb0">**livre numérique**</span> (ou e-book) est un l
 
 Explore ces exemples de projets pour trouver des idées pour ton livre :
 
-**Monstre chatouilleur** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Monstres chatouilleux** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
