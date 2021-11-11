@@ -67,13 +67,13 @@ De Scratch-editor:
 [[[scratch3-duplicate-sprite]]]
 
 
--- /task ---
+--- /task ---
 
 --- task ---
 
 **Test:** Laat iemand anders je project zien en vraag om terugkoppeling. Wil je iets veranderen aan je boek?
 
--- /task ---
+--- /task ---
 
 --- task ---
 
@@ -146,7 +146,7 @@ Mogelijk vind je een fout die hier niet wordt vermeld. Kun je achterhalen hoe de
 
 We horen graag over je fouten en hoe je ze hebt opgelost. Gebruik de **Feedback verzenden** knop onderaan deze pagina en vertel ons of je een andere fout in je project hebt gevonden.
 
--- /task ---
+--- /task ---
 
 
 --- save ---
