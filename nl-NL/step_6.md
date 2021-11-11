@@ -48,13 +48,13 @@ Je kunt nadenken over hoe je je boek hebt gemaakt, om je te helpen bij je toekom
 
 Hoe ben je aan je ideeën gekomen?
 
--- /task ---
+--- /task ---
 
 --- task ---
 
 Welke coole nieuwe dingen heb je geleerd?
 
--- /task ---
+--- /task ---
 
 ### Nu ben je de auteur van een digitaal boek!
 
@@ -64,7 +64,7 @@ Neem even de tijd om dit te vieren.
 
 Waar ga je met je nieuwe kennis doen? Wat ga je hierna maken?
 
--- /task ---
+--- /task ---
 
 ![De Scratch-kat met een feestmuts.](images/reflect.png)
 
