@@ -36,7 +36,7 @@
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
+Άνοιξε το [αρχικό έργο "Σου έφτιαξα ένα βιβλίο"](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
 
 --- collapse ---
 ---
