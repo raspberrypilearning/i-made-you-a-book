@@ -1,0 +1,16 @@
+---
+title: Σου έφτιαξα ένα βιβλίο
+hero_image: images/banner.png
+description: Δημιούργησε ένα βιβλίο με πολλές σελίδες για να πεις μια ιστορία ή να μοιραστείς γεγονότα
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: Εισαγωγή
+  - title: Η ιδέα σου
+  - title: Δημιουργία κι έλεγχος
+  - title: Κοινοποίηση
+  - title: Αναβάθμιση του έργου σου
+  - title: Αναστοχασμός
+  - title: Πού θα βρεις βοήθεια

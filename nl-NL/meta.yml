@@ -1,0 +1,16 @@
+---
+title: Ik heb een boek voor je gemaakt
+hero_image: images/banner.png
+description: Maak een boek met meerdere pagina's om een verhaal te vertellen of feiten te delen
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: Inleiding
+  - title: Jouw idee
+  - title: Bouwen en testen
+  - title: Deel
+  - title: Verbeter je project
+  - title: Reflectie
+  - title: Wat kun je verder nog doen?
