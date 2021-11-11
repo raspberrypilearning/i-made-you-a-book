@@ -1,12 +1,12 @@
 ## Τι υπάρχει στη συνέχεια;
 
-You have reached the end of the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path! Try using Scratch to make more cool stuff.
+Έχεις φτάσει στο τέλος της διαδρομής [Εισαγωγή στο Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)! Δοκίμασε να χρησιμοποιήσεις το Scratch για να φτιάξεις κι άλλα φοβερά έργα.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path!
+Για να μάθεις περισσότερες δεξιότητες, ώστε να μπορείς να δημιουργήσεις όλες τις ιδέες σου στο Scratch, προχώρησε στη διαδρομή [Περισσότερο Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch)!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Εάν χρειάζεσαι μια υπενθύμιση για όσα έμαθες, μπορείς να πας στον οδηγό ["Ξεκινώντας με το Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+Μπορείς επίσης να εξερευνήσεις [κι άλλα έργα Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) και να τα δοκιμάσεις.
 
