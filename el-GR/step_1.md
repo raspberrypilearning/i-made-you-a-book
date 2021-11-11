@@ -30,7 +30,7 @@
 </div>
 <div>
 
-**Φώτισε τον δρόμο για το σπίτι**: [Δείτε μέσα] (https://scratch.mit.edu/projects/599651243/editor){:target="_blank"}
+**Φώτισε τον δρόμο για το σπίτι**: [Δείτε μέσα](https://scratch.mit.edu/projects/599651243/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599651243/?autostart=false" frameborder="0"></iframe>
 </div>
