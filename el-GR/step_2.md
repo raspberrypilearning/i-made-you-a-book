@@ -43,7 +43,7 @@
 title: Εργασία εκτός σύνδεσης
 ---
 
-Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκεφτείτε τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/el-GR/projects/getting-started-scratch): target = "_ blank"}.
+Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκεφτείτε τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/el-GR/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
