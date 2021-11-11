@@ -30,7 +30,7 @@ Busca los objetos que se muestran y se ocultan en diferentes páginas.
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Ilumina el camino a casa**: [Ver dentro](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -51,15 +51,15 @@ Tu libro puede ser un libro de cuentos, un libro tutorial, un libro de hechos, u
 
 Debes elegir para quién escribir el libro, por ejemplo, "mi hermana pequeña", "fanáticos de los dinosaurios" o "personas que están aprendiendo a cantar".  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+Tu libro debe:
++ Tener varias páginas, con una forma de pasar a la página siguiente
++ Tener por lo menos un objeto
++ Decir o hacer algo diferente en cada página
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+Tu libro podría:
++ Tener efectos de voz o de sonido
++ Tener texto o arte creado en el Editor de dibujo
++ Tener funciones interactivas en cada página
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
@@ -74,7 +74,7 @@ Un <span style="color: #0faeb0">**libro digital**</span> (o libro electrónico) 
 
 Explora estos proyectos de ejemplo para obtener ideas para tu libro:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Monstruo de cosquillas**: [Ver dentro](https://scratch.mit.edu/projects/500189097/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -98,7 +98,7 @@ Haz clic en el personaje y el objeto para elegir los que quieras agregar a la hi
 
 ### Inspírate
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Para obtener ideas para tu libro, usa **Ver dentro** los proyectos de ejemplo en 'Te hice un libro - Ejemplos' del Estudio Scratch: https://scratch.mit.edu/studios/29082370
 
 ![El proyecto 'Ilumina el camino a casa'.](images/showcase_static.png)
 
