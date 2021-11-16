@@ -36,7 +36,7 @@ Ahora es el momento de empezar a pensar en las páginas (fondos) y los personaje
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
+Abre el [proyecto de inicio te hice un libro](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
 --- collapse ---
 ---
