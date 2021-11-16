@@ -10,7 +10,10 @@ steps:
   - title: Εισαγωγή
   - title: Η ιδέα σου
   - title: Δημιουργία κι έλεγχος
+    completion: engaged
   - title: Κοινοποίηση
-  - title: Αναβάθμιση του έργου σου
   - title: Αναστοχασμός
+    completion: internal
+  - title: Αναβάθμιση του έργου σου
+    completion: external
   - title: Πού θα βρεις βοήθεια
