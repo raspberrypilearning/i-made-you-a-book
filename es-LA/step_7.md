@@ -2,7 +2,7 @@
 
 ¡Has llegado al final de la ruta [Introducción a Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)! Intenta usar Scratch para hacer cosas más interesantes.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path!
+Para aprender más habilidades, de modo que puedas dar vida a todas tus ideas en Scratch, ¡continúa con nuestra ruta [Más Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch)!
 
 Si necesitas un recordatorio de lo que has aprendido, puedes ir a nuestra [guía 'Introducción a Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
