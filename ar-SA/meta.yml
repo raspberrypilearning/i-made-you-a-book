@@ -13,11 +13,14 @@ steps:
     title: فكرتك
   - 
     title: بناء واختبار
+    completion: engaged
   - 
     title: مشاركة
+    completion: internal
   - 
-    title: قم بتطوير مشروعك
+    title: Reflection
+    completion: external
   - 
-    title: انعكاس
+    title: Upgrade your project
   - 
     title: ما هي الخطوة التالية؟
