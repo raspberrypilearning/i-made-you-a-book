@@ -13,11 +13,14 @@ steps:
     title: Twój pomysł
   - 
     title: Buduj i testuj
+    completion: engaged
   - 
     title: Udostępnij
+    completion: internal
   - 
-    title: Ulepsz swój projekt
+    title: Reflection
+    completion: external
   - 
-    title: Przemyślenia
+    title: Upgrade your project
   - 
     title: Co dalej?
