@@ -1,70 +1,21 @@
-## Réflexion
+## Upgrade your project
 
-Est-ce que ton livre a bien respecté la **fiche de projet** ? Réfléchis à ton projet, parcours la liste de contrôle ci-dessous et coche les fonctionnalités de ton projet.
+If you have time, you can upgrade your project. You might have ideas about what to add already!
 
-Ton livre doit contenir :
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound
+- Create a new costume in the Paint editor
 
---- task ---
+Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-Plusieurs pages, avec un moyen de passer à la page suivante
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
 
---- task ---
-
-Au moins un sprite
-
---- /task ---
-
---- task ---
-
-Différentes actions sur chaque page
-
---- /task ---
-
-Ton livre pourrait aussi avoir :
-
---- task ---
-
-Des voix ou des effets sonores
-
---- /task ---
-
---- task ---
-
-Du texte ou une illustration créé dans l'éditeur d'images
-
---- /task ---
-
---- task ---
-
-Des fonctionnalités interactives sur chaque page
-
---- /task ---
-
-Tu peux réfléchir à la manière dont tu as réalisé ton livre, pour t'aider dans tes projets futurs :
-
---- task ---
-
-Comment as-tu eu tes idées ?
-
---- /task ---
-
---- task ---
-
-Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
-
---- /task ---
-
-### Maintenant, tu es l'auteur d'un livre numérique !
-
-Prends un moment pour célébrer ce que tu as fait.
-
---- task ---
-
-Comment vas-tu utiliser tes nouveaux pouvoirs ? Que feras-tu ensuite?
-
---- /task ---
-
-![Le chat Scratch portant un chapeau de fête.](images/reflect.png)
+--- save ---
 
