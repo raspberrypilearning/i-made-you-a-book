@@ -1,21 +1,70 @@
-## Améliorer ton projet
+## Reflection
 
-Si tu as le temps, tu peux perfectionner ton projet. Tu as peut-être déjà des idées sur ce qu'il faut ajouter !
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-Tu pourrais :
-- Ajouter plus de code à tes sprites
-- Ajouter un autre sprite
-- Enregistrer un son
-- Créer un nouveau costume dans l'éditeur d'images
+Your book should have:
 
-Chaque projet du [studio Scratch « Je t'ai fait un livre — Exemples » ](https://scratch.mit.edu/studios/29082370){:target="_blank"} a un lien **Voir à l'intérieur** , que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment fonctionne le projet.
+--- task ---
 
-**Sporg rentre chez lui** : [Voir à l'intérieur](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
-</div>
+Multiple pages, with a way to turn to the next page
 
-Jette un œil sur notre [studio Scratch « Communauté — Je t'ai fait un livre »](https://scratch.mit.edu/studios/29092393/){:target="_blank"} pour voir les projets créés par les membres de la communauté.
+--- /task ---
 
---- save ---
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 
