@@ -10,7 +10,10 @@ steps:
   - title: Inleiding
   - title: Jouw idee
   - title: Bouwen en testen
+    completion: engaged
   - title: Deel
-  - title: Verbeter je project
+    completion: internal
   - title: Reflectie
+    completion: external
+  - title: Verbeter je project
   - title: Wat kun je verder nog doen?
