@@ -12,8 +12,8 @@ steps:
   - title: Δημιουργία κι έλεγχος
     completion: engaged
   - title: Κοινοποίηση
-  - title: Αναστοχασμός
     completion: internal
-  - title: Αναβάθμιση του έργου σου
+  - title: Αναστοχασμός
     completion: external
+  - title: Αναβάθμιση του έργου σου
   - title: Πού θα βρεις βοήθεια

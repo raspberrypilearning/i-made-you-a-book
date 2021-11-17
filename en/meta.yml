@@ -11,8 +11,8 @@ steps:
   - title: Build and test
     completion: engaged
   - title: Share
-  - title: Reflection
     completion: internal
-  - title: Upgrade your project
+  - title: Reflection
     completion: external
+  - title: Upgrade your project
   - title: What next?

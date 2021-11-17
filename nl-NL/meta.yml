@@ -12,8 +12,8 @@ steps:
   - title: Bouwen en testen
     completion: engaged
   - title: Deel
-  - title: Reflectie
     completion: internal
-  - title: Verbeter je project
+  - title: Reflectie
     completion: external
+  - title: Verbeter je project
   - title: Wat kun je verder nog doen?
