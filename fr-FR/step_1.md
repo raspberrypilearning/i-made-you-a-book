@@ -63,7 +63,7 @@ Ton livre pourrait :
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Un <span style="color: #0faeb0">**livre numérique**</span> (ou e-book) est un livre créé et lu sur un ordinateur, une tablette, un téléphone ou tout autre appareil électronique. As-tu déjà lu des livres sur un appareil numérique ?
+Un <span style="color: #0faeb0">**livre numérique**</span> (ou e-book) est un livre créé et lu sur un ordinateur, une tablette, un téléphone portable ou tout autre appareil électronique. As-tu déjà lu des livres sur un appareil numérique ?
 </p>
 
 --- no-print ---
