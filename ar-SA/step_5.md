@@ -1,21 +1,70 @@
-## قم بتطوير مشروعك
+## Reflection
 
-إذا كان لديك الوقت ، يمكنك تطوير مشروعك. قد يكون لديك أفكار حول ما تضيفه بالفعل!
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-يمكنك:
-- إضافة المزيد من التعليمات البرمجية إلى الكائنات الخاصة بك
-- إضافة كائن آخر
-- تسجيل صوت
-- قم بإنشاء خلفية جديدة في محرر الرسام
+Your book should have:
 
-كل مشروع في ['لقد صنعت لك كتابًا - أمثلة' Scratch معارضي في](https://scratch.mit.edu/studios/29082370){: target = "_ blank"} به **See inside** ، والذي يمكنك استخدامه لفتح المشروع في محرر Scratch وإلقاء نظرة على المقاطع البرمجية للحصول على أفكار ومعرفة كيفية عمل المشروع.
+--- task ---
 
-**Sporg يذهب إلى المنزل**: [انظر من الداخل](https://scratch.mit.edu/projects/499498152/editor){: target = "_ blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
-</div>
+Multiple pages, with a way to turn to the next page
 
-ألق نظرة على ['لقد صنعت لك كتابًا - المجتمع' Scratch معارضي في](https://scratch.mit.edu/studios/29092393/){: target = "_ blank"} لمشاهدة المشروعات التي أنشأها أعضاء المجتمع.
+--- /task ---
 
---- save ---
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 
