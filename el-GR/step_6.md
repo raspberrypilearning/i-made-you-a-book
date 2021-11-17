@@ -1,70 +1,21 @@
-## Αναστοχασμός
+## Upgrade your project
 
-Ανταποκρίθηκες στη **σύνοψη έργου**; Σκέψου το έργο σου, πέρασε τη λίστα ελέγχου παρακάτω και έλεγξε τα χαρακτηριστικά που διαθέτει το έργο σου.
+If you have time, you can upgrade your project. You might have ideas about what to add already!
 
-Το βιβλίο σου πρέπει να έχει:
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound
+- Create a new costume in the Paint editor
 
---- task ---
+Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-Πολλαπλές σελίδες, με τρόπο μετάβασης από τη μία σελίδα στην επόμενη
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
 
---- task ---
-
-Τουλάχιστον ένα αντικείμενο
-
---- /task ---
-
---- task ---
-
-Διαφορετικές ενέργειες σε κάθε σελίδα
-
---- /task ---
-
-Το βιβλίο σου θα μπορούσε επίσης να έχει:
-
---- task ---
-
-Ομιλία ή εφέ ήχου
-
---- /task ---
-
---- task ---
-
-Κείμενο ή σχέδια που έχουν δημιουργηθεί στον επεξεργαστή ζωγραφικής
-
---- /task ---
-
---- task ---
-
-Διαδραστικές λειτουργίες σε κάθε σελίδα
-
---- /task ---
-
-Μπορείς να αναλογιστείς πώς έφτιαξες το βιβλίο σου, για να σε βοηθήσει στα μελλοντικά σου έργα:
-
---- task ---
-
-Πώς σου ήρθαν οι ιδέες;
-
---- /task ---
-
---- task ---
-
-Τι ωραία νέα πράγματα έμαθες;
-
---- /task ---
-
-### Τώρα, είσαι ο συγγραφέας ενός ψηφιακού βιβλίου!
-
-Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
-
---- task ---
-
-Πού θα σε οδηγήσουν οι νέες σου δυνάμεις; Τι θα φτιάξεις μετά;
-
---- /task ---
-
-![Η Γάτα του Scratch φοράει ένα καπέλο για πάρτυ.](images/reflect.png)
+--- save ---
 
