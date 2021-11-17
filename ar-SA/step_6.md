@@ -1,70 +1,21 @@
-## انعكاس
+## Upgrade your project
 
-هل قابلت **ملخص المشروع**؟ فكر في مشروعك وانتقل إلى قائمة المراجعة أدناه وتحقق من الميزات التي يحتوي عليها مشروعك.
+If you have time, you can upgrade your project. You might have ideas about what to add already!
 
-يجب أن يحتوي كتابك على:
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound
+- Create a new costume in the Paint editor
 
---- task ---
+Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-صفحات متعددة ، مع وسيلة للانتقال إلى الصفحة التالية
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
 
---- task ---
-
-كائن واحد على الأقل
-
---- /task ---
-
---- task ---
-
-إجراءات مختلفة في كل صفحة
-
---- /task ---
-
-يمكن أن يحتوي كتابك أيضًا على:
-
---- task ---
-
-الكلام أو المؤثرات الصوتية
-
---- /task ---
-
---- task ---
-
-نص أو عمل فني تم إنشاؤه في محرر الرسام
-
---- /task ---
-
---- task ---
-
-ميزات تفاعلية في كل صفحة
-
---- /task ---
-
-يمكنك التفكير في كيفية تأليف كتابك ، لمساعدتك في مشاريعك المستقبلية:
-
---- task ---
-
-كيف حصلت على أفكارك؟
-
---- /task ---
-
---- task ---
-
-ما الأشياء الجديدة الرائعة التي تعلمتها؟
-
---- /task ---
-
-### الآن ، أنت مؤلف كتاب رقمي!
-
-خذ لحظة للاحتفال بما صنعته.
-
---- task ---
-
-أين ستأخذ طاقتك الجديدة؟ ماذا ستفعل بعد ذلك؟
-
---- /task ---
-
-![القط Scratch يرتدي قبعة الحفلة.](images/reflect.png)
+--- save ---
 
