@@ -36,7 +36,7 @@ Teraz nadszedł czas, aby zacząć myśleć o stronach (tłach) oraz postaciach 
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
+Otwórz [projekt startowy Zrobiłem Ci książkę](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch otworzy się w nowej karcie przeglądarki.
 
 --- collapse ---
 ---
