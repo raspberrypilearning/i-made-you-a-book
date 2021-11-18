@@ -1,70 +1,70 @@
-## Reflection
+## Reflectie
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande controlelijst en vink de functies aan die je project heeft.
 
-Your book should have:
+Je boek zou moeten bevatten:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Meerdere pagina's, met een manier om naar de volgende pagina te gaan
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Ten minste één sprite
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Verschillende acties op elke pagina
 
 --- /task ---
 
-Your book could also have:
+Je boek zou ook kunnen bevatten:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Spraak- of geluidseffecten
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Tekst of illustraties die in de Teken-editor zijn gemaakt
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Interactieve functies op elke pagina
 
 --- /task ---
 
-### Now, you are the author of a digital book!
-
-Take a moment to celebrate what you have made.
+Je kunt nadenken over hoe je je boek hebt gemaakt, om je te helpen bij je toekomstige projecten:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Hoe ben je aan je ideeën gekomen?
 
---- /task ---
+-- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Welke coole nieuwe dingen heb je geleerd?
+
+-- /task ---
+
+### Nu ben je de auteur van een digitaal boek!
+
+Neem even de tijd om dit te vieren.
+
+--- task ---
+
+Waar ga je met je nieuwe kennis doen? Wat ga je hierna maken?
+
+-- /task ---
+
+![De Scratch-kat met een feestmuts.](images/reflect.png)
 
