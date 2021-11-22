@@ -1,21 +1,21 @@
 ---
-title: I made you a book
+title: Eu fiz um livro para você
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: Crie um livro com várias páginas para contar uma história ou compartilhar fatos
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: Introdução
   - 
-    title: Your idea
+    title: A sua idéia
   - 
-    title: Build and test
+    title: Construir e testar
     completion: engaged
   - 
-    title: Share
+    title: Compartilhar
     completion: internal
   - 
     title: Reflection
@@ -23,4 +23,4 @@ steps:
   - 
     title: Upgrade your project
   - 
-    title: What next?
+    title: E agora?
