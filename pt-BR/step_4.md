@@ -1,21 +1,21 @@
-## Share
+## Compartilhar
 
-Now, it's time to share your book with your audience.
+Agora é hora de compartilhar seu livro com o público.
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Se você tem uma conta Scratch, você pode compartilhar seu projeto através do Scratch. Você pode enviar um link para as pessoas que você conhece, e toda a comunidade Scratch poderá encontrar seu projeto e testá-lo.
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Por que não convidar seus amigos para criar um projeto? Deixe-os saber como você se divertiu.
 
-If you have a Scratch account, and have shared your book project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Se você tem uma conta Scratch e compartilhou seu projeto de livro, fique atento aos comentários que outras pessoas possam fazer sobre sua criação. O feedback é uma ótima maneira de refletir sobre o seu trabalho. Ignore quaisquer comentários que sejam inúteis ou irrelevantes.
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+Inspire a comunidade da Raspberry Pi Foundation com seu projeto!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Para enviar seu projeto para o nosso [estúdio Scratch 'I made you a book — Community'](https://scratch.mit.edu/studios/29092393){:target="_ blank"} para que outras pessoas vejam, preencha [este formulário](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
 
 --- /task ---
