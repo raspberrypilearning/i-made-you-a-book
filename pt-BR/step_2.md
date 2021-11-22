@@ -36,7 +36,7 @@ Agora é hora de começar a pensar nas páginas (cenários) e nos personagens e 
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. O Scratch será aberto em outra aba do navegador.
+Abra o [projeto inicial Conversa espacial](https://scratch.mit.edu/projects/582223042/editor){:target="_ blank"}. O Scratch será aberto em outra aba do navegador.
 
 --- collapse ---
 ---
