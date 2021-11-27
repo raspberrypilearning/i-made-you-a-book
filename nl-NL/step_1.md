@@ -58,7 +58,7 @@ Je boek moet:
 
 Je boek kan:
 + spraak- of geluidseffecten hebben
-+ tekst of illustraties hebben die zijn gemaakt in de Paint-editor
++ tekst of illustraties hebben die zijn gemaakt in de Teken-editor
 + interactieve functies op elke pagina hebben
 </div>
 
