@@ -1,26 +1,26 @@
 ---
-title: I made you a book
+title: Dw i wedi creu llyfr i ti
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: Creu llyfr gyda sawl tudalen i adrodd stori neu rannu ffeithiau
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: Cyflwyniad
   - 
-    title: Your idea
+    title: Dy syniad
   - 
-    title: Build and test
+    title: Adeiladu a phrofi
     completion: engaged
   - 
-    title: Share
+    title: Rhannu
     completion: internal
   - 
-    title: Reflection
+    title: Myfyrio
     completion: external
   - 
-    title: Upgrade your project
+    title: Uwchraddio dy brosiect
   - 
-    title: What next?
+    title: Beth nesaf?
