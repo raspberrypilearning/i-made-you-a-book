@@ -1,63 +1,63 @@
-## Your idea
+## Dy syniad
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Defnyddia'r cam yma i gynllunio dy lyfr. Galli di gynllunio drwy feddwl, ychwanegu cefndiroedd a chorluniau yn Scratch, neu drwy dynnu llun neu ysgrifennu - sut bynnag sydd well gen ti!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Y Llwyfan yn dangos corlun yn meddwl, "Mae rhai o'r syniadau gorau yn dod drwy chwarae. Mi wnei di ddod o hyd i syniadau da yn ddamweiniol."](images/best-ideas.png)
 
-### Why are you making the book?
+### Pam wyt ti'n gwneud y llyfr?
 
 --- task ---
 
-Think about the purpose of your book.
+Meddylia am bwrpas dy lyfr.
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+Gallai fod:
+- I ddifyrru plentyn iau
+- I rannu neges bwysig, fel annog ailgylchu
+- I ddysgu rhywun sut i wneud rhywbeth, fel sut i goginio dy hoff fwyd
+- I ddweud neu ailadrodd stori
+- I rannu rhywbeth amdanat ti dy hun
+- I fynegi dy hun a bod yn greadigol
 
 --- /task ---
 
-### Who is it for?
+### Ar gyfer pwy mae'r llyfr?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+Ystyria i bwy wyt ti eisiau gwneud y llyfr (dy **gynulleidfa**).
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+Gallai fod i ffrind, i aelod o'r teulu, i ddosbarth ysgol, i bobl sy'n rhannu hobi, i ffans cerddor, neu dim ond i ti dy hun.
 
 --- /task ---
 
-### Get started
+### Sut i ddechrau
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Nawr, mae'n amser dechrau meddwl am y tudalennau (cefnlenni) a'r cymeriadau a'r gwrthrychau (corluniau) yn dy lyfr.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Agora'r [prosiect cychwynnol Dw i wedi creu llyfr i ti](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Bydd Scratch yn agor mewn tab arall ar y porwr.
 
 --- collapse ---
 ---
-title: Working offline
+title: Gweithio all-lein
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+I gael gwybodaeth am sut i osod Scratch i'w ddefnyddio all-lein, ymwelwch â [ein canllaw 'Dechrau arni gyda Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){: target = "_ blank"}.
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+Defnyddia dy brosiect Scratch newydd, beiro a phapur, neu'r ddau i gynllunio syniadau ar gyfer dy lyfr.
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+Meddylia am y cefnlenni a'r corluniau:
+- Pa gefnlenni neu liwiau cefndir fyddi di'n eu defnyddio yn dy lyfr?
+- Sut bydd defnyddwyr yn rhyngweithio â dy lyfr i droi i'r dudalen nesaf?
+- Pa gymeriadau a gwrthrychau fydd gen ti yn dy lyfr?
+- Sut fydd y corluniau yn cael eu hanimeiddio ac yn rhyngweithio ar bob tudalen?
 
 --- /task ---
 
