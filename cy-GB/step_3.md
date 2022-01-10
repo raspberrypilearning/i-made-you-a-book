@@ -1,28 +1,28 @@
-## Build and test
+## Adeiladu a phrofi
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+Nawr, mae'n bryd creu dy lyfr. Dechreua yn fach, ac ychwanegu mwy at dy brosiect os oes gen ti amser.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Sawl tudalen o brosiect llyfr.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Awgrym:** Cofia brofi dy brosiect bob tro y byddi di'n ychwanegu rhywbeth. Mae'n llawer haws dod o hyd i chwilod a'u trwsio cyn i ti wneud mwy o newidiadau.
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
+Bydd angen i ti benderfynu ym mha drefn rwyt ti am adeiladu dy lyfr. I ddechrau, fe allet ti:
+- Greu’r holl dudalennau fel cefnlenni, neu
+- Sicrhau fod un dudalen yn gweithio gyntaf
 
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+Efallai na fydd gen ti amser i ychwanegu popeth rwyt ti ei eisiau i dy lyfr ar y dechrau. Mae hynny'n iawn - galli di bob amser ddod yn ôl i dy brosiect yn nes ymlaen. 
 </p>
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book:
+Rwyt ti wedi meithrin sgiliau defnyddiol iawn yn Scratch. Dyma nodyn atgoffa i dy helpu di i greu dy lyfr:
 
-Code:
+Cod:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -38,7 +38,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+Y Golygydd Paent - cefnlenni a gwisgoedd:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound:
+Sain:
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+Golygydd Scratch:
 
 [[[scratch3-copy-code]]]
 
@@ -71,80 +71,80 @@ The Scratch editor:
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book?
+**Prawf:** Dangosa dy brosiect i rywun arall a gofyn am eu hadborth. Wyt ti am wneud unrhyw newidiadau i dy lyfr?
 
 --- /task ---
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Difa chwilod:** Efallai bydd angen i ti drwsio chwilod yn dy brosiect. Dyma rai chwilod cyffredin:
 
---- collapse ---
+---collapse---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Mae corlun yn ymddangos neu'n cuddio ar y tudalennau anghywir
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Gwna'n siŵr bod gan y corlun sgriptiau `pan fydd cefnlen yn newid i`{:class="block3events"} gyda blociau `dangos`{:class="block3looks"} neu `cuddio`{:class="block3looks"} yn ôl yr angen. Gwna'n siŵr dy fod wedi dewis yr enw cefnlen cywir yn y bloc `pan fydd cefnlen yn newid i`{:class="block3events"}. Mae'n helpu i roi enwau cefnlenni y galli di eu deall yn hawdd, i helpu i adnabod problemau fel hyn.
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: A sprite is going upside down
+title: Mae corlun yn mynd ben i waered
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Ychwanega floc `gosod steil cylchdroi chwith-dde`{:class="block3motion"} neu `gosod steil cylchdroi peidio troi`{:class="block3motion"}.
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Mae corlun yn 'neidio' pan fydd yn newid gwisg neu mae'n bownsio
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Gwna'n siŵr bod y wisg wedi'i chanoli yn y golygydd Paent (alinia'r groes las yn y wisg gyda'r groeslin yng nghanol y golygydd Paent).
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: A sound does not play
+title: Dydy sain ddim yn chwarae
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Wyt ti wedi ychwanegu bloc i `chwarae sain`{:class="block3sound"} pan fo angen? Os wyt ti wedi copïo cod o gorlun arall, bydd angen i ti ychwanegu'r sain at y corlun hwn yn y tab **Seiniau**. Cymer olwg ar lefel y sain ar dy gyfrifiadur neu dabled, a gwna'n siŵr nad wyt ti wedi gostwng lefel y sain yn y cod — rho gynnig ar `gosod lefel sain i`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: Other sprites keep going in front of a sprite
+title: Mae corluniau eraill yn mynd o flaen corlun
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Ychwanega floc `mynd i haen blaen`{:class="block3looks"}.
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: A sprite only moves or changes once
+title: Dim ond unwaith mae corlun yn symud neu'n newid
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Rho dy god y tu mewn i floc `am byth`{:class="block3control"} fel ei fod yn parhau i redeg.
 
 --- /collapse ---
 
---- collapse ---
+---collapse---
 ---
-title: The pages are in the wrong order
+title: Mae'r tudalennau yn y drefn anghywir
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Gwiria ym mha drefn y mae dy gefnlenni: clicia ar gwarel y Llwyfan ac yna ar y **Cefnlenni** i weld cefnlenni dy brosiect.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Efallai byddi di'n dod o hyd i chwilen sydd ddim wedi'i rhestru yma. Alli di weithio allan sut i'w drwsio?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+Rydyn ni wrth ein bodd yn clywed am eich chwilod chi a sut gwnaethoch chi eu trwsio. Defnyddia'r botwm **Anfon adborth** ar waelod y dudalen hon a dyweda wrthym os wnes di ddod ar draws chwilen wahanol yn dy brosiect.
 
 --- /task ---
 
