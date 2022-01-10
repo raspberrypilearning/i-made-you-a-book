@@ -1,16 +1,16 @@
-## Introduction
+## Cyflwyniad
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+Crea lyfr yn Scratch yn seiliedig ar dy syniad dy hun. Bydd angen i dy lyfr fodloni **briff y prosiect**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+Mae <span style="color: #0faeb0">briff prosiect</span> yn disgrifio'r hyn y mae'n rhaid i brosiect ei wneud. Mae fel cael tasg arbennig i'w chwblhau.
 </p>
 
-You will:
+Byddi di'n:
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Meddwl am syniadau i greu llyfr digidol ar gyfer rhywun penodol
++ Dewis pa sgiliau i'w defnyddio i wneud dy lyfr
++ Rhannu cyfeiriad gwe ar gyfer dy lyfr
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### Rho gynnig arni
 
-Click on the corner to turn the page.
+Clicia ar y gornel i droi'r dudalen.
 
-How many pages does the book have?
+Sawl tudalen sydd gan y llyfr?
 
-Look for sprites that show and hide on different pages.
+Chwilia am gorluniau sy'n ymddangos ac yn cuddio ar wahanol dudalennau.
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Goleuo'r ffordd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+### BRIFF PROSIECT: Creu **llyfr digidol**
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+Gallai dy lyfr fod yn llyfr stori, llyfr tiwtorial, llyfr ffeithiau, llyfr rhyngweithiol, neu rywbeth arall.
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+Rhaid i ti ddewis ar gyfer pwy rwyt ti am ysgrifennu'r llyfr, er enghraifft "fy chwaer fach", "ffans deinosoriaid", neu "bobl sy'n dysgu canu".  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+Dylai dy lyfr:
++ Fod â sawl tudalen, gyda ffordd o droi i'r dudalen nesaf
++ Gael o leiaf un corlun
++ Ddweud neu wneud rhywbeth gwahanol ar bob tudalen
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+Gallai eich llyfr:
++ Gael effeithiau lleferydd neu sain
++ Gael testun neu gelf sydd wedi'i greu yn y golygydd Paent
++ Fod â nodweddion rhyngweithiol ar bob tudalen
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+Mae <span style="color: #0faeb0">**llyfr digidol**</span> (neu e-lyfr) yn llyfr sy'n cael ei greu a'i ddarllen ar gyfrifiadur, llechen, ffôn, neu ddyfais electronig arall. Wyt ti wedi darllen unrhyw lyfrau ar ddyfais ddigidol?
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+Cymer olwg ar y prosiectau enghreifftiol hyn i gael syniadau ar gyfer dy lyfr:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Anghenfil goglais**: [Gweld tu mewn](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Y Gath Scratch yn cuddio**: [Gweld tu mewn](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**Stori ddifa chwilod**: [Gweld tu mewn](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+Clicia ar y cymeriad a'r gwrthrych i ddewis y rhai rwyt ti eu heisiau yn y stori, wedyn clicia ar y Llwyfan i droi'r dudalen.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### Cael ysbrydoliaeth
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+I gael syniadau ar gyfer dy lyfr, **Cymer olwg ar** brosiectau enghreifftiol yn stiwdio Scratch 'Fe wnes i lyfr i chi - Enghreifftiau': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Y prosiect 'Goleuo'r ffordd adref'.](images/showcase_static.png)
 
 --- /print-only ---
 
