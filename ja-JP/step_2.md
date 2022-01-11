@@ -1,63 +1,63 @@
-## Your idea
+## あなたのアイデア
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+このステップを使用して、本を計画します。 頭の中だけで考えたり、Scratchに背景やスプライトを追加したり、絵や文章を書いたり、それ以外にあなたの好きな方法で、計画を立てることができます。
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![スプライトが"最高のアイデアのいくつかは遊びから生まれる。 良いアイデアは偶然に見つかる。" と考えているステージ](images/best-ideas.png)
 
-### Why are you making the book?
+### どうして本を作ってるの？
 
 --- task ---
 
-Think about the purpose of your book.
+あなたの本の目的について考えてください。
 
-It could be:
-- To entertain a younger child
-- To share an important message, such as encouraging recycling
-- To teach someone how to do something, such as how to make your favourite food
-- To tell or retell a story
-- To share something about yourself
-- To express yourself and be creative
+例えば:
+- ちいさい子どもを楽しませるために
+- リサイクルの奨励など、重要なメッセージを共有するために
+- お気に入りの食べ物の作り方など、何かをする方法を誰かに教えるために
+- 物語を語ったり、語り直したりするために
+- あなた自身について何かを共有するために
+- 自分を表現し、創造的になるために
 
 --- /task ---
 
-### Who is it for?
+### 誰に向けてですか？
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+誰のために本を作るかについて考えてください（ あなたの**観客**）。
 
-It could be for a friend, for a family member, for a school class, for people who share a hobby, for fans of a musician, or just for yourself.
+友達、家族、学校のクラス、同じ趣味の人たち、ミュージシャンのファン、またはあなた自身のため、などです。
 
 --- /task ---
 
-### Get started
+### 始めよう
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+それでは、本のページ（背景）と登場する人物や物（スプライト）について考えていきましょう。
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+[あなたに本を作りましたスタータープロジェクト](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
 
 --- collapse ---
 ---
-title: Working offline
+title：オフラインでの作業
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Scratchをオフラインで使用するための設定方法については、 [「Scratch入門」ガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}を見てください。
 
 --- /collapse ---
 
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
+新しいScratchプロジェクト、ペンと紙、またはその両方を使用して、本のアイデアを計画します。
 
 --- /task ---
 
 --- task ---
 
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book?
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book?
-- How will the sprites be animated and interact on each page?
+背景とスプライトについて考えてみましょう。
+- あなたの本でどの背景や背景色を使いますか？
+- 読者はあなたの本をどのように操作して次のページに移動しますか？
+- あなたの本にどんな人物と物を登場させますか？
+- スプライトは、各ページでどのように動き、反応しますか？
 
 --- /task ---
 
