@@ -1,26 +1,26 @@
 ---
-title: I made you a book
+title: 私はあなたに本を作りました
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: 複数のページで本を作成して、ストーリーを伝えたり、事実を共有したりします
 version: 4
 listed: true
 copyedit: false
 last_tested: "2021-03-09"
 steps:
   - 
-    title: Introduction
+    title: はじめに
   - 
-    title: Your idea
+    title: あなたのアイデア
   - 
-    title: Build and test
+    title: 作って試す
     completion: engaged
   - 
-    title: Share
+    title: 共有
     completion: internal
   - 
-    title: Reflection
+    title: ふりかえり
     completion: external
   - 
-    title: Upgrade your project
+    title: プロジェクトをアップグレードする
   - 
-    title: What next?
+    title: 次は何をしましょうか？
