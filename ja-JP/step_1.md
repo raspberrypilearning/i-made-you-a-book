@@ -1,16 +1,16 @@
-## Introduction
+## はじめに
 
-Create a book in Scratch based on your own idea. Your book will need to meet the **project brief**.
+あなた自身のアイデアに基づいてScratchで本を作成してください。 **プロジェクト概要**の内容に沿ったものであることが必要です。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">**プロジェクト概要**</span> は、プロジェクトが実行しなければならないことを説明したものです。 達成すべき任務を与えられているようなものです。
 </p>
 
-You will:
+あなたは次のことを行います。
 
-+ Think of ideas to create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ 特定の誰かに向けたデジタルブックを作成するためのアイデアを考えます
++ あなたの本を作るために使用するスキルを選択します
++ あなたの本のウェブアドレスを共有します
 
 --- no-print ---
 
@@ -19,18 +19,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Try it
+### 試してみましょう
 
-Click on the corner to turn the page.
+コーナーをクリックしてページをめくりましょう。
 
-How many pages does the book have?
+その本は何ページありますか？
 
-Look for sprites that show and hide on different pages.
+ページによって表示されたり非表示になったりするスプライトを探しましょう。
 
 </div>
 <div>
 
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**帰り道を照らす**: [中を見る](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -44,48 +44,48 @@ Look for sprites that show and hide on different pages.
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### PROJECT BRIEF: Create a **digital book**
+###プロジェクト概要: **デジタルブック**を作成する
 <hr style="border-top: 2px solid black;">
 
-Your book could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
+あなたの本は、物語り、指導書、事実を書いた本、対話型の本、またはその他のいずれでも構いません。
 
-You must choose who to write the book for, such as "my little sister", "dinosaur fans", or "people who are learning to sing".  
+誰のために本を書くかを選択しなければなりません。「自分の妹」、「恐竜のファン」、「歌うことを学んでいる人」などです。  
 
-Your book should:
-+ Have multiple pages, with a way to turn to the next page
-+ Have at least one sprite
-+ Say or do something different on every page
+あなたの本は、以下の通りでなければなりません:
++ 複数のページからなり、次のページに進む方法がある
++ 少なくとも一つのスプライトを使っている
++ すべてのページで何か違うことを言うか行う
 
-Your book could:
-+ Have speech or sound effects
-+ Have text or art that has been created in the Paint editor
-+ Have interactive features on every page
+あなたの本は以下を含めることができます:
++ 音声や効果音
++ ペイントエディタで作成されたテキストやアート
++ すべてのページ上に双方向性機能
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+<span style="color: #0faeb0">**デジタルブック**</span> (またはイーブック) は、コンピューター、タブレット、電話、またはその他の電子機器で作成され、読まれる本です。 デジタル機器で本を読んだことがありますか？
 </p>
 
 --- no-print ---
 
-### Get inspiration
+### インスピレーションを得る
 
 --- task ---
 
-Explore these example projects to get ideas for your book:
+これらのサンプルプロジェクトを調べて、本のアイデアをもらいましょう。
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**モンスターをくすぐれ**： [中を見る](https://scratch.mit.edu/projects/500189097/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**景色にとけこむScratchキャット**： [中を見る](https://scratch.mit.edu/projects/498968472/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
-Click on the character and object to choose the ones that you want in the story, then click on the Stage to turn the page.
+**デバッグ物語**： [中を見る](https://scratch.mit.edu/projects/498960446/editor){:target="_ blank"}
+キャラクターとオブジェクトをクリックしてストーリーで使われるものを選び、ステージをクリックしてページをめくります。
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -96,11 +96,11 @@ Click on the character and object to choose the ones that you want in the story,
 
 --- print-only ---
 
-### Get inspiration
+### インスピレーションを得る
 
-To get ideas for your book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+あなたの本のアイデアを得るには、「I made you a book — Examples' Scratch スタジオ」のサンプルプロジェクトの**中を見**てください：https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![「帰り道を照らす」プロジェクト。](images/showcase_static.png)
 
 --- /print-only ---
 
