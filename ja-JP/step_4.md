@@ -1,21 +1,21 @@
-## Share
+## 共有する
 
-Now, it's time to share your book with your audience.
+さて、あなたの本を読者と共有する時が来ました。
 
-If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたの知っている人たちにリンクを送ることができ、そしてScratchコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
 
 [[[share-scratch]]]
 
-Why not invite your friends to create a project? Let them know how you had fun.
+友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに教えてあげてください。
 
-If you have a Scratch account, and have shared your book project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
+Scratchアカウントを持っていて、ブックプロジェクトを共有している場合は、他の人のあなたの本に対するコメントに注意してください。 フィードバックは、あなたの作品を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
 
 [[[comments-feedback-scratch]]]
 
 --- task ---
 
-Inspire the Raspberry Pi Foundation community with your project!
+あなたのプロジェクトでRaspberry Pi Foundationコミュニティに刺激を与えてください！
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+他の人が見ることができるよう、あなたのプロジェクトを私たち [I made you a book — Community' Scratchコミュニティ](https://scratch.mit.edu/studios/29092393){:target="_blank"}に送るには、 [このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
 
 --- /task ---
