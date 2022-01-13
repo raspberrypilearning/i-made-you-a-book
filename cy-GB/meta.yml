@@ -1,0 +1,19 @@
+---
+title: Dw i wedi creu llyfr i ti
+hero_image: images/banner.png
+description: Creu llyfr gyda sawl tudalen i adrodd stori neu rannu ffeithiau
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: Cyflwyniad
+  - title: Dy syniad
+  - title: Adeiladu a phrofi
+    completion: engaged
+  - title: Rhannu
+    completion: internal
+  - title: Myfyrio
+    completion: external
+  - title: Uwchraddio dy brosiect
+  - title: Beth nesaf?
