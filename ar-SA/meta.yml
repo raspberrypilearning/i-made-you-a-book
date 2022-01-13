@@ -1,0 +1,19 @@
+---
+title: لقد صنعت لك كتابا
+hero_image: images/banner.png
+description: أنشئ كتابًا من عدة صفحات لسرد قصة أو مشاركة الحقائق
+version: 4
+listed: true
+copyedit: false
+last_tested: "2021-03-09"
+steps:
+  - title: المقدمة
+  - title: فكرتك
+  - title: بناء واختبار
+    completion: engaged
+  - title: مشاركة
+    completion: internal
+  - title: انعكاس
+    completion: external
+  - title: قم بترقية او تطوير مشروعك
+  - title: ما التالي؟
