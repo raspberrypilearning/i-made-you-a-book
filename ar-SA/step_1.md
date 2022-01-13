@@ -30,10 +30,11 @@
 </div>
 <div>
 
-**أضيء الطريق إلى المنزل**: [اطلع على البرنامج] (https://scratch.mit.edu/projects/627752762/editor){:target="_blank"}
+**أضيء الطريق إلى المنزل**: [اطلع على البرنامج](https://scratch.mit.edu/projects/627752762/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627752762/?autostart=false" frameborder="0"></iframe>
 </div>
+
 
 </div>
 </div>
