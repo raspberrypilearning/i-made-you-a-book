@@ -84,7 +84,7 @@ O editor Scratch:
 title: Um ator está sendo exibido ou escondido nas páginas erradas
 ---
 
-Verifique se o ator tem um script `quando o cenário mudar para`{:class="block3events"} com os blocos `show`{:class="block3looks"} ou `hide`{:class="block3looks"} conforme necessário. Verifique se você escolheu o nome correto do cenário no bloco `quando o cenário mudar para`{ class="block3events"}. Uma dica é dar nomes aos cenários que você possa entender facilmente, para ajudar a detectar problemas como esse.
+Verifique se o ator tem um script `quando o cenário mudar para`{:class="block3events"} com os blocos `show`{:class="block3looks"} ou `hide`{:class="block3looks"} conforme necessário. Verifique se você escolheu o nome correto do cenário no bloco `quando o cenário mudar para`{:class="block3events"}. Uma dica é dar nomes aos cenários que você possa entender facilmente, para ajudar a detectar problemas como esse.
 
 --- /collapse ---
 
