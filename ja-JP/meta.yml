@@ -11,7 +11,7 @@ steps:
   - title: あなたのアイデア
   - title: 作って試す
     completion: engaged
-  - title: 共有
+  - title: 共有する
     completion: internal
   - title: ふりかえり
     completion: external

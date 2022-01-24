@@ -44,7 +44,7 @@
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-###プロジェクト概要: **デジタルブック**を作成する
+### プロジェクト概要: **デジタルブック**を作成する
 <hr style="border-top: 2px solid black;">
 
 あなたの本は、物語り、指導書、事実を書いた本、対話型の本、またはその他のいずれでも構いません。
