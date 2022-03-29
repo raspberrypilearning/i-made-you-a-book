@@ -30,9 +30,9 @@ Recherche les sprites qui s'affichent et se cachent sur différentes pages.
 </div>
 <div>
 
-**Éclaire le chemin du retour** : [Voir à l'intérieur](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Éclaire le chemin du retour** : [Voir à l'intérieur](https://scratch.mit.edu/projects/667606549/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/667606549/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -74,20 +74,20 @@ Un <span style="color: #0faeb0">**livre numérique**</span> (ou e-book) est un l
 
 Explore ces exemples de projets pour trouver des idées pour ton livre :
 
-**Monstre chatouilleur** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Monstre chatouilleur** : [Voir à l'intérieur](https://scratch.mit.edu/projects/660779073/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/660779073/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch le chat se transforme** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Scratch le chat se transforme** : [Voir à l'intérieur](https://scratch.mit.edu/projects/667606189/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/667606189/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Une histoire de débogage** : [Voir à l'intérieur](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
+**Une histoire de débogage** : [Voir à l'intérieur](https://scratch.mit.edu/projects/667606997/editor){:target="_blank"}
 Clique sur le personnage et l'objet pour choisir ceux que tu veux utiliser dans l'histoire, puis clique sur la scène pour tourner la page.
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498960446/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/667606997/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
