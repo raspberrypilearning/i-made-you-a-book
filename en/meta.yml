@@ -13,6 +13,6 @@ steps:
   - title: Share
     completion: internal
   - title: Reflection
-    completion: external
   - title: Upgrade your project
+    completion: external
   - title: What next?
