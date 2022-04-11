@@ -1,70 +1,21 @@
-## Reflexión
+## Upgrade your project
 
-¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de verificación a continuación y marca las características que tiene tu proyecto.
+If you have time, you can upgrade your project. You might have ideas about what to add already!
 
-Tu libro debería tener:
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound
+- Create a new costume in the Paint editor
 
---- task ---
+Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-Varias páginas, con una forma de pasar a la página siguiente
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
 
---- task ---
-
-Al menos un objeto
-
---- /task ---
-
---- task ---
-
-Diferentes acciones en cada página
-
---- /task ---
-
-Tu libro también podría tener:
-
---- task ---
-
-Efectos de voz o sonido
-
---- /task ---
-
---- task ---
-
-Texto o arte creado en el Editor de dibujo
-
---- /task ---
-
---- task ---
-
-Funciones interactivas en cada página
-
---- /task ---
-
-Puedes reflexionar sobre cómo hiciste tu libro, para ayudarte en tus proyectos futuros:
-
---- task ---
-
-¿Cómo se te ocurrieron tus ideas?
-
---- /task ---
-
---- task ---
-
-¿Qué cosas nuevas y geniales aprendiste?
-
---- /task ---
-
-### ¡Ahora eres el autor de un libro digital!
-
-Tómate un momento para celebrar lo que has hecho.
-
---- task ---
-
-¿Dónde usarás tus nuevos poderes? ¿Qué vas a hacer a continuación?
-
---- /task ---
-
-![El gato Scratch con un gorro de fiesta.](images/reflect.png)
+--- save ---
 
