@@ -1,21 +1,21 @@
-## Upgrade your project
+## Αναβάθμιση του έργου σου
 
-If you have time, you can upgrade your project. You might have ideas about what to add already!
+Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου. Μπορεί να έχεις ήδη ιδέες για το τι να προσθέσεις!
 
-You could:
-- Add more code to your sprites
-- Add another sprite
-- Record a sound
-- Create a new costume in the Paint editor
+Θα μπορούσες να:
+- Προσθέσεις περισσότερο κώδικα στα αντικείμενά σου
+- Προσθέσεις ακόμη ένα αντικείμενο
+- Γράψε έναν ήχο
+- Δημιουργήσεις μία νέα ενδυμασία στον επεξεργαστή ζωγραφικής
 
-Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Κάθε έργο στο Scratch studio ['I made you a book — Examples'](https://scratch.mit.edu/studios/29082370){:target="_blank"} έχει έναν σύνδεσμο **Δείτε μέσα**, τον οποίο μπορείς να χρησιμοποιήσεις για να ανοίξεις το έργο στον επεξεργαστή Scratch και να δεις τον κώδικα για να πάρεις ιδέες και να δεις πώς λειτουργεί το έργο.
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Ο Sporg πηγαίνει σπίτι**: [Δες μέσα](https://scratch.mit.edu/projects/599654764/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
+Ρίξε μια ματιά στο Scratch studio ['I made you a book — Community'](https://scratch.mit.edu/studios/29092393/){:target="_blank"} για να δεις έργα που δημιουργήθηκαν από μέλη της κοινότητας.
 
 --- save ---
 
