@@ -1,21 +1,21 @@
-## Mejora tu proyecto
+## Share
 
-Si tienes tiempo, puedes mejorar tu proyecto. ¡Es posible que ya tengas algunas ideas sobre qué agregar!
+Now, it's time to share your book with your audience.
 
-Tú podrías:
-- Agregar más código a tus objetos
-- Agregar otro objeto
-- Grabar un sonido
-- Crear un nuevo disfraz en el Editor de dibujos
+If you have a Scratch account, you can share your project through Scratch. You can send a link to people you know, and the whole Scratch community will be able to find your project and try it out.
 
-Cada proyecto en el ['Te hice un libro - Ejemplos de Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_ blank"} tiene un enlace **Ver dentro**, que puedes usar para abrir el proyecto en el Editor de Scratch y mirar el código para obtener ideas y ver cómo funciona el proyecto.
+[[[share-scratch]]]
 
-**Sporg regresa a casa**: [Ver dentro](https://scratch.mit.edu/projects/499498152/editor){:target="_ blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
-</div>
+Why not invite your friends to create a project? Let them know how you had fun.
 
-Echa un vistazo a nuestro ['Te hice un libro - Comunidad de Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_ blank"} para ver los proyectos creados por miembros de la comunidad.
+If you have a Scratch account, and have shared your book project, keep an eye out for comments that others may make about your creation. Feedback is a great way to reflect on your work. Ignore any comments that are unhelpful or irrelevant.
 
---- save ---
+[[[comments-feedback-scratch]]]
 
+--- task ---
+
+Inspire the Raspberry Pi Foundation community with your project!
+
+To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
