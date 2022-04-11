@@ -1,21 +1,70 @@
-## 共有する
+## Reflection
 
-さて、あなたの本を読者と共有する時が来ました。
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたの知っている人たちにリンクを送ることができ、そしてScratchコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
-
-[[[share-scratch]]]
-
-友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに教えてあげてください。
-
-Scratchアカウントを持っていて、ブックプロジェクトを共有している場合は、他の人のあなたの本に対するコメントに注意してください。 フィードバックは、あなたの作品を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
-
-[[[comments-feedback-scratch]]]
+Your book should have:
 
 --- task ---
 
-あなたのプロジェクトでRaspberry Pi Foundationコミュニティに刺激を与えてください！
-
-他の人が見ることができるよう、あなたのプロジェクトを私たち [I made you a book — Community' Scratchコミュニティ](https://scratch.mit.edu/studios/29092393){:target="_blank"}に送るには、 [このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
+Multiple pages, with a way to turn to the next page
 
 --- /task ---
+
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
+
