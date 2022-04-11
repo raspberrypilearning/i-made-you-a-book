@@ -1,21 +1,21 @@
-## Melhore o seu projeto
+## Compartilhar
 
-Se você tiver tempo, pode atualizar seu projeto. Você já deve ter ideias sobre o que adicionar!
+Agora é hora de compartilhar seu livro com o público.
 
-Você poderia:
-- Adicionar mais código aos seus atores
-- Adicionar outro ator
-- Gravar um som
-- Criar uma nova fantasia no editor Pintar
+Se você tem uma conta Scratch, você pode compartilhar seu projeto através do Scratch. Você pode enviar um link para as pessoas que você conhece, e toda a comunidade Scratch poderá encontrar seu projeto e testá-lo.
 
-Cada projeto no [estúdio Scratch 'I made you a book — Examples'](https://scratch.mit.edu/studios/29082370){:target="_blank"} tem um link **Veja o exemplo**, que você pode usar para abrir o projeto no editor do Scratch e ver o código para ter ideias e ver como o projeto funciona.
+[[[share-scratch]]]
 
-**Sporg vai para casa**: [Veja o exemplo](https://scratch.mit.edu/projects/628384840/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/628384840/?autostart=false" frameborder="0"></iframe>
-</div>
+Por que não convidar seus amigos para criar um projeto? Deixe-os saber como você se divertiu.
 
-Dê uma olhada em nosso [estúdio Scratch 'I made you a book — Community'](https://scratch.mit.edu/studios/29092393/){:target="_blank"} para ver os projetos criados por membros da comunidade.
+Se você tem uma conta Scratch e compartilhou seu projeto de livro, fique atento aos comentários que outras pessoas possam fazer sobre sua criação. O feedback é uma ótima maneira de refletir sobre o seu trabalho. Ignore quaisquer comentários que sejam inúteis ou irrelevantes.
 
---- save ---
+[[[comments-feedback-scratch]]]
 
+--- task ---
+
+Inspire a comunidade da Raspberry Pi Foundation com seu projeto!
+
+Para enviar seu projeto para o nosso [estúdio Scratch 'I made you a book — Community'](https://scratch.mit.edu/studios/29092393){:target="_blank"} para que outras pessoas vejam, preencha [este formulário](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
