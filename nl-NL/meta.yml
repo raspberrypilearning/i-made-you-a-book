@@ -13,14 +13,13 @@ steps:
     title: Jouw idee
   - 
     title: Bouwen en testen
-    completion: engaged
-  - 
-    title: Deel
     completion: internal
   - 
-    title: Reflectie
+    title: Reflection
     completion: external
   - 
-    title: Verbeter je project
+    title: Upgrade your project
+  - 
+    title: Share
   - 
     title: Wat kun je verder nog doen?
