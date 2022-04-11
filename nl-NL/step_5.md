@@ -1,21 +1,21 @@
-## Upgrade your project
+## Verbeter je project
 
-If you have time, you can upgrade your project. You might have ideas about what to add already!
+Als je tijd hebt, kunt je jouw project verbeteren. Misschien heb je al ideeën over wat je kunt toevoegen!
 
-You could:
-- Add more code to your sprites
-- Add another sprite
-- Record a sound
-- Create a new costume in the Paint editor
+Je zou:
+- Meer code toe aan je sprites kunnen toevoegen
+- Nog een sprite kunnen toevoegen
+- Een geluid kunnen opnemen
+- Een nieuw uiterlijk in de Paint-editor maken
 
-Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
+Elk project in de ['Ik heb een boek voor je gemaakt — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg gaat naar huis**: [Kijk van binnen](https://scratch.mit.edu/projects/599661538/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
+Bekijk onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
 --- save ---
 
