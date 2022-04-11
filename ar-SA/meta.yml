@@ -15,11 +15,11 @@ steps:
     title: بناء واختبار
     completion: internal
   - 
-    title: Reflection
+    title: انعكاس
     completion: external
   - 
-    title: Upgrade your project
+    title: قم بترقية او تطوير مشروعك
   - 
-    title: Share
+    title: مشاركة
   - 
     title: ما هي الخطوة التالية؟
