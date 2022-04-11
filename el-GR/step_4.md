@@ -1,21 +1,70 @@
-## Κοινοποίηση
+## Reflection
 
-Τώρα, ήρθε η ώρα να μοιραστείς το βιβλίο σου με το κοινό σου.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch. Μπορείς να στείλεις έναν σύνδεσμο σε άτομα που γνωρίζεις και ολόκληρη η κοινότητα Scratch θα μπορεί να βρει το έργο σου και να το δοκιμάσει.
-
-[[[share-scratch]]]
-
-Γιατί να μην καλέσεις τους φίλους σου να δημιουργήσουν ένα έργο; Πες τους πως ήταν διασκεδαστικό.
-
-Εάν έχεις λογαριασμό Scratch και έχεις κοινοποιήσει το βιβλίο σου, πρόσεξε τα σχόλια που μπορούν να κάνουν άλλοι σχετικά με τη δημιουργία σου. Τα σχόλια είναι ένας πολύ καλός τρόπος για να επανέλθεις στο έργο σου και να το βελτιώσεις. Αγνόησε οποιαδήποτε σχόλια δεν σε βοηθούν ή είναι άσχετα.
-
-[[[comments-feedback-scratch]]]
+Your book should have:
 
 --- task ---
 
-Δώσε έμπνευση στην κοινότητα του Ιδρύματος Raspberry Pi με το έργο σου!
-
-Για να υποβάλεις το έργο σου στο Scratch studio ['I made you a book — Community'](https://scratch.mit.edu/studios/29092393){:target="_ blank"} για να το δουν κι άλλα άτομα, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
+Multiple pages, with a way to turn to the next page
 
 --- /task ---
+
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
+
