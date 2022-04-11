@@ -13,14 +13,13 @@ steps:
     title: A sua idéia
   - 
     title: Construir e testar
-    completion: acionado
+    completion: internal
   - 
-    title: Compartilhar
-    completion: interno
+    title: Reflection
+    completion: external
   - 
-    title: Reflexão
-    completion: externo
+    title: Upgrade your project
   - 
-    title: Melhore o seu projeto
+    title: Share
   - 
     title: E agora?
