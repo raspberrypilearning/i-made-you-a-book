@@ -1,21 +1,21 @@
-## Améliorer ton projet
+## Partager
 
-Si tu as le temps, tu peux perfectionner ton projet. Tu as peut-être déjà des idées sur ce qu'il faut ajouter !
+Maintenant, il est temps de partager ton livre avec ton public.
 
-Tu pourrais :
-- Ajouter plus de code à tes sprites
-- Ajouter un autre sprite
-- Enregistrer un son
-- Créer un nouveau costume dans l'éditeur d'images
+Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux envoyer un lien à des personnes que tu connais, et toute la communauté Scratch pourra trouver ton projet et l'essayer.
 
-Chaque projet du [studio Scratch « Je t'ai fait un livre — Exemples » ](https://scratch.mit.edu/studios/29082370){:target="_blank"} a un lien **Voir à l'intérieur** , que tu peux utiliser pour ouvrir le projet dans l'éditeur Scratch et regarder le code pour avoir des idées et voir comment fonctionne le projet.
+[[[share-scratch]]]
 
-**Sporg rentre chez lui** : [Voir à l'intérieur](https://scratch.mit.edu/projects/667605438/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/667605438/?autostart=false" frameborder="0"></iframe>
-</div>
+Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
 
-Jette un œil sur notre [studio Scratch « Communauté — Je t'ai fait un livre »](https://scratch.mit.edu/studios/29092393/){:target="_blank"} pour voir les projets créés par les membres de la communauté.
+Si tu as un compte Scratch et que tu as partagé ton projet de livre, garde un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
 
---- save ---
+[[[comments-feedback-scratch]]]
 
+--- task ---
+
+Inspire la communauté Raspberry Pi Foundation avec ton projet !
+
+Pour soumettre ton projet à notre [studio Scratch "Communauté — Je t'ai fait un livre" ](https://scratch.mit.edu/studios/29092393){:target="_blank"} pour que d'autres personnes le voient, il te suffit de remplir [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---

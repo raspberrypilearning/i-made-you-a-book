@@ -1,21 +1,70 @@
-## Partager
+## Réflexion
 
-Maintenant, il est temps de partager ton livre avec ton public.
+Est-ce que ton livre a bien respecté la **fiche de projet** ? Réfléchis à ton projet, parcours la liste de contrôle ci-dessous et coche les fonctionnalités de ton projet.
 
-Si tu as un compte Scratch, tu peux partager ton projet via Scratch. Tu peux envoyer un lien à des personnes que tu connais, et toute la communauté Scratch pourra trouver ton projet et l'essayer.
-
-[[[share-scratch]]]
-
-Pourquoi ne pas inviter tes amis à créer un projet ? Fais-leur savoir combien tu t'es amusé(e).
-
-Si tu as un compte Scratch et que tu as partagé ton projet de livre, garde un œil sur les commentaires que d'autres pourraient faire sur ta création. Les réactions et commentaires te donnent un excellent moyen de réfléchir à ton travail. Ignore les commentaires inutiles ou non pertinents.
-
-[[[comments-feedback-scratch]]]
+Ton livre doit contenir :
 
 --- task ---
 
-Inspire la communauté Raspberry Pi Foundation avec ton projet !
-
-Pour soumettre ton projet à notre [studio Scratch "Communauté — Je t'ai fait un livre" ](https://scratch.mit.edu/studios/29092393){:target="_blank"} pour que d'autres personnes le voient, il te suffit de remplir [ce formulaire](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Plusieurs pages, avec un moyen de passer à la page suivante
 
 --- /task ---
+
+--- task ---
+
+Au moins un sprite
+
+--- /task ---
+
+--- task ---
+
+Différentes actions sur chaque page
+
+--- /task ---
+
+Ton livre pourrait aussi avoir :
+
+--- task ---
+
+Des voix ou des effets sonores
+
+--- /task ---
+
+--- task ---
+
+Du texte ou une illustration créé dans l'éditeur d'images
+
+--- /task ---
+
+--- task ---
+
+Des fonctionnalités interactives sur chaque page
+
+--- /task ---
+
+Tu peux réfléchir à la manière dont tu as réalisé ton livre, pour t'aider dans tes projets futurs :
+
+--- task ---
+
+Comment as-tu eu tes idées ?
+
+--- /task ---
+
+--- task ---
+
+Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
+
+--- /task ---
+
+### Maintenant, tu es l'auteur d'un livre numérique !
+
+Prends un moment pour célébrer ce que tu as fait.
+
+--- task ---
+
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Que feras-tu ensuite?
+
+--- /task ---
+
+![Le chat Scratch portant un chapeau de fête.](images/reflect.png)
+

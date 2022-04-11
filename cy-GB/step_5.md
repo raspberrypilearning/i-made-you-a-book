@@ -1,70 +1,21 @@
-## Myfyrio
+## Uwchraddio dy brosiect
 
-Wnes di fodloni **briff y prosiect**? Meddylia am dy brosiect a mynd trwy'r rhestr wirio isod a gwirio'r nodweddion sydd gan dy brosiect.
+Os oes gen ti amser, galli di uwchraddio dy brosiect. Efallai fod gen ti syniadau am beth i'w ychwanegu'n barod!
 
-Dylai fod gan dy lyfr:
+Gallet ti:
+- Ychwanegu mwy o god i dy gorluniau
+- Ychwanegu corlun arall
+- Recordio sain
+- Creu gwisg newydd yn y golygydd Paent
 
---- task ---
+Mae gan bob prosiect yn [stiwdio scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29082370){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
 
-Sawl tudalen, gyda ffordd o droi at y dudalen nesaf
+**Sporg yn mynd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/627820474/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627820474/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Cymer olwg ar ein ['stiwdio Scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29092393/){:target="_blank"} i weld prosiectau mae aelodau'r gymuned wedi'u creu.
 
---- task ---
-
-O leiaf un corlun
-
---- /task ---
-
---- task ---
-
-Camau gweithredu gwahanol ar bob tudalen
-
---- /task ---
-
-Dylai fod gan dy lyfr hefyd:
-
---- task ---
-
-Effeithiau lleferydd neu sain
-
---- /task ---
-
---- task ---
-
-Testun neu gelf sydd wedi'i greu yn y golygydd Paent
-
---- /task ---
-
---- task ---
-
-Nodweddion rhyngweithiol ar bob tudalen
-
---- /task ---
-
-Galli di fyfyrio ar sut wnes di greu dy lyfr, er mwyn dy helpu di gyda dy brosiectau yn y dyfodol:
-
---- task ---
-
-Sut wnes di gael dy syniadau?
-
---- /task ---
-
---- task ---
-
-Pa bethau newydd cŵl wnes di eu dysgu?
-
---- /task ---
-
-### Rwyt ti nawr yn awdur llyfr digidol!
-
-Cymer eiliad i ddathlu'r hyn rwyt ti wedi'i wneud.
-
---- task ---
-
-Ble fyddi di'n cymryd dy bwerau newydd? Beth wnei di nesaf?
-
---- /task ---
-
-![Y Gath Scratch yn gwisgo het barti.](images/reflect.png)
+--- save ---
 

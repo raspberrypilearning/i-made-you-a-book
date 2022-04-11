@@ -1,70 +1,21 @@
-## Reflectie
+## Verbeter je project
 
-Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande controlelijst en vink de functies aan die je project heeft.
+Als je tijd hebt, kunt je jouw project verbeteren. Misschien heb je al ideeën over wat je kunt toevoegen!
 
-Je boek zou moeten bevatten:
+Je zou:
+- Meer code toe aan je sprites kunnen toevoegen
+- Nog een sprite kunnen toevoegen
+- Een geluid kunnen opnemen
+- Een nieuw uiterlijk in de Paint-editor maken
 
---- task ---
+Elk project in de ['Ik heb een boek voor je gemaakt — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
 
-Meerdere pagina's, met een manier om naar de volgende pagina te gaan
+**Sporg gaat naar huis**: [Kijk van binnen](https://scratch.mit.edu/projects/599661538/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599661538/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Bekijk onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
 
---- task ---
-
-Ten minste één sprite
-
---- /task ---
-
---- task ---
-
-Verschillende acties op elke pagina
-
---- /task ---
-
-Je boek zou ook kunnen bevatten:
-
---- task ---
-
-Spraak- of geluidseffecten
-
---- /task ---
-
---- task ---
-
-Tekst of illustraties die in de Paint-editor zijn gemaakt
-
---- /task ---
-
---- task ---
-
-Interactieve functies op elke pagina
-
---- /task ---
-
-Je kunt nadenken over hoe je je boek hebt gemaakt, om je te helpen bij je toekomstige projecten:
-
---- task ---
-
-Hoe ben je aan je ideeën gekomen?
-
---- /task ---
-
---- task ---
-
-Welke coole nieuwe dingen heb je geleerd?
-
---- /task ---
-
-### Nu ben je de auteur van een digitaal boek!
-
-Neem even de tijd om dit te vieren.
-
---- task ---
-
-Waar ga je met je nieuwe kennis doen? Wat ga je hierna maken?
-
---- /task ---
-
-![De Scratch-kat met een feestmuts.](images/reflect.png)
+--- save ---
 

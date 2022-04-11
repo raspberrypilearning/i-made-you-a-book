@@ -1,21 +1,21 @@
-## Uwchraddio dy brosiect
+## Rhannu
 
-Os oes gen ti amser, galli di uwchraddio dy brosiect. Efallai fod gen ti syniadau am beth i'w ychwanegu'n barod!
+Nawr, mae'n bryd rhannu dy lyfr â dy gynulleidfa.
 
-Gallet ti:
-- Ychwanegu mwy o god i dy gorluniau
-- Ychwanegu corlun arall
-- Recordio sain
-- Creu gwisg newydd yn y golygydd Paent
+Os oes gen ti gyfrif Scratch, galli di rannu dy brosiect drwy Scratch. Galli di anfon dolen at bobl rwyt ti'n eu hadnabod, a bydd y gymuned Scratch gyfan yn gallu dod o hyd i dy brosiect a rhoi cynnig arno.
 
-Mae gan bob prosiect yn [stiwdio scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29082370){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
+[[[share-scratch]]]
 
-**Sporg yn mynd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/627820474/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627820474/?autostart=false" frameborder="0"></iframe>
-</div>
+Beth am wahodd dy ffrindiau i greu prosiect? Gad iddyn nhw wybod dy fod wedi cael hwyl.
 
-Cymer olwg ar ein ['stiwdio Scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29092393/){:target="_blank"} i weld prosiectau mae aelodau'r gymuned wedi'u creu.
+Os oes gen ti gyfrif Scratch, ac rwyt ti wedi rhannu dy brosiect llyfr, cadwa lygad allan am sylwadau y gallai eraill eu gwneud am eich creadigaeth. Mae adborth yn ffordd wych o fyfyrio ar dy waith. Anwybydda unrhyw sylwadau sy'n ddi-fudd neu'n amherthnasol.
 
---- save ---
+[[[comments-feedback-scratch]]]
 
+--- task ---
+
+Dyro ysbrydoliaeth i gymuned y Raspberry Pi Foundation gyda dy brosiect!
+
+I gyflwyno dy brosiect i'n [stiwdio Scratch 'Dw i wedi creu llyfr i ti — Cymuned'](https://scratch.mit.edu/studios/29092393){:target="_blank"} er mwyn i bobl eraill ei weld, cwblha'r [ffurflen hon](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---

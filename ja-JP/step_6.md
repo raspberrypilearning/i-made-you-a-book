@@ -1,21 +1,22 @@
-## プロジェクトをアップグレードする
+## 共有する
 
-時間がある場合は、プロジェクトをアップグレードできます。 あなたはすでに何を追加するかについてのアイデアを持っているかもしれません！
+さて、あなたの本を読者と共有する時が来ました。
 
-こんなことができます:
-- スプライトにコードを追加します
-- 別のスプライトを追加する
-- 音を録音する
-- ペイントエディタで新しいコスチュームを作成します
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたの知っている人たちにリンクを送ることができ、そしてScratchコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
 
-[の各プロジェクト '私はあなたに本を作りました—例' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"}には **中を⾒る** リンクがあり、これを使用してScratchエディターでプロジェクトを開き、コードを確認できます。アイデアを得て、プロジェクトがどのように機能するかを確認します。
+[[[share-scratch]]]
 
-**Sporgが家に帰る**： [内部を見る](https://scratch.mit.edu/projects/631853310/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/631853310/?autostart=false" frameborder="0"></iframe>
-</div>
+友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに教えてあげてください。
 
-私たちの ['私はあなたに本を作りました—コミュニティ'スクラッチスタジオ](https://scratch.mit.edu/studios/29092393/){:target="_blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを見てください。
+Scratchアカウントを持っていて、ブックプロジェクトを共有している場合は、他の人のあなたの本に対するコメントに注意してください。 フィードバックは、あなたの作品を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
 
---- save ---
+[[[comments-feedback-scratch]]]
+
+--- task ---
+
+あなたのプロジェクトでRaspberry Pi Foundationコミュニティに刺激を与えてください！
+
+他の人が見ることができるよう、あなたのプロジェクトを私たち [I made you a book — Community' Scratchコミュニティ](https://scratch.mit.edu/studios/29092393){:target="_blank"}に送るには、 [このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
+
+--- /task ---
 
