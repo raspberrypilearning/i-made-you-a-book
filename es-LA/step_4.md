@@ -1,21 +1,70 @@
-## Comparte
+## Reflection
 
-Ahora es el momento de compartir tu libro con tu audiencia.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch. Puedes enviar un enlace a las personas que conoces y toda la comunidad de Scratch podrá encontrar tu proyecto y probarlo.
-
-[[[share-scratch]]]
-
-¿Por qué no invitas a tus amigos a crear un proyecto? Déjales saber cómo te divertiste.
-
-Si tienes una cuenta de Scratch y has compartido el proyecto de tu libro, está atento a los comentarios que otros puedan hacer sobre tu creación. La retroalimentación es una excelente manera de reflexionar sobre tu trabajo. Ignore cualquier comentario que sea inútil o irrelevante.
-
-[[[comments-feedback-scratch]]]
+Your book should have:
 
 --- task ---
 
-¡Inspira a la comunidad de la Fundación Raspberry Pi con tu proyecto!
-
-Para enviar tu proyecto a nuestro ['Te hice un libro - Comunidad' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_ blank"} para que otras personas lo vean, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_ blank"}.
+Multiple pages, with a way to turn to the next page
 
 --- /task ---
+
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
+
