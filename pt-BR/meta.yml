@@ -15,11 +15,11 @@ steps:
     title: Construir e testar
     completion: internal
   - 
-    title: Reflection
+    title: Reflexão
     completion: external
   - 
-    title: Upgrade your project
+    title: Melhore o seu projeto
   - 
-    title: Share
+    title: Compartilhar
   - 
     title: E agora?
