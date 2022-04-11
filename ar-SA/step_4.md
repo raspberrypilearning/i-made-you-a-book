@@ -1,70 +1,70 @@
-## Reflection
+## انعكاس
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+هل قابلت **ملخص المشروع**؟ فكر في مشروعك وانتقل إلى قائمة المراجعة أدناه وتحقق من الميزات التي يحتوي عليها مشروعك.
 
-Your book should have:
+يجب أن يحتوي كتابك على:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+صفحات متعددة ، مع وسيلة للانتقال إلى الصفحة التالية
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+كائن واحد على الأقل
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+إجراءات مختلفة في كل صفحة
 
 --- /task ---
 
-Your book could also have:
+يمكن أن يحتوي كتابك أيضًا على:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+الكلام أو المؤثرات الصوتية
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+نص أو عمل فني تم إنشاؤه في محرر الرسام
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+ميزات تفاعلية في كل صفحة
 
 --- /task ---
 
-### Now, you are the author of a digital book!
-
-Take a moment to celebrate what you have made.
+يمكنك التفكير في كيفية تأليف كتابك ، لمساعدتك في مشاريعك المستقبلية:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+كيف حصلت على أفكارك؟
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+ما الأشياء الجديدة الرائعة التي تعلمتها؟
+
+--- /task ---
+
+### الآن ، أنت مؤلف كتاب رقمي!
+
+خذ لحظة للاحتفال بما صنعته.
+
+--- task ---
+
+أين ستأخذ طاقتك الجديدة؟ ماذا ستفعل بعد ذلك؟
+
+--- /task ---
+
+![القط Scratch يرتدي قبعة الحفلة.](images/reflect.png)
 
