@@ -13,14 +13,13 @@ steps:
     title: Η ιδέα σου
   - 
     title: Δημιουργία κι έλεγχος
-    completion: engaged
-  - 
-    title: Κοινοποίηση
     completion: internal
   - 
     title: Reflection
     completion: external
   - 
     title: Upgrade your project
+  - 
+    title: Share
   - 
     title: Πού θα βρεις βοήθεια
