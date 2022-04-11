@@ -1,70 +1,70 @@
-## Reflection
+## Reflexão
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Você cumpriu o **resumo do projeto**? Pense no seu projeto e marque os recursos que o seu projeto possui na lista de verificação abaixo.
 
-Your book should have:
+Seu livro deve ter:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Várias páginas, com uma maneira de ir para a próxima página
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Pelo menos um ator
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Ações diferentes em cada página
 
 --- /task ---
 
-Your book could also have:
+Seu livro também pode ter:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Fala ou efeitos sonoros
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Texto ou arte que foi criado no editor Pintar
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Recursos interativos em todas as páginas
 
 --- /task ---
 
-### Now, you are the author of a digital book!
-
-Take a moment to celebrate what you have made.
+Você pode refletir sobre como fez seu livro, para ajudá-lo em seus projetos futuros:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Como você obteve suas ideias?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Quais coisas novas e legais você aprendeu?
+
+--- /task ---
+
+### Agora, você é o autor de um livro digital!
+
+Reserve um tempo para comemorar o que você fez.
+
+--- task ---
+
+Para onde você vai levar seus novos poderes? O que você vai fazer a seguir?
+
+--- /task ---
+
+![O gato Scratch usando um chapéu de festa.](images/reflect.png)
 
