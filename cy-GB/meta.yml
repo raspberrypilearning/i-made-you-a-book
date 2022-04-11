@@ -13,14 +13,13 @@ steps:
     title: Dy syniad
   - 
     title: Adeiladu a phrofi
-    completion: engaged
-  - 
-    title: Rhannu
     completion: internal
   - 
-    title: Myfyrio
+    title: Reflection
     completion: external
   - 
-    title: Uwchraddio dy brosiect
+    title: Upgrade your project
+  - 
+    title: Share
   - 
     title: Beth nesaf?
