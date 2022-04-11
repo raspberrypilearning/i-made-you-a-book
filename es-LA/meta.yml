@@ -11,9 +11,9 @@ steps:
   - title: Tu idea
   - title: Construye y prueba
     completion: engaged
-  - title: Comparte
     completion: internal
   - title: Reflexión
     completion: external
   - title: Mejora tu proyecto
+  - title: Comparte
   - title: '¿Qué sigue?'

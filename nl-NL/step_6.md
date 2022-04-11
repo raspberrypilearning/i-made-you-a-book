@@ -1,21 +1,21 @@
-## Verbeter je project
+## Deel
 
-Als je tijd hebt, kunt je jouw project verbeteren. Misschien heb je al ideeën over wat je kunt toevoegen!
+Nu is het tijd om jouw boek met je publiek te delen.
 
-Je zou:
-- Meer code toe aan je sprites kunnen toevoegen
-- Nog een sprite kunnen toevoegen
-- Een geluid kunnen opnemen
-- Een nieuw uiterlijk in de Paint-editor maken
+Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
 
-Elk project in de ['Ik heb een boek voor je gemaakt — Voorbeelden' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} heeft een **Bekijk van binnen** link, die je kunt gebruiken om het project in de Scratch-editor te openen en de code te bekijken om ideeën op te doen en te zien hoe het project werkt.
+[[[share-scratch]]]
 
-**Sporg gaat naar huis**: [Kijk van binnen](https://scratch.mit.edu/projects/599661538/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599661538/?autostart=false" frameborder="0"></iframe>
-</div>
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
 
-Bekijk onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} om projecten te zien die zijn gemaakt door communityleden.
+Als je een Scratch-account hebt en je boekproject hebt gedeeld, let dan op opmerkingen die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
 
---- save ---
+[[[comments-feedback-scratch]]]
 
+--- task ---
+
+Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
+
+Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} zodat andere mensen het kunnen zien, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+
+--- /task ---

@@ -11,9 +11,9 @@ steps:
   - title: فكرتك
   - title: بناء واختبار
     completion: engaged
-  - title: مشاركة
     completion: internal
   - title: انعكاس
     completion: external
   - title: قم بترقية او تطوير مشروعك
+  - title: مشاركة
   - title: ما التالي؟

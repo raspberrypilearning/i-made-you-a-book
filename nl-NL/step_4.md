@@ -1,21 +1,70 @@
-## Deel
+## Reflectie
 
-Nu is het tijd om jouw boek met je publiek te delen.
+Voldoet je project aan de **projectbeschrijving**? Denk na over je project en doorloop de onderstaande controlelijst en vink de functies aan die je project heeft.
 
-Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
-
-[[[share-scratch]]]
-
-Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
-
-Als je een Scratch-account hebt en je boekproject hebt gedeeld, let dan op opmerkingen die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
-
-[[[comments-feedback-scratch]]]
+Je boek zou moeten bevatten:
 
 --- task ---
 
-Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
-
-Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} zodat andere mensen het kunnen zien, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+Meerdere pagina's, met een manier om naar de volgende pagina te gaan
 
 --- /task ---
+
+--- task ---
+
+Ten minste één sprite
+
+--- /task ---
+
+--- task ---
+
+Verschillende acties op elke pagina
+
+--- /task ---
+
+Je boek zou ook kunnen bevatten:
+
+--- task ---
+
+Spraak- of geluidseffecten
+
+--- /task ---
+
+--- task ---
+
+Tekst of illustraties die in de Paint-editor zijn gemaakt
+
+--- /task ---
+
+--- task ---
+
+Interactieve functies op elke pagina
+
+--- /task ---
+
+Je kunt nadenken over hoe je je boek hebt gemaakt, om je te helpen bij je toekomstige projecten:
+
+--- task ---
+
+Hoe ben je aan je ideeën gekomen?
+
+--- /task ---
+
+--- task ---
+
+Welke coole nieuwe dingen heb je geleerd?
+
+--- /task ---
+
+### Nu ben je de auteur van een digitaal boek!
+
+Neem even de tijd om dit te vieren.
+
+--- task ---
+
+Waar ga je met je nieuwe kennis doen? Wat ga je hierna maken?
+
+--- /task ---
+
+![De Scratch-kat met een feestmuts.](images/reflect.png)
+

@@ -10,10 +10,10 @@ steps:
   - title: Introdução
   - title: A sua idéia
   - title: Construir e testar
-    completion: acionado
-  - title: Compartilhar
-    completion: interno
+    completion: engaged
+    completion: internal
   - title: Reflexão
-    completion: externo
+    completion: external
   - title: Melhore o seu projeto
+  - title: Compartilhar
   - title: E agora?
