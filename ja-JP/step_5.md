@@ -1,70 +1,21 @@
-## ふりかえり
+## Upgrade your project
 
-**プロジェクトブリーフ**に会いましたか？ プロジェクトについて考え、以下のチェックリストに目を通し、プロジェクトの機能を確認してください。
+If you have time, you can upgrade your project. You might have ideas about what to add already!
 
-あなたの本は以下を持っているべきです：
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound
+- Create a new costume in the Paint editor
 
---- task ---
+Each project in the ['I made you a book — Examples' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"} has a **See inside** link, which you can use to open the project in the Scratch editor and look at the code to get ideas and see how the project works.
 
-次のページに移動する方法を備えた複数のページ
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
 
---- /task ---
+Take a look at our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393/){:target="_blank"} to see projects created by community members.
 
---- task ---
-
-少なくとも1つのスプライト
-
---- /task ---
-
---- task ---
-
-すべてのページで異なるアクション
-
---- /task ---
-
-また、あなたの本は以下のことを持つことができます：
-
---- task ---
-
-スピーチまたは効果音
-
---- /task ---
-
---- task ---
-
-ペイントエディタで作成されたテキストまたはアート
-
---- /task ---
-
---- task ---
-
-すべてのページのインタラクティブ機能
-
---- /task ---
-
-あなたはあなたの本をどのように作ったかを振り返り、あなたの将来のプロジェクトであなたを助けることができます：
-
---- task ---
-
-どうやってアイデアを思いついたのですか？
-
---- /task ---
-
---- task ---
-
-あなたはどんなクールな新しいことを学びましたか？
-
---- /task ---
-
-### 今、あなたはデジタルブックの著者です！
-
-あなたが作ったものを祝うために少し時間を取ってください。
-
---- task ---
-
-あなたはあなたの新しい力をどこに持っていきますか？ 次に何を作りますか？
-
---- /task ---
-
-![パーティーハットをかぶったスクラッチキャット。](images/reflect.png)
+--- save ---
 
