@@ -15,11 +15,11 @@ steps:
     title: Δημιουργία κι έλεγχος
     completion: internal
   - 
-    title: Reflection
+    title: Αναστοχασμός
     completion: external
   - 
-    title: Upgrade your project
+    title: Αναβάθμιση του έργου σου
   - 
-    title: Share
+    title: Κοινοποίηση
   - 
     title: Πού θα βρεις βοήθεια
