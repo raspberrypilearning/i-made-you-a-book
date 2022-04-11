@@ -13,14 +13,13 @@ steps:
     title: あなたのアイデア
   - 
     title: 作って試す
-    completion: engaged
-  - 
-    title: 共有
     completion: internal
   - 
-    title: ふりかえり
+    title: Reflection
     completion: external
   - 
-    title: プロジェクトをアップグレードする
+    title: Upgrade your project
+  - 
+    title: Share
   - 
     title: 次は何をしましょうか？
