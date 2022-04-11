@@ -1,70 +1,70 @@
-## Reflection
+## Reflexión
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de verificación a continuación y marca las características que tiene tu proyecto.
 
-Your book should have:
+Tu libro debería tener:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Varias páginas, con una forma de pasar a la página siguiente
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Al menos un objeto
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Diferentes acciones en cada página
 
 --- /task ---
 
-Your book could also have:
+Tu libro también podría tener:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Efectos de voz o sonido
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Texto o arte creado en el Editor de dibujo
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Funciones interactivas en cada página
 
 --- /task ---
 
-### Now, you are the author of a digital book!
-
-Take a moment to celebrate what you have made.
+Puedes reflexionar sobre cómo hiciste tu libro, para ayudarte en tus proyectos futuros:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+¿Cómo se te ocurrieron tus ideas?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+¿Qué cosas nuevas y geniales aprendiste?
+
+--- /task ---
+
+### ¡Ahora eres el autor de un libro digital!
+
+Tómate un momento para celebrar lo que has hecho.
+
+--- task ---
+
+¿Dónde usarás tus nuevos poderes? ¿Qué vas a hacer a continuación?
+
+--- /task ---
+
+![El gato Scratch con un gorro de fiesta.](images/reflect.png)
 
