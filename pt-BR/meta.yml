@@ -1,19 +1,22 @@
 ---
 title: Eu fiz um livro para você
 hero_image: images/banner.png
-description: Crie um livro com várias páginas para contar uma história ou compartilhar fatos
+description: Crie um livro com várias páginas para contar uma história ou compartilhar
+  fatos
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
-  - title: Introdução
-  - title: A sua idéia
-  - title: Construir e testar
-    completion: engaged
-    completion: internal
-  - title: Reflexão
-    completion: external
-  - title: Melhore o seu projeto
-  - title: Compartilhar
-  - title: E agora?
+- title: Introdução
+- title: A sua idéia
+- title: Construir e testar
+  completion:
+  - engaged
+  - internal
+- title: Reflexão
+  completion:
+  - external
+- title: Melhore o seu projeto
+- title: Compartilhar
+- title: E agora?

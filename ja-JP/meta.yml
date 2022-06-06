@@ -5,15 +5,17 @@ description: 複数のページで本を作成して、ストーリーを伝え�
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
-  - title: はじめに
-  - title: あなたのアイデア
-  - title: 作って試す
-    completion: engaged
-    completion: internal
-  - title: ふりかえり
-    completion: external
-  - title: プロジェクトをアップグレードする
-  - title: 共有
-  - title: 次は何をしましょうか？
+- title: はじめに
+- title: あなたのアイデア
+- title: 作って試す
+  completion:
+  - engaged
+  - internal
+- title: ふりかえり
+  completion:
+  - external
+- title: プロジェクトをアップグレードする
+- title: 共有
+- title: 次は何をしましょうか？

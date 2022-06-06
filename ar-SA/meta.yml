@@ -5,15 +5,17 @@ description: أنشئ كتابًا من عدة صفحات لسرد قصة أو �
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
-  - title: المقدمة
-  - title: فكرتك
-  - title: بناء واختبار
-    completion: engaged
-    completion: internal
-  - title: انعكاس
-    completion: external
-  - title: قم بترقية او تطوير مشروعك
-  - title: مشاركة
-  - title: ما التالي؟
+- title: المقدمة
+- title: فكرتك
+- title: بناء واختبار
+  completion:
+  - engaged
+  - internal
+- title: انعكاس
+  completion:
+  - external
+- title: قم بترقية او تطوير مشروعك
+- title: مشاركة
+- title: ما التالي؟
