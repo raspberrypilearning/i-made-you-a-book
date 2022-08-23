@@ -1,11 +1,11 @@
-# scratch-book
+# i-made-you-a-book
 
 ![scratch-book](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/scratch-book](https://projects.raspberrypi.org/en/projects/scratch-book)
+Find the project online at [projects.raspberrypi.org/en/projects/i-made-you-a-book](https://projects.raspberrypi.org/en/projects/i-made-you-a-book)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/scratch-book/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/scratch-book/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/i-made-you-a-book/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/i-made-you-a-book/tree/master/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
