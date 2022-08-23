@@ -20,9 +20,9 @@ You may not have time to add everything that you want to your book at first. Tha
 
 --- task ---
 
-You have built up some really useful skills in Scratch. Here is a reminder to help you make your book: 
+**Look** at all the skills you have gained so far in this path. You can use any of them to help create your book. Here is a reminder: 
 
-Code:
+### Code:
 
 [[[scratch3-changing-backdrops-pages-levels]]]
 
@@ -38,7 +38,7 @@ Code:
 
 [[[scratch3-jiggle-a-sprite]]]
 
-The Paint editor — backdrops and costumes:
+### The Paint editor — backdrops and costumes:
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +50,7 @@ The Paint editor — backdrops and costumes:
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-Sound: 
+### Sound: 
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ Sound:
 
 [[[scratch3-text-to-speech]]]
 
-The Scratch editor:
+### The Scratch editor:
 
 [[[scratch3-copy-code]]]
 
