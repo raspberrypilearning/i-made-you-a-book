@@ -26,14 +26,19 @@ Click on the corner to turn the page.
 How many pages does the book have?
 
 Look for sprites that show and hide on different pages.
+  
+What happens when you click on each sprite?
 
 </div>
 <div>
-
-**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+  
+  
+**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
+
+
 
 </div>
 </div>
@@ -74,14 +79,15 @@ A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book cre
 
 Explore these example projects to get ideas for your book:
 
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+
+**My band**: [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch Cat blends in**: [See inside](https://scratch.mit.edu/projects/498968472/editor){:target="_blank"}
+**Light the way home**: [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/498968472/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **A debugging story**: [See inside](https://scratch.mit.edu/projects/498960446/editor){:target="_blank"}
