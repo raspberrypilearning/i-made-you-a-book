@@ -8,23 +8,19 @@ Now, it's time to make your book. Start small, and add more to your project if y
 
 --- task ---
 
-You will need to decide in what order to build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
-</p>
-
---- task ---
-
 **Look** at all the skills you have gained so far in this path. You can use any of them to help create your book. Here is a reminder: 
 
-### Code:
+### For each sprite
 
-[[[scratch3-changing-backdrops-pages-levels]]]
+
+
+```
+when flag clicked
+
+when this sprite clicked
+
+when backdrop switches to 
+```
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
@@ -32,13 +28,9 @@ You may not have time to add everything that you want to your book at first. Tha
 
 [[[scratch3-graphic-effects]]]
 
-[[[scratch3-show-hide-sprites-backdrops]]]
-
-[[[scratch3-positioning-with-layers]]]
-
 [[[scratch3-jiggle-a-sprite]]]
 
-### The Paint editor — backdrops and costumes:
+### Edit costumes and backdrops
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -50,7 +42,15 @@ You may not have time to add everything that you want to your book at first. Tha
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Sound: 
+### Turn the page
+
+[[[scratch3-changing-backdrops-pages-levels]]]
+
+[[[scratch3-show-hide-sprites-backdrops]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+### Add sound: 
 
 [[[scratch3-add-sound]]]
 
@@ -58,7 +58,7 @@ You may not have time to add everything that you want to your book at first. Tha
 
 [[[scratch3-text-to-speech]]]
 
-### The Scratch editor:
+### Useful tips:
 
 [[[scratch3-copy-code]]]
 
@@ -71,11 +71,11 @@ You may not have time to add everything that you want to your book at first. Tha
 
 --- task ---
 
-**Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book? 
+**Test:** Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book? 
 
-If you have time, you can upgrade your project. You might have ideas about what to add already! 
+⏱️ If you have time, you can upgrade your project. 
 
-You could:
+💡 You could:
 - Add more code to your sprites
 - Add another sprite
 - Record a sound 
@@ -85,7 +85,7 @@ You could:
 
 --- task ---
 
-**Debug:** You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
 
 --- collapse ---
 ---
