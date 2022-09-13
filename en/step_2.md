@@ -1,8 +1,12 @@
 ## Your idea
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like! 
+
 
 ![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+</p>
 
 ### Why are you making the book?
 
@@ -30,35 +34,3 @@ It could be for a friend, for a family member, for a school class, for people wh
 
 --- /task ---
 
-### Get started
-
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
-
---- task ---
-
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
-
---- collapse ---
----
-title: Working offline
----
-
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
-
---- /collapse ---
-
-Use your new Scratch project, a pen and paper, or both to plan ideas for your book.
-
---- /task ---
-
---- task ---
-
-Think about the backdrops and sprites:
-- Which backdrops or background colours will you use in your book? 
-- How will users interact with your book to turn to the next page?
-- Which characters and objects will you have in your book? 
-- How will the sprites be animated and interact on each page?
-
---- /task ---
-
---- save ---
