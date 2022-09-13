@@ -70,7 +70,7 @@ Your book could:
 
 --- task ---
 
-Play with these example projects to get ideas for your book. Think about what your animation might be, and explore these example projects to get more ideas:
+Play with these example projects to get ideas for your book:
 
 ⭐ Share your finished Surprise animation project for a chance of it being featured here.
 

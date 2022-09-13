@@ -73,6 +73,14 @@ You may not have time to add everything that you want to your book at first. Tha
 
 **Test:** Show someone else your project and ask for their feedback. Do you want to make any changes to your book? 
 
+If you have time, you can upgrade your project. You might have ideas about what to add already! 
+
+You could:
+- Add more code to your sprites
+- Add another sprite
+- Record a sound 
+- Create a new costume in the Paint editor
+
 --- /task ---
 
 --- task ---

@@ -14,9 +14,8 @@ steps:
   completion:
   - engaged
   - internal
-- title: Reflection
+- title: Checklist
   completion:
   - external
-- title: Upgrade your project
 - title: Share
 - title: What next?
