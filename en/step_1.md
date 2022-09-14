@@ -95,7 +95,7 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get inspiration
+### Get ideas 💭
 
 To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
 https://scratch.mit.edu/studios/29082370
