@@ -2,7 +2,7 @@
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-Your book should have:
+### Your book should have:
 
 --- task ---
 
@@ -22,7 +22,7 @@ Different actions on every page
 
 --- /task ---
 
-Your book could also have:
+### Your book could also have:
 
 --- task ---
 
@@ -42,6 +42,8 @@ Interactive features on every page
 
 --- /task ---
 
+### Reflection
+
 You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
@@ -58,7 +60,7 @@ What cool new thing(s) did you learn?
 
 ### Now, you are the author of a digital book!
 
-Take a moment to celebrate what you have made.
+🎉 Take a moment to celebrate what you have made.
 
 --- task ---
 

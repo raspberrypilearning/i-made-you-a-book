@@ -72,7 +72,7 @@ when this sprite clicked
 
 You may want to edit or add costumes or backdrops in the Paint editor. 
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="200px"}
+![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
 
 ![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
 
@@ -116,7 +116,7 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Useful tips:
+### Scratch editor reminders
 
 [[[scratch3-copy-code]]]
 

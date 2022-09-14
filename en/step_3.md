@@ -10,19 +10,9 @@ Now, it's time to start to think about the pages (backdrops) and the characters 
 
 --- task ---
 
-You will need to decide in what order to plan and build your book. To get started, you could:
-- Create all the pages as backdrops, or
-- Get one page working first
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
-</p>
-
---- task ---
-
 Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}. 
 
 --- collapse ---
 ---
@@ -45,9 +35,13 @@ Think about the backdrops and sprites:
 
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+You may not have time to add everything that you want to your book at first. That's OK — you can always come back to your project later. 
+</p>
+
 --- task ---
 
-Use your new Scratch project to plan your book. 
+Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later. 
 
 You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
 
