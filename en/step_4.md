@@ -1,4 +1,4 @@
-## Build and test
+## Build 🧱 and test 🔄
 
 Now, it's time to build your book. Start small, and add more to your project if you have time.
 
@@ -28,7 +28,7 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🎈
+### For each sprite 🐈 🐢 🎈
 
 --- task ---
 
@@ -66,7 +66,7 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦧 and backdrops 🖼️
+### Edit costumes 🦁 and backdrops 🖼️
 
 --- task ---
 
@@ -133,6 +133,7 @@ when backdrop switches to [page v]
 💡 You could:
 - Add more code to your sprites
 - Add another sprite
+- Add another page
 - Record a sound 
 - Create a new costume in the Paint editor
 
@@ -211,5 +212,3 @@ You might find a bug that is not listed here. Can you work out how to fix it?
 
 --- /task ---
 
-
---- save ---

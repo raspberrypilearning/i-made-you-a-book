@@ -1,9 +1,9 @@
-## Your idea
+## Your idea 💡
 
 Decide the theme of your book and who will be the audience. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. Have you read any books on a digital device?
+A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. ❓ Have you read any books on a digital device?
 </p>
 
 ### Why are you making the book?
