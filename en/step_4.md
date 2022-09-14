@@ -1,25 +1,45 @@
 ## Build and test
 
-Now, it's time to make your book. Start small, and add more to your project if you have time.
+Now, it's time to build your book. Start small, and add more to your project if you have time.
 
 ![Multiple pages of a book project.](images/pages-rama.png)
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
+### For each page
+
 --- task ---
 
-**Look** at all the skills you have gained so far in this path. You can use any of them to help create your book. Here is a reminder: 
+Add the backdrop and new sprites you need for this page. 
+
+![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+
+You will need to add code to set the positions and visibility of sprites on the first title page and each page after that. 
+
+```blocks3
+when flag clicked
+
+when backdrop switches to [page v]
+```
+
+[[[scratch3-show-hide-sprites-backdrops]]]
+
+[[[scratch3-positioning-with-layers]]]
+
+--- /task ---
 
 ### For each sprite
 
+--- task ---
 
+You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked. 
 
-```
+```blocks3
 when flag clicked
 
 when this sprite clicked
 
-when backdrop switches to 
+when backdrop switches to [page v]
 ```
 
 [[[scratch3-change-costumes-to-show-mood]]]
@@ -30,7 +50,31 @@ when backdrop switches to
 
 [[[scratch3-jiggle-a-sprite]]]
 
+--- /task ---
+
+### Turning the page
+
+--- task ---
+
+You will need a way for your reader to move to the next page in your book.
+
+```blocks3
+when this sprite clicked
+```
+
+[[[scratch3-changing-backdrops-pages-levels]]]
+
+--- /task ---
+
 ### Edit costumes and backdrops
+
+--- task ---
+
+You may want to edit or add costumes or backdrops in the Paint editor. 
+
+![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png)
+
+![The paint costume and backdrop icons.](images/costumes-backdrops-icons.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -42,21 +86,35 @@ when backdrop switches to
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
-### Turn the page
-
-[[[scratch3-changing-backdrops-pages-levels]]]
-
-[[[scratch3-show-hide-sprites-backdrops]]]
-
-[[[scratch3-positioning-with-layers]]]
+--- /task ---
 
 ### Add sound: 
 
+--- task ---
+
+![The Sounds tab.](images/sound-editor-tab.png)
+
+```blocks3
+when flag clicked
+
+when this sprite clicked
+
+when backdrop switches to [page v]
+```
+
+![The add a sound icon.](images/sound-icon.png)
+
 [[[scratch3-add-sound]]]
+
+![The record icon from the add sound menu.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
+![The text to speech blocks menu icon.](images/text-to-speech.png)
+
 [[[scratch3-text-to-speech]]]
+
+--- /task ---
 
 ### Useful tips:
 
@@ -65,9 +123,6 @@ when backdrop switches to
 [[[scratch3-full-screen]]]
 
 [[[scratch3-duplicate-sprite]]]
-
-
---- /task ---
 
 --- task ---
 
@@ -152,7 +207,7 @@ Check what order your backdrops are in: click on the Stage pane and then on the 
 
 You might find a bug that is not listed here. Can you work out how to fix it?
 
-We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
 
 --- /task ---
 
