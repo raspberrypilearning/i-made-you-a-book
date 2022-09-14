@@ -46,7 +46,7 @@ A <span style="color: #0faeb0">**project brief**</span> describes what a project
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book** 📚
+### 🎯 PROJECT BRIEF: Create a **digital book**
 <hr style="border-top: 2px solid black;">
 
 Your book 📚 could be a storybook, a tutorial book, a fact book, an interactive book, or something else.
@@ -54,9 +54,9 @@ Your book 📚 could be a storybook, a tutorial book, a fact book, an interactiv
 You must choose who to write the book for, such as 🧒 "my little sister", 🦖 "dinosaur fans", or 🎤 "people who are learning to sing".  
 
 Your book should:
-+ Have multiple pages 📃📃, with a way to turn ➡️ to the next page
++ Have multiple pages 📃📃, with a way to turn to the next page
 + Have at least one sprite 🐈 🐢 🎈
-+ Say 💬 or do 🌠 something different on every page
++ Say 💬 or do something different on every page
 
 Your book could:
 + Have speech or sound effects 🔉
