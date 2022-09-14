@@ -7,15 +7,15 @@ listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
-- title: Introduction
+- title: You will make
 - title: Your idea
+- title: Plan your book 
 - title: Build and test
   completion:
   - engaged
   - internal
-- title: Reflection
+- title: Checklist
   completion:
   - external
-- title: Upgrade your project
 - title: Share
 - title: What next?
