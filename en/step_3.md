@@ -40,7 +40,7 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 Think about the backdrops and sprites:
 - 🖼️ Which backdrops or background colours will you use in your book? 
 - 🗒️ How will users interact with your book to turn to the next page?
-- 🦧 Which characters and objects will you have in your book? 
+- 🦁 Which characters and objects will you have in your book? 
 - 🏃‍♀️ How will the sprites be animated and interact on each page?
 
 --- /task ---

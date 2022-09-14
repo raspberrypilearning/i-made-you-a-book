@@ -6,7 +6,7 @@ Now, it's time to build your book. Start small, and add more to your project if 
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
-### For each page
+### For each page 📃
 
 --- task ---
 
@@ -28,7 +28,7 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite
+### For each sprite 🎈
 
 --- task ---
 
@@ -52,7 +52,7 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page
+### Turning the page 📖
 
 --- task ---
 
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes and backdrops
+### Edit costumes 🦧 and backdrops 🖼️
 
 --- task ---
 
 You may want to edit or add costumes or backdrops in the Paint editor. 
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png)
+![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="200px"}
 
-![The paint costume and backdrop icons.](images/costumes-backdrops-icons.png)
+![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,7 +88,7 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound: 
+### Add sound 🎵
 
 --- task ---
 
@@ -126,7 +126,7 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book? 
+**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book? 
 
 ⏱️ If you have time, you can upgrade your project. 
 
