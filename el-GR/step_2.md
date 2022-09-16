@@ -1,8 +1,12 @@
-## Η ιδέα σου
+## Your idea 💡
 
-Χρησιμοποίησε αυτό το βήμα για να σχεδιάσεις το βιβλίο σου. Μπορείς να το σχεδιάσεις απλώς στη σκέψη σου, προσθέτοντας υπόβαθρα και αντικείμενα στο Scratch, ζωγραφίζοντας, γράφοντας - όπως θέλεις!
+Decide the theme of your book and who will be the audience.
 
-![Το Υπόβαθρο δείχνει ένα αντικείμενο να σκέφτεται, "Μερικές από τις καλύτερες ιδέες προέρχονται από το παιχνίδι. Θα βρεις καλές ιδέες ακόμη και κατά τύχη."](images/best-ideas.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+
+❓ Have you read any books on a digital device?
+</p>
 
 ### Γιατί φτιάχνεις το βιβλίο;
 
@@ -11,12 +15,13 @@
 Σκέψου τον σκοπό του βιβλίου σου.
 
 Θα μπορούσε να είναι:
-- Για να διασκεδάσεις ένα μικρότερο παιδί
-- Για να μοιραστείς ένα σημαντικό μήνυμα, όπως η ενθάρρυνση της ανακύκλωσης
-- Για να διδάξεις σε κάποιον πώς να κάνει κάτι, όπως πώς να φτιάχνει το αγαπημένο σου φαγητό
-- Για να πεις ή να ξαναπείς μία ιστορία
-- Για να μοιραστείς κάποια προσωπική σου ιστορία ή πληροφορία
-- Για να εκφραστείς και να είσαι δημιουργικός
+- 🧒 To entertain a younger child
+- ♻️ To share an important message, such as encouraging recycling
+- 🍕 To teach someone how to do something, such as how to make your favourite food
+- 📖 To tell or retell a story
+- 🗣️ To share something about yourself
+- 🎨 To express yourself and be creative
+- Or something else!
 
 --- /task ---
 
@@ -26,39 +31,14 @@
 
 Σκέψου για ποιον θα φτιάξεις το βιβλίο σου (το **κοινό σου**).
 
-Θα μπορούσε να είναι για έναν φίλο, για ένα μέλος της οικογένειας, για μια σχολική τάξη, για άτομα που μοιράζονται ένα χόμπι, για θαυμαστές ενός μουσικού ή μόνο για εσένα.
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share a hobby
+- 👨‍🎤 For fans of a musician
+- For someone else or just for yourself.
 
 --- /task ---
 
-### Ξεκινήστε
-
-Τώρα, ήρθε η ώρα να αρχίσεις να σκέφτεσαι τις σελίδες (υπόβαθρα) και τους χαρακτήρες και τα αντικείμενα (αντικείμενα) στο βιβλίο σου.
-
---- task ---
-
-Άνοιξε το [αρχικό έργο "Σου έφτιαξα ένα βιβλίο"](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα του φυλλομετρητή.
-
---- collapse ---
----
-title: Εργασία εκτός σύνδεσης
----
-
-Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκεφτείτε τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch): target = "_ blank"}.
-
---- /collapse ---
-
-Χρησιμοποίησε το νέο σου έργο Scratch, ένα στυλό και χαρτί ή και τα δύο για να σχεδιάσεις ιδέες για το βιβλίο σου.
-
---- /task ---
-
---- task ---
-
-Σκέψου τα υπόβαθρα και τα αντικείμενα:
-- Ποια υπόβαθρα ή χρώματα φόντου θα χρησιμοποιήσεις στο βιβλίο σου;
-- Πώς θα αλληλεπιδράσουν οι χρήστες με το βιβλίο σου για να μεταβούν στην επόμενη σελίδα;
-- Ποιους χαρακτήρες και αντικείμενα θα έχεις στο βιβλίο σου;
-- Πώς θα ζωντανεύουν και θα αλληλεπιδρούν τα αντικείμενα σε κάθε σελίδα;
-
---- /task ---
-
---- save ---
