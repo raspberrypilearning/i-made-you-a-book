@@ -1,8 +1,12 @@
-## あなたのアイデア
+## Your idea 💡
 
-このステップを使用して、本を計画します。 頭の中だけで考えたり、Scratchに背景やスプライトを追加したり、絵や文章を書いたり、それ以外にあなたの好きな方法で、計画を立てることができます。
+Decide the theme of your book and who will be the audience.
 
-![スプライトが"最高のアイデアのいくつかは遊びから生まれる。 良いアイデアは偶然に見つかる。" と考えているステージ](images/best-ideas.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+
+❓ Have you read any books on a digital device?
+</p>
 
 ### どうして本を作ってるの？
 
@@ -11,12 +15,13 @@
 あなたの本の目的について考えてください。
 
 例えば:
-- ちいさい子どもを楽しませるために
-- リサイクルの奨励など、重要なメッセージを共有するために
-- お気に入りの食べ物の作り方など、何かをする方法を誰かに教えるために
-- 物語を語ったり、語り直したりするために
-- あなた自身について何かを共有するために
-- 自分を表現し、創造的になるために
+- 🧒 To entertain a younger child
+- ♻️ To share an important message, such as encouraging recycling
+- 🍕 To teach someone how to do something, such as how to make your favourite food
+- 📖 To tell or retell a story
+- 🗣️ To share something about yourself
+- 🎨 To express yourself and be creative
+- Or something else!
 
 --- /task ---
 
@@ -26,39 +31,14 @@
 
 誰のために本を作るかについて考えてください（ あなたの**観客**）。
 
-友達、家族、学校のクラス、同じ趣味の人たち、ミュージシャンのファン、またはあなた自身のため、などです。
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share a hobby
+- 👨‍🎤 For fans of a musician
+- For someone else or just for yourself.
 
 --- /task ---
 
-### 始めよう
-
-それでは、本のページ（背景）と登場する人物や物（スプライト）について考えていきましょう。
-
---- task ---
-
-[あなたに本を作りましたスタータープロジェクト](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
-
---- collapse ---
----
-title：オフラインでの作業
----
-
-Scratchをオフラインで使用するための設定方法については、 [「Scratch入門」ガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}を見てください。
-
---- /collapse ---
-
-新しいScratchプロジェクト、ペンと紙、またはその両方を使用して、本のアイデアを計画します。
-
---- /task ---
-
---- task ---
-
-背景とスプライトについて考えてみましょう。
-- あなたの本でどの背景や背景色を使いますか？
-- 読者はあなたの本をどのように操作して次のページに移動しますか？
-- あなたの本にどんな人物と物を登場させますか？
-- スプライトは、各ページでどのように動き、反応しますか？
-
---- /task ---
-
---- save ---
