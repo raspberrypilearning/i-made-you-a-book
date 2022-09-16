@@ -9,4 +9,3 @@
 [[[scratch-coolest-projects]]]
 
 يمكنك أيضًا استكشاف [مشاريع Scratch الأخرى](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) وتجربتها.
-
