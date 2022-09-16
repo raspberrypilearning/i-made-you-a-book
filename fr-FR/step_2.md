@@ -1,8 +1,12 @@
-## Ton idée
+## Your idea 💡
 
-Utilise cette étape pour planifier ton livre. Tu peux planifier en réfléchissant, en ajoutant des arrière-plans et des sprites dans Scratch, ou en dessinant ou écrivant - ou comme tu le souhaites !
+Decide the theme of your book and who will be the audience.
 
-![La scène avec un sprite qui dit, "En jouant on peut découvrir d'excellentes idées. Tu trouveras de bonnes idées par hasard."](images/best-ideas.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+
+❓ Have you read any books on a digital device?
+</p>
 
 ### Pourquoi fais-tu le livre ?
 
@@ -11,12 +15,13 @@ Utilise cette étape pour planifier ton livre. Tu peux planifier en réfléchiss
 Réfléchis au but de ton livre.
 
 Ça pourrait être :
-- Pour divertir un jeune enfant
-- Pour partager un message important, comme encourager le recyclage des déchets et des emballages
-- Pour apprendre à quelqu'un à faire quelque chose, comme préparer ton plat préféré
-- Pour raconter ou remixer une histoire
-- Pour parler un peu de toi-même
-- Pour s'exprimer et être créatif
+- 🧒 To entertain a younger child
+- ♻️ To share an important message, such as encouraging recycling
+- 🍕 To teach someone how to do something, such as how to make your favourite food
+- 📖 To tell or retell a story
+- 🗣️ To share something about yourself
+- 🎨 To express yourself and be creative
+- Or something else!
 
 --- /task ---
 
@@ -26,39 +31,14 @@ Réfléchis au but de ton livre.
 
 Pense à qui tu vas montrer ton livre (ton **public**).
 
-Cela peut être pour un ami, pour un membre de la famille, pour une classe d'école, pour des personnes qui partagent un passe-temps, pour les fans d'une star de musique ou tout simplement pour toi-même.
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share a hobby
+- 👨‍🎤 For fans of a musician
+- For someone else or just for yourself.
 
 --- /task ---
 
-### Commencer
-
-Maintenant, il est temps de commencer à penser aux pages (arrière-plans) et aux personnages et objets (sprites) de ton livre.
-
---- task ---
-
-Ouvre le [Je t'ai fait un livre projet de démarrage](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
-
---- collapse ---
----
-titre : Travailler hors ligne
----
-
-Pour plus d'informations sur la configuration de Scratch pour une utilisation hors connexion, consulte [notre guide « Premiers pas avec Scratch »](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_ blank"}.
-
---- /collapse ---
-
-Utilise ton nouveau projet Scratch, un stylo et du papier, ou les deux pour planifier des idées pour ton livre.
-
---- /task ---
-
---- task ---
-
-Pense aux arrière-plans et aux sprites :
-- Quels décors ou couleurs de fond utiliseras-tu dans ton livre ?
-- Comment les utilisateurs interagiront-ils avec ton livre pour passer à la page suivante ?
-- Quels personnages et objets auras-tu dans ton livre ?
-- Comment les sprites seront-ils animés et interagiront-ils sur chaque page ?
-
---- /task ---
-
---- save ---
