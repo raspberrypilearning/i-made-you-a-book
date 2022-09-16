@@ -1,21 +1,44 @@
 ## Κοινοποίηση
 
-Τώρα, ήρθε η ώρα να μοιραστείς το βιβλίο σου με το κοινό σου.
-
-Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch. Μπορείς να στείλεις έναν σύνδεσμο σε άτομα που γνωρίζεις και ολόκληρη η κοινότητα Scratch θα μπορεί να βρει το έργο σου και να το δοκιμάσει.
+If you have a Scratch account, you can share your project through Scratch.
 
 [[[share-scratch]]]
 
-Γιατί να μην καλέσεις τους φίλους σου να δημιουργήσουν ένα έργο; Πες τους πως ήταν διασκεδαστικό.
-
-Εάν έχεις λογαριασμό Scratch και έχεις κοινοποιήσει το βιβλίο σου, πρόσεξε τα σχόλια που μπορούν να κάνουν άλλοι σχετικά με τη δημιουργία σου. Τα σχόλια είναι ένας πολύ καλός τρόπος για να επανέλθεις στο έργο σου και να το βελτιώσεις. Αγνόησε οποιαδήποτε σχόλια δεν σε βοηθούν ή είναι άσχετα.
-
 [[[comments-feedback-scratch]]]
+
+### Community submissions
 
 --- task ---
 
-Δώσε έμπνευση στην κοινότητα του Ιδρύματος Raspberry Pi με το έργο σου!
+Inspire others who do this project with your book!
 
-Για να υποβάλεις το έργο σου στο Scratch studio ['I made you a book — Community'](https://scratch.mit.edu/studios/29092393){:target="_blank"} για να το δουν κι άλλα άτομα, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**How winter came**: [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
 
 --- /task ---
