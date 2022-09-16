@@ -9,4 +9,3 @@ Os wyt ti eisiau cael dy atgoffa o'r hyn rwyt ti wedi'i ddysgu, cer i'n [Canllaw
 [[[scratch-coolest-projects]]]
 
 Galli di hefyd archwilio ein [prosiectau Scratch eraill](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) a rhoi cynnig arnyn nhw.
-
