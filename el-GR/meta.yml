@@ -5,20 +5,23 @@ description: Δημιούργησε ένα βιβλίο με πολλές σελ
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
   - 
-    title: Εισαγωγή
+    title: You will make
   - 
     title: Η ιδέα σου
   - 
-    title: Δημιουργία κι έλεγχος
-    completion: internal
+    title: Plan your book
   - 
-    title: Αναστοχασμός
-    completion: external
+    title: Build and test
+    completion:
+      - engaged
+      - internal
   - 
-    title: Αναβάθμιση του έργου σου
+    title: Checklist
+    completion:
+      - external
   - 
     title: Κοινοποίηση
   - 
