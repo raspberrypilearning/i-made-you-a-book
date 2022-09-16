@@ -5,20 +5,23 @@ description: Crie um livro com várias páginas para contar uma história ou com
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
   - 
-    title: Introdução
+    title: You will make
   - 
     title: A sua idéia
   - 
-    title: Construir e testar
-    completion: internal
+    title: Plan your book
   - 
-    title: Reflexão
-    completion: external
+    title: Build and test
+    completion:
+      - engaged
+      - internal
   - 
-    title: Melhore o seu projeto
+    title: Checklist
+    completion:
+      - external
   - 
     title: Compartilhar
   - 
