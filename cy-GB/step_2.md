@@ -1,8 +1,12 @@
-## Dy syniad
+## Your idea 💡
 
-Defnyddia'r cam yma i gynllunio dy lyfr. Galli di gynllunio drwy feddwl, ychwanegu cefndiroedd a chorluniau yn Scratch, neu drwy dynnu llun neu ysgrifennu - sut bynnag sydd well gen ti!
+Decide the theme of your book and who will be the audience.
 
-![Y Llwyfan yn dangos corlun yn meddwl, "Mae rhai o'r syniadau gorau yn dod drwy chwarae. Mi wnei di ddod o hyd i syniadau da yn ddamweiniol."](images/best-ideas.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+
+❓ Have you read any books on a digital device?
+</p>
 
 ### Pam wyt ti'n gwneud y llyfr?
 
@@ -11,12 +15,13 @@ Defnyddia'r cam yma i gynllunio dy lyfr. Galli di gynllunio drwy feddwl, ychwane
 Meddylia am bwrpas dy lyfr.
 
 Gallai fod:
-- I ddifyrru plentyn iau
-- I rannu neges bwysig, fel annog ailgylchu
-- I ddysgu rhywun sut i wneud rhywbeth, fel sut i goginio dy hoff fwyd
-- I ddweud neu ailadrodd stori
-- I rannu rhywbeth amdanat ti dy hun
-- I fynegi dy hun a bod yn greadigol
+- 🧒 To entertain a younger child
+- ♻️ To share an important message, such as encouraging recycling
+- 🍕 To teach someone how to do something, such as how to make your favourite food
+- 📖 To tell or retell a story
+- 🗣️ To share something about yourself
+- 🎨 To express yourself and be creative
+- Or something else!
 
 --- /task ---
 
@@ -26,39 +31,14 @@ Gallai fod:
 
 Ystyria i bwy wyt ti eisiau gwneud y llyfr (dy **gynulleidfa**).
 
-Gallai fod i ffrind, i aelod o'r teulu, i ddosbarth ysgol, i bobl sy'n rhannu hobi, i ffans cerddor, neu dim ond i ti dy hun.
+It could be:
+
+- 👧 For a friend
+- 👴 For a family member
+- 👩‍🎓 For a school class
+- 🏇 For people who share a hobby
+- 👨‍🎤 For fans of a musician
+- For someone else or just for yourself.
 
 --- /task ---
 
-### Sut i ddechrau
-
-Nawr, mae'n amser dechrau meddwl am y tudalennau (cefnlenni) a'r cymeriadau a'r gwrthrychau (corluniau) yn dy lyfr.
-
---- task ---
-
-Agora'r [prosiect cychwynnol Dw i wedi creu llyfr i ti](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Bydd Scratch yn agor mewn tab arall ar y porwr.
-
---- collapse ---
----
-title: Gweithio all-lein
----
-
-I gael gwybodaeth am sut i osod Scratch i'w ddefnyddio all-lein, ymwelwch â [ein canllaw 'Dechrau arni gyda Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){: target = "_ blank"}.
-
---- /collapse ---
-
-Defnyddia dy brosiect Scratch newydd, beiro a phapur, neu'r ddau i gynllunio syniadau ar gyfer dy lyfr.
-
---- /task ---
-
---- task ---
-
-Meddylia am y cefnlenni a'r corluniau:
-- Pa gefnlenni neu liwiau cefndir fyddi di'n eu defnyddio yn dy lyfr?
-- Sut bydd defnyddwyr yn rhyngweithio â dy lyfr i droi i'r dudalen nesaf?
-- Pa gymeriadau a gwrthrychau fydd gen ti yn dy lyfr?
-- Sut fydd y corluniau yn cael eu hanimeiddio ac yn rhyngweithio ar bob tudalen?
-
---- /task ---
-
---- save ---
