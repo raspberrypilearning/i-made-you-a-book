@@ -9,4 +9,3 @@
 [[[scratch-coolest-projects]]]
 
 [その他のScratchプロジェクト](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) を探索して、試してみることもできます。
-
