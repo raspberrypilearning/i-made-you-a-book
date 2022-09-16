@@ -5,20 +5,23 @@ description: Maak een boek met meerdere pagina's om een verhaal te vertellen of 
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
   - 
-    title: Inleiding
+    title: You will make
   - 
     title: Jouw idee
   - 
-    title: Bouwen en testen
-    completion: internal
+    title: Plan your book
   - 
-    title: Reflectie
-    completion: external
+    title: Build and test
+    completion:
+      - engaged
+      - internal
   - 
-    title: Verbeter je project
+    title: Checklist
+    completion:
+      - external
   - 
     title: Deel
   - 
