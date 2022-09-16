@@ -9,4 +9,3 @@ Als je een herinnering nodig hebt aan wat je geleerd hebt, kun je naar onze ['Aa
 [[[scratch-coolest-projects]]]
 
 Je kunt ook onze [andere Scratch-projecten](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) verkennen en uitproberen.
-
