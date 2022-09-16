@@ -1,21 +1,72 @@
-## プロジェクトをアップグレードする
+## Checklist
 
-時間がある場合は、プロジェクトをアップグレードできます。 あなたはすでに何を追加するかについてのアイデアを持っているかもしれません！
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-こんなことができます:
-- スプライトにコードを追加します
-- 別のスプライトを追加する
-- 音を録音する
-- ペイントエディタで新しいコスチュームを作成します
+### Your book should have:
 
-[の各プロジェクト '私はあなたに本を作りました—例' Scratch studio](https://scratch.mit.edu/studios/29082370){:target="_blank"}には **中を⾒る** リンクがあり、これを使用してScratchエディターでプロジェクトを開き、コードを確認できます。 アイデアを得て、プロジェクトがどのように機能するかを確認します。
+--- task ---
 
-**Sporgが家に帰る**： [内部を見る](https://scratch.mit.edu/projects/631853310/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
-</div>
+Multiple pages, with a way to turn to the next page
 
-私たちの ['私はあなたに本を作りました—コミュニティ'スクラッチスタジオ](https://scratch.mit.edu/studios/29092393/){:target="_blank"}を見て、コミュニティメンバーによって作成されたプロジェクトを見てください。
+--- /task ---
 
---- save ---
+--- task ---
+
+At least one sprite
+
+--- /task ---
+
+--- task ---
+
+Different actions on every page
+
+--- /task ---
+
+### Your book could also have:
+
+--- task ---
+
+Speech or sound effects
+
+--- /task ---
+
+--- task ---
+
+Text or art that has been created in the Paint editor
+
+--- /task ---
+
+--- task ---
+
+Interactive features on every page
+
+--- /task ---
+
+### Reflection
+
+You can reflect on how you made your book, to help you in your future projects:
+
+--- task ---
+
+How did you get your ideas?
+
+--- /task ---
+
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+🎉 Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 
