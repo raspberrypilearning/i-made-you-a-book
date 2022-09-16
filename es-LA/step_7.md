@@ -9,4 +9,3 @@ Si necesitas un recordatorio de lo que has aprendido, puedes ir a nuestra [guía
 [[[scratch-coolest-projects]]]
 
 También puedes explorar nuestros [otros proyectos Scratch](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) y probarlos.
-
