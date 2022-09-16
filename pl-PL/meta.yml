@@ -5,20 +5,23 @@ description: Zrób książkę z wieloma stronami, aby opowiedzieć historię lub
 version: 4
 listed: true
 copyedit: false
-last_tested: "2021-03-09"
+last_tested: '2021-03-09'
 steps:
   - 
-    title: Wprowadzenie
+    title: You will make
   - 
     title: Twój pomysł
   - 
-    title: Buduj i testuj
-    completion: internal
+    title: Plan your book
   - 
-    title: Reflection
-    completion: external
+    title: Build and test
+    completion:
+      - engaged
+      - internal
   - 
-    title: Upgrade your project
+    title: Checklist
+    completion:
+      - external
   - 
     title: Share
   - 
