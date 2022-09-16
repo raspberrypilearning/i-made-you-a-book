@@ -1,21 +1,44 @@
 ## 共有
 
-さて、あなたの本を読者と共有する時が来ました。
-
-Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。 あなたの知っている人たちにリンクを送ることができ、そしてScratchコミュニティ全体があなたのプロジェクトを見つけてそれを試すことができるでしょう。
+If you have a Scratch account, you can share your project through Scratch.
 
 [[[share-scratch]]]
 
-友達を招待してプロジェクトを作ってみませんか？ あなたがどのように楽しんだかを彼らに教えてあげてください。
-
-Scratchアカウントを持っていて、ブックプロジェクトを共有している場合は、他の人のあなたの本に対するコメントに注意してください。 フィードバックは、あなたの作品を振り返るのに最適な方法です。 役に立たない、または無関係なコメントは無視してください。
-
 [[[comments-feedback-scratch]]]
+
+### Community submissions
 
 --- task ---
 
-あなたのプロジェクトでRaspberry Pi Foundationコミュニティに刺激を与えてください！
+Inspire others who do this project with your book!
 
-他の人が見ることができるよう、あなたのプロジェクトを私たち [I made you a book — Community' Scratchコミュニティ](https://scratch.mit.edu/studios/29092393){:target="_blank"}に送るには、 [このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}を使ってください。
+To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+
+**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**How winter came**: [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
 
 --- /task ---
