@@ -1,152 +1,40 @@
-## بناء واختبار
+## Plan your book 📔
 
-حان الوقت الآن لإعداد كتابك. ابدأ بمشروع صغير ، وأضف المزيد إلى مشروعك إذا كان لديك الوقت.
+Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
 
-![صفحات متعددة لمشروع الكتاب.](images/pages-rama.png)
+![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
 
-**نصيحة:** تذكر أن تختبر مشروعك في كل مرة تضيف شيئًا. من الأسهل بكثير العثور على الأخطاء وإصلاحها قبل إجراء المزيد من التغييرات.
-
---- task ---
-
-سوف تحتاج إلى أن تقرر في أي ترتيب لبناء كتابك. للبدء ، يمكنك:
-- إنشاء جميع الصفحات كخلفيات ، أو
-- الحصول على صفحة واحدة تعمل أولاً
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-قد لا يكون لديك الوقت لإضافة كل ما تريد إلى كتابك في البداية. لا بأس بذلك - يمكنك دائمًا العودة إلى مشروعك لاحقًا. 
-</p>
+Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
 
 --- task ---
 
-لقد اكتسبت بعض المهارات المفيدة حقًا في Scratch. إليك تذكير لمساعدتك في صنع كتابك:
+Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
 
-التعليمات البرمجية:
+⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
-[[[scratch3-changing-backdrops-pages-levels]]]
+--- collapse ---
+---
+title: Working offline
+---
 
-[[[scratch3-change-costumes-to-show-mood]]]
+For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
-[[[scratch3-animate-movement-costumes]]]
-
-[[[scratch3-graphic-effects]]]
-
-[[[scratch3-show-hide-sprites-backdrops]]]
-
-[[[scratch3-positioning-with-layers]]]
-
-[[[scratch3-jiggle-a-sprite]]]
-
-محرر الرسام - الخلفيات والأزياء:
-
-[[[scratch3-paint-a-new-backdrop-extended]]]
-
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
-
-[[[scratch3-use-text-tool]]]
-
-[[[scratch3-copy-parts-between-sprite-costumes]]]
-
-[[[scratch3-add-costumes-to-a-sprite]]]
-
-الصوت:
-
-[[[scratch3-add-sound]]]
-
-[[[scratch3-record-sound]]]
-
-[[[scratch3-text-to-speech]]]
-
-محرر Scratch:
-
-[[[scratch3-copy-code]]]
-
-[[[scratch3-full-screen]]]
-
-[[[scratch3-duplicate-sprite]]]
-
+--- /collapse ---
 
 --- /task ---
 
 --- task ---
 
-**اختبار:** اعرض مشروعك على شخص آخر واطلب منه إبداء الرأي. هل تريد إجراء أي تغييرات على كتابك؟
+Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+
+You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+
+Think about the backdrops and sprites:
+- 🖼️ Which backdrops or background colours will you use in your book?
+- 🗒️ How will users interact with your book to turn to the next page?
+- 🦁 Which characters and objects will you have in your book?
+- 🏃‍♀️ How will the sprites be animated and interact on each page?
+
+![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
-
---- task ---
-
-**تصحيح:** قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة:
-
---- collapse ---
----
-title: كائن يظهر أو يختبئ في الصفحات الخطأ
----
-
-تأكد من أن الكائن يحتوي على `عندما تتبدل الخلفية إلى`{: class = "block3events"} مع `عرض`{: class = "block3looks"} أو `إخفاء`{: class = "block3looks"} حسب الحاجة. تأكد من أنك اخترت اسم الخلفية الصحيح في `عندما تتبدل الخلفية إلى`{: class = "block3events"}. من المفيد إعطاء أسماء الخلفيات التي يمكنك فهمها بسهولة ، للمساعدة في اكتشاف مثل هذه المشاكل.
-
---- /collapse ---
-
---- collapse ---
----
-title: كائن ينقلب رأسًا على عقب
----
-
-إضافة لبنة`نمط الدوران يمين-يسار`{: فئة = "block3motion"} أو `نمط الدوران لا دوران`{: فئة = "block3motion"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: "يقفز" الكائن عندما يغير زيه أو يرتد
----
-
-تأكد من أن الزي يتم توسيطه في محرر الرسام (قم بمحاذاة الصليب الأزرق في الزي مع علامة التقاطع في وسط محرر الرسام).
-
---- /collapse ---
-
---- collapse ---
----
-title: الصوت لا يعمل
----
-
-هل أضفت لبنة إلى `تشغيل الصوت`{: class = "block3sound"} عند الحاجة؟ إذا نسخت رمزًا من كائن آخر ، فستحتاج إلى إضافة الصوت إلى هذا الكائن في علامة التبويب **الأصوات** تتحقق من مستوى الصوت على جهاز الكمبيوتر أو الجهاز اللوحي، وتأكد من أنك لم تخفض مستوى الصوت باستخدام التعليمة البرمجية- محاولة `اجعل القيمة إلى`{: فئة = "block3sound"} `100`.
-
---- /collapse ---
-
---- collapse ---
----
-title: الكائنات الأخرى تستمر في التقدم أمام كائن ما
----
-
-أضف `انتقل إلى`{: class = "block3looks"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: يتحرك الكائن أو يتغير مرة واحدة فقط
----
-
-ضع التعليمة البرمجية داخل `كرر باستمرار`{: class = "block3control"} بحيث تستمر في العمل.
-
---- /collapse ---
-
---- collapse ---
----
-title: ترتيب الصفحات خاطئ
----
-
-تحقق من ترتيب الخلفيات الخاصة بك: انقر فوق جزء المنصة ثم على **الخلفيات** لعرض الخلفيات الخاصة بمشروعك.
-
---- /collapse ---
-
-قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
-
-نحن نحب أن نسمع عن أخطائك وكيفية إصلاحها. استخدم **إرسال ملاحظات** في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
-
---- /task ---
-
-
---- save ---
