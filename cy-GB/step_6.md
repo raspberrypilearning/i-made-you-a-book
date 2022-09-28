@@ -1,4 +1,4 @@
-## Rhannu
+## Share and play
 
 If you have a Scratch account, you can share your project through Scratch.
 
