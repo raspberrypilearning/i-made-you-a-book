@@ -1,12 +1,12 @@
-## You will make
+## Ти зробиш
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Створиш 📚книгу в Scratch на основі своєї власної ідеї 💡.
 
-You will:
+Зможеш:
 
-+ Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Створити цифрову книгу для когось конкретного
++ Обрати які навички використовувати для створення своєї книги
++ Поділитись посиланням на свою книгу
 
 --- no-print ---
 
@@ -15,18 +15,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Грати ▶️ 
 
-Click on the corner to turn the page.
+Клацни по кутку, щоб перегорнути сторінку.
 
-Look for sprites that show and hide on different pages.
+Шукай спрайти, які показуються і ховаються на різних сторінках.
   
-What happens when you click on each sprite?
+Що відбувається, якщо натиснути на кожен спрайт?
 
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Лоскотливий монстр**: [Переглянути код](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -38,51 +38,51 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Ваша книга повинна відповідати вимогам **короткого опису проєкту**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">**короткий опис проєкту**</span> описує, що повинен зробити проєкт. Це схоже на отримання завдання, яке необхідно виконати.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 КОРОТКИЙ ОПИС проєкту: Створи **електронну книгу**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Тобі потрібно буде вирішити, який тип книги ти хочеш створити і для кого вона буде призначена. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Твоя книга повинна:
++ 📃 Мати кілька сторінок, з можливістю переходу на наступну сторінку
++ 🐢 Мати хоча б одного спрайта
++ 💬 Говорити або виконувати щось інше на кожній сторінці
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Твоя книга може:
++ 🔉 Мати голосові або звукові ефекти 
++ 🎨 Мати текст або малюнки, які були створені в редакторі Малювання 
++ 🖱️ Мати інтерактивні функції на кожній сторінці
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Спробуй ці приклади проєктів, щоб отримати ідеї для своєї книги:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Поділися своїм готовим проєктом Сюрприз, щоб мати шанс бути опублікованим у цьому списку.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Мій гурт** 🎸 : [Переглянути код](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Light the way home** 🕯️ : [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Освітли дорогу додому** 🕯️ : [Переглянути код](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Як прийшла зима** ☃️ : [Переглянути код](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (проєкт спільноти)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -93,11 +93,11 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Отримай ідеї 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Щоб отримати ідеї для своєї 📚 книги, ти можеш **Переглянути код** проєктів прикладів у студії Scratch 'Я зробив тобі книжку - Приклади': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Проєкт 'Освітли дорогу додому'.](images/showcase_static.png)
 
 --- /print-only ---
 
