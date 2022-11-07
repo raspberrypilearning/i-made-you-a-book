@@ -1,28 +1,28 @@
 ---
 title: Je t'ai fait un livre
 hero_image: images/banner.png
-description: Crée un livre avec plusieurs pages pour raconter une histoire ou partager des informations
+description: Créer un livre avec plusieurs pages pour raconter une histoire ou partager des informations
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Ce que tu vas faire
   - 
     title: Ton idée
   - 
-    title: Plan your book
+    title: Planifier ton livre
   - 
-    title: Build and test
+    title: Construire et tester
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Liste de contrôle
     completion:
       - external
   - 
-    title: Share and play
+    title: Partager et jouer
   - 
     title: Et ensuite ?
