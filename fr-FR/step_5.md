@@ -1,72 +1,72 @@
-## Checklist
+## Liste de contrôle
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+As-tu respecté la **fiche de projet** ? Réfléchis à ton projet, parcours la liste de contrôle ci-dessous et coche les fonctionnalités de ton projet.
 
-### Your book should have:
+### Ton livre doit contenir :
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Plusieurs pages, avec un moyen de passer à la page suivante
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Au moins un sprite
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Différentes actions sur chaque page
 
 --- /task ---
 
-### Your book could also have:
+### Ton livre pourrait aussi avoir :
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Des voix ou des effets sonores
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Texte ou illustration créé dans l'éditeur de peinture
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Des fonctionnalités interactives sur chaque page
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Réflexion
 
-🎉 Take a moment to celebrate what you have made.
+Tu peux réfléchir à la manière dont tu as réalisé ton livre, pour t'aider dans tes futurs projets :
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Comment as-tu trouvé tes idées ?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Quelle(s) nouvelle(s) chose(s) cool as-tu apprise(s) ?
+
+--- /task ---
+
+### Tu es maintenant l'auteur d'un livre numérique !
+
+🎉 Prends un moment pour célébrer ce que tu as fait.
+
+--- task ---
+
+Comment vas-tu utiliser tes nouveaux pouvoirs ? Que feras-tu ensuite ?
+
+--- /task ---
+
+![Le chat Scratch portant un chapeau de fête.](images/reflect.png)
 
