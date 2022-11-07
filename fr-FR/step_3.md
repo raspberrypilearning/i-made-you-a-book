@@ -1,23 +1,23 @@
-## Plan your book 📔
+## Planifier ton livre 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Utilise cette étape pour planifier ton livre. Tu peux planifier en réfléchissant, en ajoutant des arrière-plans et des sprites dans Scratch, ou en dessinant ou écrivant - ou comme tu le souhaites !
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![La scène montrant un sprite pensant, "Certaines des meilleures idées viennent du jeu. Tu trouveras de bonnes idées par hasard."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Maintenant, il est temps de commencer à penser aux pages (arrière-plans) et aux personnages et objets (sprites) de ton livre.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Ouvre le [ projet de démarrage « Je t'ai fait un livre »](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch s'ouvrira dans un autre onglet du navigateur.
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ Tu n'as pas beaucoup de temps ? Tu peux commencer à partir de l'un des [exemples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
 --- collapse ---
 ---
-title: Working offline
+title: Travailler hors ligne
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Pour plus d'informations sur la configuration de Scratch pour une utilisation hors connexion, consulte [notre guide « Premiers pas avec Scratch »](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_ blank"}.
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+Utilise ton nouveau projet Scratch pour planifier ton livre. Tu n'as pas à planifier toutes les pages que tu peux ajouter plus tard.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+Tu peux également utiliser ✏️ un crayon et [cette feuille de planification](resources/i-made-a-book-worksheet.pdf){:target="_blank"} ou une feuille de papier pour esquisser tes idées.
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+Pense aux arrière-plans et aux sprites :
+- 🖼️ Quels décors ou couleurs d'arrière-plan utiliseras-tu dans ton livre ?
+- 🗒️ Comment les utilisateurs interagiront-ils avec ton livre pour passer à la page suivante ?
+- 🦁 Quels personnages et objets auras-tu dans ton livre ?
+- 🏃‍♀️ Comment les sprites seront-ils animés et interagiront-ils sur chaque page ?
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![Un exemple de fiche de planification téléchargeable remplie par un enfant. Des motifs dessinés à la main remplissent les six rectangles de la page.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
