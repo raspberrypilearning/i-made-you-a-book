@@ -8,9 +8,9 @@ copyedit: false
 last_tested: '2021-03-09'
 steps:
   - title: Ти зробиш
-  - title: Свою ідею
-  - title: Сплануєш свою книгу
-  - title: Побудуєш та протестуєш
+  - title: Твоя ідея
+  - title: Сплануй свою книгу
+  - title: Побудуй та протестуй
     completion:
       - engaged
       - internal

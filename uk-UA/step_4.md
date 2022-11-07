@@ -19,7 +19,7 @@
 ```blocks3
 when flag clicked
 
-when backdrop switches to [page v]
+when backdrop switches to [сторінка v]
 ```
 
 [[[scratch3-show-hide-sprites-backdrops]]]
@@ -39,7 +39,7 @@ when flag clicked
 
 when this sprite clicked
 
-when backdrop switches to [page v]
+when backdrop switches to [сторінка v]
 ```
 
 [[[scratch3-change-costumes-to-show-mood]]]
