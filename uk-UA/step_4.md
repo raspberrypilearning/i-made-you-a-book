@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Побудуй 🧱 та протестуй 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Настав час побудувати свою книгу. Почни з малого, а потім, якщо буде час, додай до свого проєкту більше.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Багатосторінковий книжковий проєкт.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Порада:** Не забувай тестувати свій проєкт кожного разу, коли щось додаєш. Набагато простіше знайти та виправити помилки до того, як внести нові зміни.
 
-### For each page 📃
+### Для кожної сторінки 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Додай тло та нові спрайти, які тобі потрібні для цієї сторінки.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Іконки вибору спрайта на вибору тла.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Тобі потрібно буде додати код, щоб задати позиції та видимість спрайтів на першій титульній сторінці та на кожній наступній сторінці.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Для кожного спрайта 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Тобі потрібно буде додати код до кожного персонажа та спрайта об'єкта у твоїй книзі. Подумай, чи будуть вони щось робити, коли запускається проєкт, коли тло зміниться на певну сторінку або коли спрайт буде натиснутий.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Перегортання сторінки 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Тобі потрібно, щоб твій читач міг перейти на наступну сторінку твоєї книги.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Редагування образів🦁 й тла🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Можливо, ти захочеш змінити або додати образи та тло у редакторі Малювання.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Вкладки Образи та Тло.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Іконки малювання образа та тла.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Додавання звуку 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Вкладка Звуки.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![Іконка додавання звуку.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![Іконка запису з меню додавання звуку.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![Іконка вибору пункту меню Текст у мову.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Нагадування про редактор Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Тест:** 🔄 Покажи комусь свій проєкт та попроси 🗣️ його залишити відгук. Хочеш внести зміни до своєї книги?
 
-⏱️ If you have time, you can upgrade your project.
+Якщо у тебе є час, ти можеш вдосконалити свій проєкт.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+Можеш:
+- Додати більше коду до спрайтів
+- Додай ще один спрайт
+- Додати ще одну сторінку
+- Записати звук
+- Створити новий образ в редакторі Малювання
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Налагодження:** 🐞 Можливо, у твоєму проєкті знайдуться помилки, які потрібно буде виправити. Ось деякі поширені помилки:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Спрайт показується або ховається не на тих сторінках
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Переконайся, що спрайт має скрипт `коли тло зміниться на`{:class="block3events"} з блоком `показати`{:class="block3looks"} або `сховати`{:class="block3looks"} за потребою. Переконайся, що обрано правильну назву тла у блоці `коли тло зміниться на`{:class="block3events"}. Рекомендується давати тлу назву, яку ти можеш легко зрозуміти, щоб допомогти виявити подібні проблеми.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: Спрайт перевертається догори ногами
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Додай блок `стиль обертання зліва-направо`{:class="block3motion"} або `стиль обертання не обертати`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Спрайт "стрибає", коли змінює образ або відскакує від краю Сцени
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Переконайся, що образ знаходиться по центру в редакторі Малювання (вирівняй синій хрестик на образі з прицілом по центру редактора Малювання).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Звук не відтворюється
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Чи додано блок, щоб `відтворити звук`{:class="block3sound"} коли це необхідно? Якщо код був скопійований з іншого спрайта, то потрібно буде додати звук для цього спрайта у вкладці **Звуки**. Перевір гучність на комп'ютері або планшеті, і переконайся, що гучність не була знижена кодом — спробуй `встановити гучність на`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Інші спрайти знаходяться перед спрайтом
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Додай блок `помістити на передній план`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Спрайт рухається або змінюється тільки один раз
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Додай свій код у блок `завжди`{:class="block3control"}, щоб код виконувався безперервно.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Сторінки розташовані в неправильному порядку
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Перевір порядок розташування тлів: клацни на панелі Сцена, а потім на вкладку **Тло**, щоб переглянути тло для твого проєкту.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Можливо, ти знайдеш помилку, яка не вказана тут. Чи зможеш ти самостійно її виправити?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Нам подобається дізнаватись про твої помилки та про те, як їх вдалося виправити. Скористайся кнопкою **Надіслати відгук** внизу цієї сторінки та напиши нам, якщо у твоєму проєкті було виявлено іншу помилку.
 
 --- /task ---
 
