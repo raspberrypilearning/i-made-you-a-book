@@ -1,28 +1,28 @@
 ---
-title: I made you a book
+title: Я зробив тобі книжку
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: Створиш книгу з кількома сторінками, щоб розповісти історію або поділитися фактами
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Ти зробиш
   - 
-    title: Your idea
+    title: Свою ідею
   - 
-    title: Plan your book
+    title: Сплануєш свою книгу
   - 
-    title: Build and test
+    title: Побудуєш та протестуєш
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Контрольний список
     completion:
       - external
   - 
-    title: Share and play
+    title: Ділись та грай
   - 
-    title: What next?
+    title: Що далі?
