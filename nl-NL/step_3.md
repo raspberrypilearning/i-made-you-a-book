@@ -1,23 +1,23 @@
-## Plan your book 📔
+## Plan je boek 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Gebruik deze stap om je boek te plannen. Je kunt plannen door gewoon na te denken, achtergronden en sprites toe te voegen in Scratch, of te tekenen of te schrijven - of wat je maar wilt!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Het speelveld toont een sprite die denkt, "Enkele van de beste ideeën komen voort uit spelen. Goede ideeën kom je vanzelf tegen."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Nu is het tijd om na te denken over de pagina's (achtergronden) en de personages en voorwerpen (sprites) in je boek.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Open het [Ik heb een boek voor je gemaakt startproject](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch wordt in een nieuw browsertabblad geopend.
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ Niet veel tijd? Je kunt beginnen met een van de [voorbeelden](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
 --- collapse ---
 ---
-title: Working offline
+title: Offline werken
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Voor informatie over hoe je Scratch instelt voor offline gebruik, ga je naar [onze handleiding 'Aan de slag met Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+Gebruik je nieuwe Scratch-project om je boek te plannen. Je hoeft niet alle pagina's te plannen, je kunt ze er later altijd nog meer toevoegen.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+Je kunt ook ✏️ een potlood en [dit planningsblad](resources/i-made-a-book-worksheet.pdf){:target="_blank"} of een stuk papier gebruiken om je ideeën te schetsen.
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+Denk na over de achtergronden en sprites:
+- 🖼️ Welke achtergronden of achtergrondkleuren gebruik je in je boek?
+- 🗒️ Hoe gaan gebruikers je boek gebruiken om naar de volgende pagina te gaan?
+- 🦁 Welke personages en voorwerpen ga je gebruiken in je boek?
+- 🏃‍♀️ Hoe zullen de sprites op elke pagina worden geanimeerd en met elkaar omgaan?
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![Een voorbeeld van het downloadbaar planningsblad ingevuld door een kind. Handgetekende ontwerpen vullen de zes rechthoeken op de pagina.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
