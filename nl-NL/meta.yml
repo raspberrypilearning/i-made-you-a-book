@@ -8,13 +8,13 @@ copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Je gaat maken
   - 
     title: Jouw idee
   - 
-    title: Plan your book
+    title: Plan je boek
   - 
-    title: Build and test
+    title: Bouwen en testen
     completion:
       - engaged
       - internal
