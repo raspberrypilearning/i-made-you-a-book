@@ -1,12 +1,12 @@
-## You will make
+## Ce que tu vas faire
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Crée un 📚 livre dans Scratch basé sur ta propre idée 💡.
 
-You will:
+Tu vas :
 
-+ Create a digital book for someone specific
++ Créer un livre numérique pour quelqu'un en particulier
 + Choisir les compétences à utiliser pour créer ton livre
-+ Partager l'adresse Web de ton livre
++ Partager l'adresse web de ton livre
 
 --- no-print ---
 
@@ -15,18 +15,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Jouer ▶️ 
 
-Click on the corner to turn the page.
+Clique sur le coin pour tourner la page.
 
-Look for sprites that show and hide on different pages.
+Recherche les sprites qui s'affichent et se cachent sur différentes pages.
   
-What happens when you click on each sprite?
+Que se passe-t-il lorsque tu cliques sur chaque sprite ?
 
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+** Le monstre chatouilleux** : [Voir à l'intérieur](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -38,51 +38,51 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Ton livre devra répondre à **la fiche de projet**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+La <span style="color: #0faeb0">**fiche de projet**</span> décrit ce qu'un projet doit faire. C'est un peu comme une mission à accomplir.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 FICHE DE PROJET : Créer un **livre numérique**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Tu devras décider quel type de livre tu souhaites créer et à qui il s'adresse. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Ton livre devrait :
++ 📃 Contenir plusieurs pages, avec un moyen de passer à la page suivante
++ 🐢 Contenir au moins un sprite
++ 💬 Raconter ou faire quelque chose de différent sur chaque page
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Ton livre pourrait :
++ 🔉 Contenir des paroles ou des effets sonores 
++ 🎨 Contenir du texte ou des dessins qui ont été créés dans l'éditeur de peinture
++ 🖱️ Contenir des fonctionnalités interactives sur chaque page
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Joue avec ces exemples de projets pour trouver des idées pour ton livre :
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Partage ton projet d'animation Surprise terminé pour avoir une chance qu'il soit présenté ici.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Mon groupe** 🎸 : [Voir à l'intérieur](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Light the way home** 🕯️ : [See inside](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**Éclaire le chemin de la maison** 🕯️ : [Voir à l'intérieur](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Comment l'hiver est arrivé** ☃️ : [Voir à l'intérieur](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (projet communautaire en vedette)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -93,11 +93,11 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Trouve l'inspiration 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Pour avoir des idées pour ton 📚 livre, **Voir à l'intérieur** exemples de projets dans le studio Scratch "Je t'ai fait un livre — Exemples" : https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Le projet "Éclaire le chemin de la maison".](images/showcase_static.png)
 
 --- /print-only ---
 
