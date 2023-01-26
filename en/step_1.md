@@ -70,7 +70,7 @@ Your book could:
 
 Play with these example projects to get ideas for your book:
 
-⭐ Share your finished Surprise animation project for a chance of it being featured here.
+⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
 
 **My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
