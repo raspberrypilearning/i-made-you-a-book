@@ -70,7 +70,7 @@ Je boek kan:
 
 Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Deel je voltooide 'Ik heb een boek voor je gemaakt'-project om kans te maken dat het hier wordt weergegeven.
 
 **Mijn band** 🎸 : [Bekijk van binnen](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -82,12 +82,12 @@ Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Onbedoelde teleportatie** 🚀 : [Bekijk van binnen](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Hoe de winter kwam** ☃️ : [Bekijk van binnen](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -100,9 +100,9 @@ Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
 
 ### Doe inspiratie op 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Om ideeën voor jouw 📚 boek op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Ik maak een boek voor je — Voorbeelden': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Het project 'Verlicht de weg naar huis'.](images/showcase_static.png)
 
 --- /print-only ---
 
