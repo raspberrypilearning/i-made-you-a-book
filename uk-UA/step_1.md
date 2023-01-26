@@ -70,7 +70,7 @@
 
 Спробуй ці приклади проєктів, щоб отримати ідеї для своєї книги:
 
-⭐ Поділися своїм готовим проєктом Сюрприз, щоб мати шанс бути опублікованим у цьому списку.
+⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
 
 **Мій гурт** 🎸 : [Переглянути код](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -82,7 +82,12 @@
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Як прийшла зима** ☃️ : [Переглянути код](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (проєкт спільноти)
+**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -95,9 +100,9 @@
 
 ### Отримай ідеї 💭
 
-Щоб отримати ідеї для своєї 📚 книги, ти можеш **Переглянути код** проєктів прикладів у студії Scratch 'Я зробив тобі книжку - Приклади': https://scratch.mit.edu/studios/29082370
+To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
 
-![Проєкт 'Освітли дорогу додому'.](images/showcase_static.png)
+![The 'Light the way home' project.](images/showcase_static.png)
 
 --- /print-only ---
 
