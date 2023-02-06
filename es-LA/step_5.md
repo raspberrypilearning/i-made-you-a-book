@@ -64,7 +64,7 @@ What cool new thing(s) did you learn?
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Where will you take your new powers? ¿Qué harás a continuación?
 
 --- /task ---
 
