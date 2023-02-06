@@ -1,4 +1,4 @@
-## Share and play
+## Comparte y juega
 
 If you have a Scratch account, you can share your project through Scratch.
 
