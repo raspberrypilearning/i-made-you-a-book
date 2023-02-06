@@ -1,4 +1,4 @@
-## You will make
+## Lo que harás
 
 Create a 📚 book in Scratch based on your own idea 💡.
 
@@ -15,9 +15,9 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Reproducir▶️ 
 
-Click on the corner to turn the page.
+Haz clic en la esquina para pasar la página.
 
 Look for sprites that show and hide on different pages.
   
@@ -46,10 +46,10 @@ A <span style="color: #0faeb0">**project brief**</span> describes what a project
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 RESUMEN DEL PROYECTO: Crea un **libro digital**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Decide el tipo de libro que te gustaría hacer y para quienes está destinado. 
 
 Your book should:
 + 📃 Have multiple pages, with a way to turn to the next page
@@ -68,7 +68,7 @@ Your book could:
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Explora estos proyectos de ejemplo para obtener ideas para tu libro:
 
 ⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
 
