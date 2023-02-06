@@ -1,14 +1,10 @@
-## Inleiding
+## Je gaat maken
 
-Maak een boek in Scratch op basis van je eigen idee. Je boek moet voldoen aan de **projectbeschrijving**.
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Een <span style="color: #0faeb0">**projectbeschrijving**</span> beschrijft wat een project moet doen. Het is een beetje alsof je een missie krijgt om te voltooien.
-</p>
+Maak een 📚 boek in Scratch op basis van je eigen idee 💡.
 
 Je gaat:
 
-+ Ideeën bedenken om voor een speciaal iemand een digitaal boek te maken
++ Een digitaal boek maken voor iemand specifiek
 + Kiezen welke vaardigheden je wilt gebruiken om je boek te maken
 + Een webadres voor je boek delen
 
@@ -19,20 +15,20 @@ Je gaat:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Probeer het
+### Spelen ▶️ 
 
 Klik op de hoek om de pagina om te slaan.
 
-Hoeveel pagina's heeft het boek?
-
 Zoek naar sprites die op verschillende pagina's worden weergegeven en verborgen.
+  
+Wat gebeurt er als je op elke sprite klikt?
 
 </div>
 <div>
-
-**Verlicht de weg naar huis**: [Bekijk van binnen](https://scratch.mit.edu/projects/599657302/editor){:target="_blank"}
+  
+**Kietelmonster**: [Bekijk van binnen](https://scratch.mit.edu/projects/599660054/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599657302/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599660054/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -42,52 +38,58 @@ Zoek naar sprites die op verschillende pagina's worden weergegeven en verborgen.
 
 --- /no-print ---
 
-<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
-
-### PROJECTBESCHRIJVING: Maak een **digitaal boek**
-<hr style="border-top: 2px solid black;">
-
-Jouw boek kan een verhalenboek, een instructieboek, een feitenboek, een interactief boek of iets anders zijn.
-
-Je moet kiezen voor wie je het boek wilt schrijven, zoals 'mijn zusje', 'dinosaurusfans' of 'mensen die leren zingen'.  
-
-Je boek moet:
-+ meerdere pagina's hebben, met een manier om naar de volgende pagina te gaan
-+ minstens één sprite hebben
-+ op elke pagina iets anders zeggen of doen
-
-Je boek kan:
-+ spraak- of geluidseffecten hebben
-+ tekst of illustraties hebben die zijn gemaakt in de Paint-editor
-+ interactieve functies op elke pagina hebben
-</div>
+Je boek moet voldoen aan de **projectbeschrijving**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Een <span style="color: #0faeb0">**digitaal boek**</span> (of e-book) is een boek dat is gemaakt en wordt gelezen op een computer, tablet, telefoon of ander elektronisch apparaat. Heb je al eens een boek op een digitaal apparaat gelezen?
+Een <span style="color: #0faeb0">**projectbeschrijving**</span> beschrijft wat een project moet doen. Het is een beetje alsof je een missie krijgt om te voltooien.
 </p>
+
+<div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
+
+### 🎯 PROJECTBESCHRIJVING: Maak een **digitaal boek**
+<hr style="border-top: 2px solid black;">
+
+Je moet beslissen welk type boek je wilt maken en voor wie het is. 
+
+Je boek moet:
++ 📃 Meerdere pagina's hebben, met een manier om naar de volgende pagina te gaan
++ 🐢 Ten minste één sprite hebben
++ 💬 Op elke pagina iets anders zeggen of doen
+
+Je boek kan:
++ 🔉 Spraak of geluidseffecten bevatten
++ 🎨 Tekst of illustraties bevatten die zijn gemaakt in de Teken-editor
++ 🖱️ Interactieve functies op elke pagina bevatten
+</div>
 
 --- no-print ---
 
-### Doe inspiratie op
+### Doe inspiratie op 💭
 
 --- task ---
 
 Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
 
-**Kietelmonster**: [Bekijk van binnen](https://scratch.mit.edu/projects/599660054/editor){:target="_blank"}
+⭐ Deel je voltooide 'Ik heb een boek voor je gemaakt'-project om kans te maken dat het hier wordt weergegeven.
+
+**Mijn band** 🎸 : [Bekijk van binnen](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599660054/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Scratch kat past zich aan**: [Bekijk van binnen](https://scratch.mit.edu/projects/599660462/editor){:target="_blank"}
+**⭐  Assepoester en de spin** 🕷️ : [Bekijk van binnen](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599660462/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Een verhaal over fouten opsporen**: [Bekijk van binnen](https://scratch.mit.edu/projects/599661051/editor){:target="_blank"}
-Klik op het personage en het object om degene te kiezen die je in het verhaal wilt hebben, en klik vervolgens op het werkgebied om de pagina om te slaan.
+**⭐ Onbedoelde teleportatie** 🚀 : [Bekijk van binnen](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/599661051/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**⭐ Hoe de winter kwam** ☃️ : [Bekijk van binnen](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
@@ -96,9 +98,9 @@ Klik op het personage en het object om degene te kiezen die je in het verhaal wi
 
 --- print-only ---
 
-### Doe inspiratie op
+### Doe inspiratie op 💭
 
-Om ideeën voor jouw boek op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Ik maak een boek voor je — Voorbeelden': https://scratch.mit.edu/studios/29082370
+Om ideeën voor jouw 📚 boek op te doen, **Bekijk van binnen** de voorbeeldprojecten in de Scratch-studio 'Ik maak een boek voor je — Voorbeelden': https://scratch.mit.edu/studios/29082370
 
 ![Het project 'Verlicht de weg naar huis'.](images/showcase_static.png)
 

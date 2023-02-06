@@ -1,21 +1,44 @@
-## Deel
+## Deel en speel
 
-Nu is het tijd om jouw boek met je publiek te delen.
-
-Als je een Scratch-account hebt, kun je je project delen via Scratch. Je kunt een link sturen naar mensen die je kent, en de hele Scratch-gemeenschap zal je project kunnen vinden en uitproberen.
+Als je een Scratch-account hebt, kun je je project delen via Scratch.
 
 [[[share-scratch]]]
 
-Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
-
-Als je een Scratch-account hebt en je boekproject hebt gedeeld, let dan op opmerkingen die anderen over je creatie kunnen maken. Terugkoppeling is een geweldige manier om te reflecteren op je werk. Negeer alle opmerkingen die nutteloos of irrelevant zijn.
-
 [[[comments-feedback-scratch]]]
+
+### Community-inzendingen
 
 --- task ---
 
-Inspireer de Raspberry Pi Foundation-gemeenschap met jouw project!
+Inspireer anderen die dit project doen met jouw boek!
 
 Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} zodat andere mensen het kunnen zien, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+
+--- /task ---
+
+--- task ---
+
+Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} zodat andere mensen het kunnen zien, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
+
+**Sporg gaat naar huis**: [Bekijk van binnen](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Ruimtevaart**: [Bekijk van binnen](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Hoe het winter werd**:[Bekijk van binnen](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+Je kunt ook de remixes bekijken voor de [Ik heb een boek voor je gemaakt startproject](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} om te zien wat andere makers hebben gemaakt.
 
 --- /task ---
