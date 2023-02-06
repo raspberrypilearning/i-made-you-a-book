@@ -29,7 +29,7 @@ Réfléchis au but de ton livre.
 
 --- task ---
 
-Réfléchis à qui tu vas créer ton livre (ton **public**).
+Réfléchis pour qui tu vas créer ton livre (ton **public**).
 
 Ça pourrait être :
 
