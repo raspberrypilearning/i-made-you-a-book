@@ -77,9 +77,9 @@ Joue avec ces exemples de projets pour trouver des idées pour ton livre :
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Éclaire le chemin de la maison** 🕯️ : [Voir à l'intérieur](https://scratch.mit.edu/projects/499860786/editor){:target="_blank"}
+**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
 **⭐ Téléportation accidentelle** 🚀 : [Voir à l'intérieur](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (projet communautaire en vedette)
