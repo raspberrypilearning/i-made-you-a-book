@@ -175,7 +175,7 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 title: A sound does not play
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+¿Ha agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
