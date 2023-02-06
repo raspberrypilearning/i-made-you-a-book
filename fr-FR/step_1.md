@@ -70,7 +70,7 @@ Ton livre pourrait :
 
 Joue avec ces exemples de projets pour trouver des idées pour ton livre :
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Partage ton projet "Je t'ai fait un livre" terminé pour avoir une chance qu'il soit présenté ici.
 
 **Mon groupe** 🎸 : [Voir à l'intérieur](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -82,12 +82,12 @@ Joue avec ces exemples de projets pour trouver des idées pour ton livre :
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499860786/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Téléportation accidentelle** 🚀 : [Voir à l'intérieur](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (projet communautaire en vedette)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Comment l'hiver est arrivé** ☃️ : [Voir à l'intérieur](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (projet communautaire en vedette)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -100,9 +100,9 @@ Joue avec ces exemples de projets pour trouver des idées pour ton livre :
 
 ### Trouve l'inspiration 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Pour avoir des idées pour ton 📚 livre, **Voir à l'intérieur** exemples de projets dans le studio Scratch "Je t'ai fait un livre — Exemples" : https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Le projet "Éclaire le chemin de la maison".](images/showcase_static.png)
 
 --- /print-only ---
 
