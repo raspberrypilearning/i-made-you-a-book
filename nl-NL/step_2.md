@@ -1,8 +1,12 @@
-## Jouw idee
+## Jouw idee 💡
 
-Gebruik deze stap om je boek te plannen. Je kunt plannen door gewoon na te denken, achtergronden en sprites toe te voegen in Scratch, of te tekenen of te schrijven - of wat je maar wilt!
+Bepaal het thema van je boek en voor wie je het gaat maken (je publiek).
 
-![Het podium toont een sprite die denkt, "Enkele van de beste ideeën komen voort uit spelen. Goede ideeën kom je vanzelf tegen."](images/best-ideas.png)
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Een <span style="color: #0faeb0">**digitaal boek**</span> 📖📲 (of e-book) is een boek dat is gemaakt en wordt gelezen op een computer, tablet, telefoon of ander elektronisch apparaat. 
+
+❓ Heb je al eens een boek op een digitaal apparaat gelezen?
+</p>
 
 ### Waarom maak je het boek?
 
@@ -11,12 +15,13 @@ Gebruik deze stap om je boek te plannen. Je kunt plannen door gewoon na te denke
 Denk na over het doel van je boek.
 
 Dat kan zijn:
-- Om een jonger kind te vermaken
-- Om een belangrijke boodschap te delen, zoals recycling (hergebruik) aanmoedigen
-- Iemand leren hoe hij iets moet doen, zoals hoe je je favoriete eten maakt
-- Een verhaal vertellen of navertellen
-- Om iets over jezelf te delen
-- Om jezelf te uiten en creatief te zijn
+- 🧒 Om een jonger kind te vermaken
+- ♻️ Om een belangrijke boodschap te delen, zoals recycling (hergebruik) aanmoedigen
+- 🍕 Iemand leren hoe hij iets moet doen, zoals hoe je je favoriete eten maakt
+- 📖 Een verhaal vertellen of navertellen
+- 🗣️ Om iets over jezelf te delen
+- 🎨 Om jezelf te uiten en creatief te zijn
+- Of iets anders!
 
 --- /task ---
 
@@ -26,39 +31,14 @@ Dat kan zijn:
 
 Bedenk voor wie je je boek gaat maken (je **doelgroep**).
 
-Het kan voor een vriend zijn, voor een familielid, voor een schoolklas, voor mensen die een hobby delen, voor fans van een muzikant, of gewoon voor jezelf.
+Dat kan zijn:
+
+- 👧Voor een vriend
+- 👴 Voor een familielid
+- 👩‍🎓 Voor een schoolklas
+- 🏇 Voor mensen die een hobby delen
+- 👨‍🎤 Voor fans van een muzikant
+- Voor een ander of gewoon voor jezelf.
 
 --- /task ---
 
-### Aan de slag
-
-Nu is het tijd om na te denken over de pagina's (achtergronden) en de personages en voorwerpen (sprites) in je boek.
-
---- task ---
-
-Open het [Ik heb een boek voor je gemaakt startproject](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch wordt in een nieuwe browsertabblad geopend.
-
---- collapse ---
----
-title: Offline werken
----
-
-Voor informatie over hoe je Scratch instelt voor offline gebruik, ga je naar [onze handleiding 'Aan de slag met Scratch'](https://projects.raspberrypi.org/nl-NL/projects/getting-started-scratch){:target="_blank"}.
-
---- /collapse ---
-
-Gebruik je nieuwe Scratch-project, pen en papier of beide om ideeën voor je boek te plannen.
-
---- /task ---
-
---- task ---
-
-Denk na over de achtergronden en sprites:
-- Welke achtergronden of achtergrondkleuren gebruik je in je boek?
-- Hoe gaan gebruikers je boek gebruiken om naar de volgende pagina te gaan?
-- Welke personages en voorwerpen ga je gebruiken in je boek?
-- Hoe zullen de sprites op elke pagina worden geanimeerd en met elkaar omgaan?
-
---- /task ---
-
---- save ---
