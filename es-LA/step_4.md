@@ -1,10 +1,10 @@
-## Build 🧱 and test 🔄
+## Construye 🧱 y prueba 🔄
 
 Now, it's time to build your book. Start small, and add more to your project if you have time.
 
 ![Multiple pages of a book project.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. It is much easier to find and fix bugs before you make more changes.
 
 ### For each page 📃
 
