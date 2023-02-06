@@ -2,13 +2,13 @@
 
 Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![El escenario muestra un objeto pensando, "Algunas de las mejores ideas llegan jugando. You will find good ideas by accident."](images/best-ideas.png)
 
 Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Abre el [proyecto de iniciación te hice un libro](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
 
 ⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
