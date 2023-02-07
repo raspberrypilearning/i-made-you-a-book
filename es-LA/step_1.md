@@ -38,7 +38,7 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Tu libro deberá seguir el **resumen del proyecto**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 Un <span style="color: #0faeb0">**resumen del proyecto**</span> describe lo que éste debe hacer. It is a bit like being given a mission to complete.
