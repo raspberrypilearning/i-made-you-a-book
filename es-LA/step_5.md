@@ -1,6 +1,6 @@
 ## Lista de control
 
-¿Cumpliste con el **resumen del proyecto**? Think about your project and go through the checklist below and check off the features that your project has.
+¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de control, marca las características que tiene tu proyecto.
 
 ### Your book should have:
 
