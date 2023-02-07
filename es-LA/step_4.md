@@ -12,7 +12,7 @@ Now, it's time to build your book. Start small, and add more to your project if 
 
 Add the backdrop and new sprites you need for this page.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Elige un objeto y elige un ícono de fondo.](images/sprite-and-backdrop.png)
 
 You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
 
