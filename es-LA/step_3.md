@@ -27,7 +27,7 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+También puedes usar ✏️ un lápiz y [esta hoja de planificación](resources/i-made-a-book-worksheet.pdf){:target="_blank"} o una hoja de papel para esbozar tus ideas.
 
 Think about the backdrops and sprites:
 - 🖼️ Which backdrops or background colours will you use in your book?
