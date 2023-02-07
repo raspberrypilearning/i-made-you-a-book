@@ -19,7 +19,7 @@ steps:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Lista de control
     completion:
       - external
   - 
