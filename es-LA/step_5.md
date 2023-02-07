@@ -1,4 +1,4 @@
-## Checklist
+## Lista de control
 
 ¿Cumpliste con el **resumen del proyecto**? Think about your project and go through the checklist below and check off the features that your project has.
 
