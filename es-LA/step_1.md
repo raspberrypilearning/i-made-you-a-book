@@ -41,7 +41,7 @@ What happens when you click on each sprite?
 Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+Un <span style="color: #0faeb0">**resumen del proyecto**</span> describe lo que éste debe hacer. It is a bit like being given a mission to complete.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -64,7 +64,7 @@ Your book could:
 
 --- no-print ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 --- task ---
 
@@ -98,7 +98,7 @@ Explora estos proyectos de ejemplo para obtener ideas para tu libro:
 
 --- print-only ---
 
-### Get ideas 💭
+### Obtén ideas 💭
 
 Para obtener ideas para tu 📚 libro, usa **Ver dentro** los proyectos de ejemplo en 'Te hice un libro - Ejemplos' del Estudio Scratch: https://scratch.mit.edu/studios/29082370
 
