@@ -6,19 +6,19 @@ If you have a Scratch account, you can share your project through Scratch.
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Aportaciones de la comunidad
 
 --- task ---
 
 Inspire others who do this project with your book!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Para enviar tu proyecto a nuestro ['Te hice un libro - Comunidad' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} para que otras personas lo vean, por favor completa [este formulario](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestro ['Te hice un libro — Comunidad' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 
 **Sporg se va a casa**: [Ver dentro](https://scratch.mit.edu/projects/499498152/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
