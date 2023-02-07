@@ -126,9 +126,9 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Prueba:** 🔄 Muéstrale tu proyecto a otra persona y pídele 🗣️ su opinión. Do you want to make any changes to your book?
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Si tiene tiempo, puedes mejorar tu proyecto.
 
 💡 You could:
 - Add more code to your sprites
@@ -141,7 +141,7 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debug:** 🐞 Es posible que en el proyecto encuentres algunos errores que necesites corregir. Here are some common bugs:
 
 --- collapse ---
 ---
