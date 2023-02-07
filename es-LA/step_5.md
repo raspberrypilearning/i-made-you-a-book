@@ -1,6 +1,6 @@
 ## Checklist
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+¿Cumpliste con el **resumen del proyecto**? Think about your project and go through the checklist below and check off the features that your project has.
 
 ### Your book should have:
 
@@ -48,7 +48,7 @@ You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 
-How did you get your ideas?
+¿Cómo obtuviste tus ideas?
 
 --- /task ---
 
