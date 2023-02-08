@@ -42,7 +42,7 @@ Interactive features on every page
 
 --- /task ---
 
-### Reflection
+### Reflexión
 
 You can reflect on how you made your book, to help you in your future projects:
 
