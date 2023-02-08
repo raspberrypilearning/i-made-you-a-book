@@ -1,6 +1,6 @@
 ## Lo que harás
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Crea un 📚 libro en Scratch basado en tu propia idea 💡.
 
 You will:
 
