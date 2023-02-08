@@ -17,7 +17,7 @@ Abre el [proyecto de iniciación te hice un libro](https://scratch.mit.edu/proje
 title: Working offline
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Para obtener información sobre cómo configurar Scratch para usar sin conexión, visita [nuestra guía de "Introducción a Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
