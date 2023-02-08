@@ -1,4 +1,4 @@
-## Your idea 💡
+## Tu idea 💡
 
 Decide the theme of your book and who will be the audience.
 
