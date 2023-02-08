@@ -70,7 +70,7 @@ Your book could:
 
 Explora estos proyectos de ejemplo para obtener ideas para tu libro:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Comparte tu proyecto de 'Te hice un libro' y ten la oportunidad de que se muestre aquí.
 
 **Mi banda** 🎸 : [Ver dentro](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
