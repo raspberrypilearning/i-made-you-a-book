@@ -1,6 +1,6 @@
 ## Comparte y juega
 
-If you have a Scratch account, you can share your project through Scratch.
+Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch.
 
 [[[share-scratch]]]
 
