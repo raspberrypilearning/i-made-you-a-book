@@ -4,7 +4,7 @@ Now, it's time to build your book. Start small, and add more to your project if 
 
 ![Multiple pages of a book project.](images/pages-rama.png)
 
-**Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. It is much easier to find and fix bugs before you make more changes.
+**Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
 
 ### For each page 📃
 
@@ -141,7 +141,7 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Debug:** 🐞 Es posible que en el proyecto encuentres algunos errores que necesites corregir. Here are some common bugs:
+**Debug:** 🐞 Es posible que en el proyecto encuentres algunos errores que necesites corregir. A continuación, se muestran algunos errores comunes:
 
 --- collapse ---
 ---
@@ -206,9 +206,9 @@ Check what order your backdrops are in: click on the Stage pane and then on the 
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. Can you work out how to fix it?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
 
 --- /task ---
 
