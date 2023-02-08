@@ -16,10 +16,10 @@ Piensa en el propósito de tu libro.
 
 Podría ser:
 - 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
+- ♻️ Para compartir un mensaje importante, como fomentar el reciclaje
 - 🍕 To teach someone how to do something, such as how to make your favourite food
 - 📖 To tell or retell a story
-- 🗣️ To share something about yourself
+- 🗣️ Para compartir algo sobre ti
 - 🎨 To express yourself and be creative
 - Or something else!
 
@@ -36,7 +36,7 @@ It could be:
 - 👧 For a friend
 - 👴 For a family member
 - 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
+- 🏇 Para personas que comparten un pasatiempo
 - 👨‍🎤 For fans of a musician
 - For someone else or just for yourself.
 
