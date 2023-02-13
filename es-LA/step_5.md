@@ -2,49 +2,49 @@
 
 ¿Cumpliste con el **resumen del proyecto**? Piensa en tu proyecto y revisa la lista de control, marca las características que tiene tu proyecto.
 
-### Your book should have:
+### Tu libro debe tener:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Varias páginas, con una forma de pasar a la página siguiente
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Al menos un objeto
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Diferentes acciones en cada página
 
 --- /task ---
 
-### Your book could also have:
+### También podría tener:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Efectos de voz o sonido
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
+Texto o arte creado en el editor de dibujo
+
+--- /task ---
+
+--- task ---
+
+Funciones interactivas en cada página
 
 --- /task ---
 
 ### Reflexión
 
-You can reflect on how you made your book, to help you in your future projects:
+Puedes reflexionar sobre cómo hiciste tu libro, para ayudarte en tus proyectos futuros:
 
 --- task ---
 
@@ -54,19 +54,19 @@ You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 
-What cool new thing(s) did you learn?
+¿Qué cosas nuevas y geniales aprendiste?
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### ¡Ahora eres el autor de un libro digital!
 
-🎉 Take a moment to celebrate what you have made.
+🎉 Tómate un momento para celebrar lo que has hecho.
 
 --- task ---
 
-Where will you take your new powers? ¿Qué harás a continuación?
+¿Dónde usarás tus nuevos poderes? ¿Qué harás a continuación?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+![El gato Scratch con un gorro de fiesta.](images/reflect.png)
 
