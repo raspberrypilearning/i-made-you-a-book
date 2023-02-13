@@ -2,9 +2,9 @@
 
 Crea un 📚 libro en Scratch basado en tu propia idea 💡.
 
-You will:
+Vas a:
 
-+ Create a digital book for someone specific
++ Crear un libro digital para alguien en particular
 + Escoger qué habilidades usar para hacer tu libro
 + Compartir una dirección web para tu libro
 
@@ -19,9 +19,9 @@ You will:
 
 Haz clic en la esquina para pasar la página.
 
-Look for sprites that show and hide on different pages.
+Busca los objetos que se muestran y se ocultan en diferentes páginas.
   
-What happens when you click on each sprite?
+¿Qué ocurre al hacer clic en cada objeto?
 
 </div>
 <div>
@@ -41,7 +41,7 @@ What happens when you click on each sprite?
 Tu libro deberá seguir el **resumen del proyecto**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Un <span style="color: #0faeb0">**resumen del proyecto**</span> describe lo que éste debe hacer. It is a bit like being given a mission to complete.
+Un <span style="color: #0faeb0">**resumen del proyecto**</span> describe lo que éste debe hacer. Es algo así como recibir una misión para completar.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
@@ -51,15 +51,15 @@ Un <span style="color: #0faeb0">**resumen del proyecto**</span> describe lo que 
 
 Decide el tipo de libro que te gustaría hacer y para quienes está destinado. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Tu libro debe:
++ 📃Tener varias páginas, con una forma de poder pasar a la página siguiente
++ 🐢Tener por lo menos un objeto
++ 💬 Decir o hacer algo diferente en cada página
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Tu libro podría:
++ 🔉Tener efectos de voz o de sonido
++ 🎨 Tener texto o arte creado en el editor de dibujo
++ 🖱️ Tener funciones interactivas en cada página
 </div>
 
 --- no-print ---
@@ -92,18 +92,18 @@ Explora estos proyectos de ejemplo para obtener ideas para tu libro:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /task ---
+--- /tarea ---
 
---- /no-print ---
+--- no imprimir ---
 
---- print-only ---
+--- solo imprimir ---
 
 ### Obtén ideas 💭
 
 Para obtener ideas para tu 📚 libro, usa **Ver dentro** los proyectos de ejemplo en 'Te hice un libro - Ejemplos' del Estudio Scratch: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![El proyecto 'Ilumina el camino a casa'.](images/showcase_static.png)
 
---- /print-only ---
+--- /solo imprimir ---
 
 
