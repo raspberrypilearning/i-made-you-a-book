@@ -1,11 +1,11 @@
 ## Tu idea 💡
 
-Decide the theme of your book and who will be the audience.
+Decide el tema de tu libro y a qué audiencia irá dirigido.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+Un <span style="color: #0faeb0">**libro digital**</span>📖📲 (o libro electrónico) es un libro creado para leerse en una computadora, tableta, teléfono celular, u otro dispositivo electrónico. 
 
-❓ Have you read any books on a digital device?
+❓¿Has leído algún libro en un dispositivo digital?
 </p>
 
 ### ¿Por qué estás creando el libro?
@@ -15,13 +15,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 Piensa en el propósito de tu libro.
 
 Podría ser:
-- 🧒 To entertain a younger child
+- Para entretener a un niño más pequeño
 - ♻️ Para compartir un mensaje importante, como fomentar el reciclaje
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
+- Para enseñarle a alguien cómo hacer algo, como preparar su comida favorita
+- Para contar o volver a contar una historia
 - 🗣️ Para compartir algo sobre ti
-- 🎨 To express yourself and be creative
-- Or something else!
+- Para expresarte y ser creativo
+- ¡O algo más!
 
 --- /task ---
 
@@ -31,14 +31,14 @@ Podría ser:
 
 Piensa para quién harás tu libro (tu **audiencia**).
 
-It could be:
+Podría ser:
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
+- 👧 Para un amigo
+- 👴 Para un familiar
+- 👩‍🎓 Para una clase escolar
 - 🏇 Para personas que comparten un pasatiempo
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👨‍🎤 Para fanáticos de un músico
+- Para otra persona o solo para ti.
 
 --- /task ---
 
