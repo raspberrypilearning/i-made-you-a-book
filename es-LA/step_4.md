@@ -1,20 +1,20 @@
 ## Construye 🧱 y prueba 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Ahora es el momento de hacer tu libro. Empieza poco a poco y agrega más a tu proyecto si tienes tiempo.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Varias páginas de un proyecto de libro.](images/pages-rama.png)
 
 **Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
 
-### For each page 📃
+### Por cada página 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Agrega el fondo y los nuevos objetos que necesitas para esta página.
 
 ![Elige un objeto y elige un ícono de fondo.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Deberás agregar un código para establecer las posiciones y la visibilidad de los objetos en la primera página de título y cada página posterior.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Para cada objeto 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Deberás agregar un código a cada personaje y objeto en tu libro. Ten en cuenta si harán algo cuando comience el proyecto, cuando el fondo cambie a una página en particular o al hacer clic en el objeto.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Pasando la página 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Necesitarás una forma para que tu lector pase a la página siguiente del libro.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Edita los disfraces 🦁 y fondos 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Quizás quieras editar o agregar disfraces o fondos en el editor de pintura.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Las pestañas de disfraces y fondos.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![El disfraz de pintura y los íconos de fondo.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Añade sonido 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![La pestaña sonidos.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![El ícono de añadir sonido.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![El ícono para grabar del menú de elegir un sonido.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![El ícono del menú de bloques de texto a voz.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Recordatorios del editor de scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,16 +126,16 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Prueba:** 🔄 Muéstrale tu proyecto a otra persona y pídele 🗣️ su opinión. Do you want to make any changes to your book?
+**Prueba:** 🔄 Muéstrale tu proyecto a otra persona y pídele 🗣️ su opinión. ¿Quieres hacerle cambios a tu libro?
 
-⏱️ Si tiene tiempo, puedes mejorar tu proyecto.
+⏱️ Si tienes tiempo, puedes mejorar tu proyecto.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Podrías:
+- Agregar más código a tus objetos
+- Agregar otro objeto
+- Agregar otra página
+- Grabar un sonido
+- Crear un nuevo disfraz en el editor de dibujo
 
 --- /task ---
 
@@ -145,68 +145,68 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Un objeto se muestra u oculta en las páginas incorrectas
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Comprueba que el objeto tenga `cuando el fondo cambie a`{:class="block3events"} con bloques `mostrar`{:class="block3looks"} o `esconder`{:class="block3looks"} según sea necesario. Comprueba que hayas elegido el nombre de fondo correcto en el bloque`cuando el fondo cambie a`{:class="block3events"}. Es útil darle a los fondos nombres que puedas entender fácilmente, para ayudar a detectar problemas como este.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: Un objeto se pone boca abajo
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Agrega un bloque `fijar estilo de rotación a izquierda-derecha`{:class="block3motion"} o `fijar estilo de rotación a no rotar`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Un objeto 'salta' cuando cambia de vestuario o rebota
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Asegúrate de que el disfraz esté centrado en el editor de dibujo (alinea la cruz azul del disfraz con la cruz en el centro del editor).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: No se reproduce un sonido
 ---
 
-¿Ha agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+¿Has agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, le deberás agregar el sonido a este en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta y asegúrate de no haber bajado el volumen con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Otros objetos continúan frente a un objeto
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Agrega un bloque `ir a la capa de adelante`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Un objeto solo se mueve o cambia una vez
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Pon tu código dentro de un bloque `por siempre`{:class="block3control"} para que siga funcionando.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Las páginas están en el orden incorrecto
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Verifica en qué orden están tus fondos: haz clic en el panel escenario y luego en **Fondos** para ver los fondos de tu proyecto.
 
 --- /collapse ---
 
-Es posible que encuentres un error que no se incluye aquí. Can you work out how to fix it?
+Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
 
 🗣️ Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
 
