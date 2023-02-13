@@ -1,5 +1,5 @@
 ---
-title: I made you a book
+title: Te hice un libro
 hero_image: images/banner.png
 description: Crea un libro con varias páginas para contar una historia o compartir hechos
 version: 4
@@ -12,7 +12,7 @@ steps:
   - 
     title: Tu idea
   - 
-    title: Plan your book
+    title: Planifica tu libro
   - 
     title: Construye y prueba
     completion:
