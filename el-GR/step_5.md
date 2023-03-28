@@ -1,72 +1,72 @@
-## Checklist
+## Λίστα ελέγχου
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Ανταποκρίθηκες στη **σύνοψη έργου**; Σκέψου το έργο σου, πέρασε το από τη λίστα ελέγχου παρακάτω και έλεγξε τα χαρακτηριστικά που διαθέτει το έργο σου.
 
-### Your book should have:
+### Το βιβλίο σου πρέπει να έχει:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Πολλαπλές σελίδες, με τρόπο μετάβασης από τη μία σελίδα στην επόμενη
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Τουλάχιστον ένα αντικείμενο
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Διαφορετικές ενέργειες σε κάθε σελίδα
 
 --- /task ---
 
-### Your book could also have:
+### Το βιβλίο σου θα μπορούσε επίσης να έχει:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Εφέ ομιλίας ή ήχου
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Κείμενο ή σχέδια που έχουν δημιουργηθεί στον επεξεργαστή Ζωγραφικής
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Διαδραστικές λειτουργίες σε κάθε σελίδα
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Αναστοχασμός
 
-🎉 Take a moment to celebrate what you have made.
+Μπορείς να αναλογιστείς πώς έφτιαξες το βιβλίο σου, για να σε βοηθήσει στα μελλοντικά σου έργα:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Πώς σου ήρθαν οι ιδέες;
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Τι ωραία νέα πράγματα έμαθες;
+
+--- /task ---
+
+### Τώρα, είσαι ο συγγραφέας ενός ψηφιακού βιβλίου!
+
+🎉 Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
+
+--- task ---
+
+Πού θα σε οδηγήσουν οι νέες σου δυνάμεις; Τι θα φτιάξεις μετά;
+
+--- /task ---
+
+![Η Γάτα του Scratch φοράει ένα καπέλο για πάρτυ.](images/reflect.png)
 
