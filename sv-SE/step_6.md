@@ -1,44 +1,44 @@
-## Share and play
+## Dela och spela
 
-If you have a Scratch account, you can share your project through Scratch.
+Om du har ett Scratch-konto kan du dela ditt projekt genom Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Communitybidrag
 
 --- task ---
 
-Inspire others who do this project with your book!
+Inspirera andra som gör det här projektet med din bok!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+För att skicka in ditt projekt till vårt ['Jag har gjort en bok till dig — Community' Scratchstudio](https://scratch.mit.edu/studios/29092393){:target="_blank"} så att andra kan se, fyll i [detta formulär](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Ta en titt på dessa fantastiska community-projekt från vår ['Jag har gjort en bok till dig — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg går hem**: [Se inuti](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+**Rymdresor**: [Se inuti](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**How winter came**: [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Du kan även kolla på remixarna av [Startprojektet "Jag har gjort en bok till dig"](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} för att se vad andra har gjort.
 
 --- /task ---
