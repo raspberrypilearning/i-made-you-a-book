@@ -1,10 +1,10 @@
-## You will make
+## Τι θα φτιάξεις
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Δημιούργησε ένα 📚 βιβλίο στο Scratch με βάση μια δική σου ιδέα 💡.
 
-You will:
+Θα:
 
-+ Create a digital book for someone specific
++ Δημιουργήσεις ένα ψηφιακό βιβλίο για κάποιο συγκεκριμένο άτομο
 + Επιλέξεις ποιες δεξιότητες θα χρησιμοποιήσεις για να φτιάξεις το βιβλίο σου
 + Κοινοποιήσεις μια διεύθυνση ιστοσελίδας για το βιβλίο σου
 
@@ -15,18 +15,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Παίξε ▶️ 
 
-Click on the corner to turn the page.
+Κάνε κλικ στη γωνία για να γυρίσεις σελίδα.
 
-Look for sprites that show and hide on different pages.
+Αναζήτησε αντικείμενα που εμφανίζονται και εξαφανίζονται σε διάφορες σελίδες.
   
-What happens when you click on each sprite?
+Τι συμβαίνει όταν κάνεις κλικ σε κάθε αντικείμενο;
 
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Γαργάλησε το τέρας**: [Δες μέσα](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -38,56 +38,56 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Το βιβλίο σου θα πρέπει να πληροί τη **σύνοψη έργου**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+Μια <span style="color: #0faeb0">**σύνοψη έργου **</span> περιγράφει το τι πρέπει να κάνει ένα έργο. Είναι σαν να σου έχει δοθεί μια αποστολή να ολοκληρώσεις.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 ΣΥΝΟΨΗ ΕΡΓΟΥ: Δημιούργησε ένα **ψηφιακό βιβλίο**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Θα πρέπει να αποφασίσεις ποιο είδος βιβλίου θέλεις να φτιάξεις και σε ποιον απευθύνεται. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Το βιβλίο σου θα πρέπει:
++ 📃 Να έχει πολλές σελίδες, με έναν τρόπο μετάβασης στην επόμενη σελίδα
++ 🐢 Να έχει τουλάχιστον ένα αντικείμενο
++ 💬 Να λέει ή να κάνει κάτι διαφορετικό σε κάθε σελίδα
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Το βιβλίο σου θα μπορούσε:
++ 🔉 Να έχει ομιλία ή ηχητικά εφέ 
++ 🎨 Να έχει κείμενο ή τέχνη που έχει δημιουργηθεί με το πρόγραμμα επεξεργασίας Ζωγραφική
++ 🖱️ Να έχει διαδραστικές λειτουργίες σε κάθε σελίδα
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Βρες ιδέες 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Μελέτησε τα παρακάτω παραδείγματα έργων για να πάρεις ιδέες για το βιβλίο σου:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Μοιράσου το ολοκληρωμένο σου έργο «Σου έκανα ένα βιβλίο» για να έχεις την ευκαιρία να προβληθεί εδώ.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Η μπάντα μου** 🎸 : [Δες μέσα](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Η Σταχτοπούτα και η αράχνη** 🕷️ : [Δες μέσα](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Τυχαία τηλεμεταφορά** 🚀 : [Δες μέσα](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Πώς ήρθε ο χειμώνας** ☃️ : [Δες μέσα](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -98,11 +98,11 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Βρες ιδέες 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Για να πάρεις ιδέες για το 📚 βιβλίο σου, **Δες μέσα** παραδείγματα έργων στο στούντιο Scratch «Σου έκανα ένα βιβλίο — Παραδείγματα»: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Το έργο «Φώτισε το δρόμο για το σπίτι».](images/showcase_static.png)
 
 --- /print-only ---
 
