@@ -56,7 +56,7 @@ when backdrop switches to [page v]
 
 --- task ---
 
-Necesitarás una forma para que tu lector pase a la página siguiente del libro.
+Necesitarás una forma de que tu lector pase a la página siguiente del libro.
 
 ```blocks3
 when this sprite clicked
@@ -175,7 +175,7 @@ Asegúrate de que el disfraz esté centrado en el editor de dibujo (alinea la cr
 title: No se reproduce un sonido
 ---
 
-¿Has agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, le deberás agregar el sonido a este en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta y asegúrate de no haber bajado el volumen con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
+¿Has agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, le deberás agregar el sonido a este en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta y asegúrate de no haberlo bajado con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
