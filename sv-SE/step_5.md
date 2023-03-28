@@ -1,72 +1,72 @@
-## Checklist
+## Checklista
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Uppfyllde du målen i **projektbeskrivningen**? Fundera över ditt projekt och gå igenom checklistan nedan och bocka av de funktioner som ditt projekt har.
 
-### Your book should have:
+### Din bok bör ha:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Flera sidor, med ett sätt att gå till nästa sida
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Minst en sprajt
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Olika händelser på varje sida
 
 --- /task ---
 
-### Your book could also have:
+### Din bok kan också ha:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Tal eller ljudeffekter
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Text eller bilder som har skapats i målarredigeraren
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Interaktiva funktioner på varje sida
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Reflektion
 
-🎉 Take a moment to celebrate what you have made.
+Du kan reflektera över hur du skapade din bok för att hjälpa dig i dina framtida projekt:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Hur fick du dina idéer?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Vad för coola nya saker har du lärt dig?
+
+--- /task ---
+
+### Nu är du författaren till en digital bok!
+
+🎉 Ta en stund för att fira det du har gjort.
+
+--- task ---
+
+Vad ska du göra med dina nya förmågor? Vad kommer du skapa härnäst?
+
+--- /task ---
+
+![Scratchkatten med en partyhatt.](images/reflect.png)
 
