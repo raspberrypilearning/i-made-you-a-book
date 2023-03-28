@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Κατασκεύασε 🧱 και δοκίμασε 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Τώρα, ήρθε η ώρα να φτιάξεις το βιβλίο σου. Ξεκίνησε με ένα μικρό βιβλίο και πρόσθεσε περισσότερα στο έργο σου όταν έχεις χρόνο.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Πολλαπλές σελίδες ενός έργου βιβλίου.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Συμβουλή:** Μην ξεχνάς να δοκιμάζεις το έργο σου κάθε φορά που προσθέτεις κάτι. Είναι πολύ πιο εύκολο να βρεις και να διορθώσεις σφάλματα προτού κάνεις περισσότερες αλλαγές.
 
-### For each page 📃
+### Για κάθε σελίδα 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Πρόσθεσε το υπόβαθρο και τα νέα αντικείμενα που χρειάζεσαι γι' αυτήν τη σελίδα.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Επίλεξε ένα αντικείμενο και επίλεξε ένα εικονίδια υπόβαθρου.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Θα χρειαστεί να προσθέσεις κώδικα για να ορίσεις τις θέσεις και την ορατότητα των αντικειμένων στην πρώτη σελίδα τίτλου και σε κάθε σελίδα μετά από αυτήν.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Για κάθε αντικείμενο 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Θα χρειαστεί να προσθέσεις κώδικα σε κάθε χαρακτήρα και αντικείμενο στο βιβλίο σου. Σκέψου αν θα γίνεται κάτι όταν ξεκινήσει το έργο, όταν το υπόβαθρο αλλάξει σε μια συγκεκριμένη σελίδα ή όταν γίνει κλικ στο αντικείμενο.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Γυρίζοντας σελίδα 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Θα χρειαστείς έναν τρόπο για να πηγαίνει ο αναγνώστης σου στην επόμενη σελίδα του βιβλίου σου.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Επεξεργάσου ενδυμασίες🦁 και υπόβαθρα🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Μπορεί να θέλεις να επεξεργαστείς ή να προσθέσεις ενδυαμασίες ή υπόβαθρα στο πρόγραμμα επεξεργασίας Ζωγραφική.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Οι καρτέλες Ενδυμασίες και Υπόβαθρα.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Τα εικονίδια για τη ζωγραφική ενδυμασίας και υπόβαθρου.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Προσθήκη ήχου 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Η καρτέλα Ήχοι.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![Το εικονίδιο προσθήκης ήχου.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![Το εικονίδιο ηχογράφησης από το μενού προσθήκης ήχου.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![Το εικονίδιο με τα μπλοκ από το μενού κείμενο σε ομιλία.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Ας ξαναθυμηθούμε την επεξεργασία στο Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Δοκιμή:** 🔄 Δείξε σε κάποιον/α άλλο/η το έργο σου και ζήτησε 🗣️ τα σχόλιά του. Θέλεις να κάνεις αλλαγές στο βιβλίο σου;
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Εάν έχεις χρόνο, μπορείς να αναβαθμίσεις το έργο σου.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Θα μπορούσες να:
+- Προσθέσεις περισσότερο κώδικα στα αντικείμενά σου
+- Προσθέσεις ακόμη ένα αντικείμενο
+- Προσθέσεις σελίδα
+- Ηχογραφήσεις έναν ήχο
+- Δημιουργήσεις μία νέα ενδυμασία στον επεξεργαστή Ζωγραφική
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Εντοπισμός σφαλμάτων:** Ενδέχεται να βρεις κάποια σφάλματα στο έργο σου που πρέπει να διορθώσεις. Εδώ είναι μερικά συνηθισμένα σφάλματα:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Ένα αντικείμενο εμφανίζεται ή κρύβεται σε λάθος σελίδες
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Βεβαιώσου ότι το αντικείμενο έχει τα script `όταν το υπόβαθρο αλλάξει σε`{:class="block3events"} με μπλοκ `εμφανίσου`{:class="block3looks"} ή `εξαφανίσου`{:class="block3looks"} όπως απαιτείται. Βεβαιώσου ότι έχεις επιλέξει το σωστό όνομα υπόβαθρου στο μπλοκ `όταν το υπόβαθρο αλλάξει σε`{:class="block3events"}. Είναι καλή ιδέα να δίνεις ονόματα υποβάθρων που μπορείς να τα καταλαβαίνεις εύκολα, για να εντοπίζεις προβλήματα όπως αυτό.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: Ένα αντικείμενο πηγαίνει ανάποδα
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Πρόσθεσε ένα μπλοκ `όρισε τρόπο περιστροφής αριστερά-δεξιά`{:class="block3motion"} ή `όρισε τρόπο περιστροφής μην περιστρέψεις`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Ένα αντικείμενο «πηδάει» όταν αλλάζει ενδυμασία ή αναπηδά
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Βεβαιώσου ότι η ενδυμασία είναι κεντραρισμένη στον επεξεργαστή Ζωγραφικής (ευθυγράμμισε τον μπλε σταυρό στην ενδυμασία με το σταυρόνημα στο κέντρο του επεξεργαστή Ζωγραφικής).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Ένας ήχος δεν παίζει
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Έχεις προσθέσει ένα μπλοκ `παίξε ήχο`{:class="block3sound"} όπου χρειάζεται; Εάν έχεις αντιγράψει κώδικα από άλλο αντικείμενο, θα πρέπει να προσθέσεις τον ήχο σε αυτό το αντικείμενο στην καρτέλα **Ήχοι**. Έλεγξε την ένταση του υπολογιστή ή του tablet σου και βεβαιώσου ότι δεν έχεις μειώσει την ένταση με τον κώδικα — δοκίμασε `όρισε ένταση σε`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Άλλα αντικείμενα περνάνε μπροστά από ένα αντικείμενο
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Πρόσθεσε ένα μπλοκ `πήγαινε σε επίπεδο προσκήνιο`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Ένα αντικείμενο μετακινείται ή αλλάζει μόνο μία φορά
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Βάλε τον κώδικά σου σε ένα μπλοκ `για πάντα`{:class="block3control"}, έτσι ώστε να συνεχίσει να εκτελείται.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Οι σελίδες έχουν λάθος σειρά
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Έλεγξε σε ποια σειρά βρίσκονται τα υπόβαθρά σου: κάνε κλικ στο παράθυρο Σκηνή και στη συνέχεια στην καρτέλα **Υπόβαθρα** για να δεις τα υπόβαθρα για το έργο σου.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Πιθανόν να βρεις ένα σφάλμα που δεν αναφέρεται εδώ. Μπορείς να σκεφτείς πώς θα το λύσεις;
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Μας αρέσει να μαθαίνουμε για τα σφάλματα που εντοπίζεις και πώς τα διορθώνεις. Χρησιμοποίησε την **Αποστολή σχολίων** στο κάτω μέρος αυτής της σελίδας και πες μας αν εντόπισες κάποιο διαφορετικό σφάλμα στο έργο σου.
 
 --- /task ---
 
