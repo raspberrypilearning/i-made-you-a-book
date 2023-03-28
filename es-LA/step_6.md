@@ -1,12 +1,12 @@
 ## Comparte y juega
 
-Si tienes una cuenta de Scratch, puedes compartir tu proyecto a través de Scratch.
+Si tienes una cuenta, puedes compartir tu proyecto a través de Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Aportes de la comunidad
+### Aportaciones de la comunidad
 
 --- task ---
 
@@ -30,9 +30,9 @@ Echa un vistazo a estos fabulosos proyectos de la comunidad de nuestro ['Te hice
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Cómo llegó el invierno**: [Ver dentro](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
