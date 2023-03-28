@@ -1,23 +1,23 @@
-## Plan your book 📔
+## Σχεδίασε το βιβλίο σου 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Χρησιμοποίησε αυτό το βήμα για να σχεδιάσεις το βιβλίο σου. Μπορείς να το σχεδιάσεις απλώς με τη σκέψη σου, προσθέτοντας υπόβαθρα και αντικείμενα στο Scratch, ή ζωγραφίζοντας, ή γράφοντας - ή οτιδήποτε σου αρέσει!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Η Σκηνή δείχνει ένα αντικείμενο να σκέφτεται, "Μερικές από τις καλύτερες ιδέες προέρχονται από το παιχνίδι. Θα βρεις καλές ιδέες ακόμη και κατά τύχη."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Τώρα, ήρθε η ώρα να αρχίσεις να σκέφτεσαι τις σελίδες (υπόβαθρα) και τους χαρακτήρες και τα αντικείμενα (αντικείμενα στο Scratch) στο βιβλίο σου.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Άνοιξε το [αρχικό έργο "Σου έφτιαξα ένα βιβλίο"](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Το Scratch θα ανοίξει σε νέα καρτέλα στον φυλλομετρητή.
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ Δεν έχεις πολύ χρόνο; Μπορείς να ξεκινήσεις από ένα από τα [παραδείγματα](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
 --- collapse ---
 ---
-title: Working offline
+title: Εργασία εκτός σύνδεσης
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκέψου τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch): target = "_ blank"}.
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+Χρησιμοποίησε το νέο σου έργο Scratch για να σχεδιάσεις το βιβλίο σου. Δεν χρειάζεται να σχεδιάσεις όλες τις σελίδες, μπορείς να προσθέσεις περισσότερες αργότερα.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+Μπορείς επίσης να χρησιμοποιήσεις ✏️ ένα μολύβι και [αυτό το φύλλο σχεδίασης](resources/i-made-a-book-worksheet.pdf){:target="_blank"} ή ένα κομμάτι χαρτί για να σχεδιάσεις τις ιδέες σου.
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+Σκέψου τα υπόβαθρα και τα αντικείμενα:
+- 🖼️ Ποια υπόβαθρα ή χρώματα φόντου θα χρησιμοποιήσεις στο βιβλίο σου;
+- 🗒️ Πώς θα αλληλεπιδράσουν οι χρήστες με το βιβλίο σου για να μεταβούν στην επόμενη σελίδα;
+- 🦁 Ποιους χαρακτήρες και αντικείμενα θα έχεις στο βιβλίο σου;
+- 🏃‍♀️ Πώς θα κινούνται τα αντικείμενα και θα αλληλεπιδρούν σε κάθε σελίδα;
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![Ένα παράδειγμα του φύλλου σχεδίασης με δυνατότητα λήψης που μπορεί να συμπληρωθεί από ένα παιδί. Σχέδια ζωγραφικής με το χέρι γεμίζουν τα έξι ορθογώνια της σελίδας.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
