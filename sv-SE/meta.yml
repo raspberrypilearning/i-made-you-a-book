@@ -1,28 +1,28 @@
 ---
-title: I made you a book
+title: Jag har gjort en bok till dig
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: Skapa en bok med flera sidor för att berätta en historia eller dela fakta
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Du kommer skapa
   - 
-    title: Your idea
+    title: Din idé
   - 
-    title: Plan your book
+    title: Planera din bok
   - 
-    title: Build and test
+    title: Bygg och testa
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Checklista
     completion:
       - external
   - 
-    title: Share and play
+    title: Dela och spela
   - 
-    title: What next?
+    title: Vad händer nu?
