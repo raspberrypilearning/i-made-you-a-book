@@ -1,11 +1,11 @@
-## Your idea 💡
+## Η ιδέα σου
 
-Decide the theme of your book and who will be the audience.
+Αποφάσισε το θέμα του βιβλίου σου και ποιος θα είναι το κοινό.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+Ένα <span style="color: #0faeb0">**ψηφιακό βιβλίο**</span> 📖📲 (ή e-book) είναι ένα βιβλίο που δημιουργείται και διαβάζεται σε υπολογιστή, tablet, τηλέφωνο ή άλλη ηλεκτρονική συσκευή. 
 
-❓ Have you read any books on a digital device?
+❓ Έχεις διαβάσει κάποιο βιβλίο σε ψηφιακή συσκευή;
 </p>
 
 ### Γιατί φτιάχνεις το βιβλίο;
@@ -15,13 +15,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 Σκέψου τον σκοπό του βιβλίου σου.
 
 Θα μπορούσε να είναι:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+- 🧒 Για να διασκεδάσεις ένα μικρότερο παιδί
+- ♻️ Για να μοιραστείς ένα σημαντικό μήνυμα, όπως η ενθάρρυνση της ανακύκλωσης
+- 🍕 Για να διδάξεις σε κάποιον πώς να κάνει κάτι, όπως πώς να φτιάχνει το αγαπημένο σου φαγητό
+- 📖 Για να πεις ή να ξαναπείς μία ιστορία
+- 🗣️ Για να μοιραστείς κάτι για τον εαυτό σου
+- 🎨 Για να εκφραστείς και να είσαι δημιουργικός/ή
+- Ή κάτι άλλο!
 
 --- /task ---
 
@@ -31,14 +31,14 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 
 Σκέψου για ποιον θα φτιάξεις το βιβλίο σου (το **κοινό σου**).
 
-It could be:
+Θα μπορούσε να είναι:
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧 Για έναν φίλο
+- 👴 Για ένα μέλος της οικογένειας
+- 👩‍🎓 Για μια σχολική τάξη
+- 🏇 Για άτομα που μοιράζονται ένα χόμπι
+- 👨‍🎤 Για τους θαυμαστές ενός μουσικού
+- Για κάποιον/α άλλο/η ή μόνο για τον εαυτό σου.
 
 --- /task ---
 
