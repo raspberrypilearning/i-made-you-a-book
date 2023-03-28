@@ -8,21 +8,21 @@ copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Θα φτιάξεις
   - 
     title: Η ιδέα σου
   - 
-    title: Plan your book
+    title: Σχεδίασε το βιβλίο σου
   - 
-    title: Build and test
+    title: Κατασκεύασε και δοκίμασε
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Λίστα ελέγχου
     completion:
       - external
   - 
-    title: Share and play
+    title: Μοίρασε και παίξε
   - 
     title: Πού θα βρεις βοήθεια
