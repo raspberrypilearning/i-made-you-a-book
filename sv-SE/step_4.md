@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Bygg 🧱 och testa 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Nu är det dags att skapa din bok. Börja litet och lägg till mer till ditt projekt om du har tid.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Flera sidor av ett bokprojekt.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Tips:** Kom ihåg att testa ditt projekt varje gång du lägger till något. Det är mycket lättare att hitta och fixa fel innan du gör fler ändringar.
 
-### For each page 📃
+### För varje sida 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Lägg till bakgrunden och de nya sprajter du behöver för den här sidan.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Välj en sprajt och välj en bakgrundsikon.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Du måste lägga till kod för att ställa in sprajternas positioner och synlighet på första titelsidan och varje sida efter det.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### För varje sprajt 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Du måste lägga till kod till varje karaktär och objektsprajt i din bok. Fundera på om de kommer att göra något när projektet startar, när bakgrunden växlar till en viss sida eller när sprajten klickas på.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Vänder blad 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Du behöver ett sätt för din läsare att byta blad i din bok.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Redigera klädslar 🦁 och bakgrunder 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Du kanske vill redigera eller lägga till klädslar eller bakgrunder i målarredigeraren.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Klädslar- och bakgrundsflikarna.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Färg- klädsel- och bakgrundsikonerna.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Lägg till ljud 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Ljudfliken.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+!["Lägg till ett ljud"-ikonen.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![Inspelningsikonen från menyn "Lägg till ljud".](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![Menyikonen för "text till tal"-block.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Påminnelser i Scratchredigeraren
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Test:** 🔄 Visa någon annan ditt projekt och be om 🗣️ deras feedback. Vill du ändra något i din bok?
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Om du har tid kan du uppgradera ditt projekt.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Du skulle kunna:
+- Lägga till mer kod till dina sprajter
+- Lägga till en sprajt
+- Lägga till en sida till
+- Spela in ett ljud
+- Skapa en ny klädsel i målarredigeraren
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Debug:** 🐞 Du kanske hittar några fel i ditt projekt som du behöver fixa. Här är några vanliga fel:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: En sprite visas eller döljs på fel sidor
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Kontrollera att sprajten har `när bakgrunden byter till`{:class="block3events"}-kod med `visa`{:class="block3looks"}- eller `dölj`{:class="block3looks"}-block enligt behov. Kontrollera att du har valt rätt bakgrundsnamn i `när bakgrunden byter till`{:class="block3events"}-blocket. Det underlättar att ge bakgrundsnamn som du lätt kan förstå för att hjälpa till att upptäcka problem som detta.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+titel: En sprajt går upp och ner
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Lägg till ett `"sätt rotationsstil vänster-höger"`{:class="block3motion"}-block eller ett `"sätt rotationsstil, rotera inte"`{:class="block3motion"}-block.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+titel: En sprajt "hoppar" när den byter klädsel eller studsar
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Se till att klädseln är centrerad i målarredigeraren (placera det blåa korset i klädseln över krysset i mitten av målarredigeraren).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Ett ljud spelas inte upp
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Har du lagt till ett block som `spelar ljud`{:class="block3sound"} när det behövs? Om du har kopierat kod från en annan sprajt måste du lägga till ljudet till denna sprajt i **Ljud**fliken. Kontrollera volymen på din dator eller surfplatta och se till att du inte har sänkt volymen med kod — prova `sätt volymen till`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Andra sprajter går framför en sprajt hela tiden
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Lägg till ett `"gå till översta lagret"`{:class="block3looks"}-block.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: En sprajt rör sig eller ändras bara en gång
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Lägg din kod i ett `för alltid`{:class="block3control"}-block så att den fortsätter att köras.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Sidorna är i fel ordning
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Kontrollera i vilken ordning dina bakgrunder är: klicka på scenpanelen och sedan på fliken **Bakgrunder** för att se bakgrunderna i ditt projekt.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Du kanske hittar ett fel som inte finns med här. Kan du komma på hur man fixar det?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Vi hör gärna om dina buggar och hur du har fixat dem. Använd **"Skicka feedback"**-knappen längst ner på denna sida och berätta för oss om du hittade ett annat fel i ditt projekt.
 
 --- /task ---
 
