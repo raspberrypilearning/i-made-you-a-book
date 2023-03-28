@@ -1,12 +1,12 @@
-## You will make
+## Du kommer att skapa
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Skapa en📚 bok i Scratch utifrån din egen idé 💡.
 
-You will:
+Du kommer:
 
-+ Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Skapa en digital bok för någon specifik
++ Välj vilka kunskaper du vill använda för att göra din bok
++ Dela en webbadress till din bok
 
 --- no-print ---
 
@@ -15,18 +15,18 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Spela ▶️ 
 
-Click on the corner to turn the page.
+Klicka på hörnet för att vända sidan.
 
-Look for sprites that show and hide on different pages.
+Leta efter sprajter som visas och döljs på olika sidor.
   
-What happens when you click on each sprite?
+Vad händer när du klickar på varje sprajt?
 
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Kittelmonster**: [Se inuti](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -38,72 +38,72 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Din bok kommer att behöva uppfylla **projektbeskrivningen**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+En <span style="color: #0faeb0">**projektbeskrivning**</span> beskriver vad ett projekt går ut på. Det är lite som att få ett uppdrag att genomföra.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 PROJEKTBESKRIVNING: Skapa en **digital bok**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Du måste bestämma vilken sorts bok du vill skapa och vem den är till för. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Din bok ska:
++ 📃 Ha flera sidor, med ett sätt att gå till nästa sida
++ 🐢 Ha minst en sprajt
++ 💬 Säga eller göra något annorlunda på varje sida
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Din bok kan:
++ 🔉 Ha tal eller ljudeffekter 
++🎨 Ha text eller konst som har skapats i målarredigeraren
++🖱️ Ha interaktiva funktioner på varje sida
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Få idéer 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Kolla på dessa exempelprojekt för att få inspiration till din bok:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Dela ditt färdiga "Jag har gjort en bok till dig"-projekt för en chans att få det visat här.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Mitt band** 🎸 : [Se inuti](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Askungen och spindeln** 🕷️ : [Se inuti](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Misslyckad teleportering** 🚀 : [Se inuti](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (utvalt community-projekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Hur vintern kom** ☃️ : [Se inuti](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (utvalt samhällsprojekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /task ---
+--- /uppgift ---
 
---- /no-print ---
+--- /ingen utskrift ---
 
---- print-only ---
+--- endast utskrift ---
 
-### Get ideas 💭
+### Få idéer 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+För att få idéer till din 📚-bok, **Se inuti** exempelprojekt i 'Jag har gjort en bok till dig — Exempel'-scratchstudion: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Projektet 'Lys upp vägen hem'.](images/showcase_static.png)
 
---- /print-only ---
+--- /endast utskrift ---
 
 
