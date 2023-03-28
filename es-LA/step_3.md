@@ -1,6 +1,6 @@
 ## Planifica tu libro 📔
 
-Aprovecha este paso para planear tu libro. Puedes planearlo simplemente pensando, agregando fondos y objetos en Scratch, o dibujando o escribiendo, ¡o como quieras!
+Aprovecha este paso para planearlo. Puedes planearlo simplemente pensando, agregando fondos y objetos en Scratch, o dibujando o escribiendo, ¡o como quieras!
 
 ![El escenario muestra un objeto pensando, "Algunas de las mejores ideas llegan jugando. Las buenas ideas llegarán por accidente."](images/best-ideas.png)
 
@@ -17,7 +17,7 @@ Abre el [proyecto de iniciación te hice un libro](https://scratch.mit.edu/proje
 title: Trabajar sin conexión
 ---
 
-Para obtener información sobre cómo configurar Scratch para usarse sin conexión, visita [nuestra guía de "Introducción a Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Para obtener información sobre cómo configurar Scratch para usar sin conexión, visita [nuestra guía de "Introducción a Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
