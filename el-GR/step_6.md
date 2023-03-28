@@ -1,44 +1,44 @@
-## Share and play
+## Μοιράσου και παίξε
 
-If you have a Scratch account, you can share your project through Scratch.
+Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Υποβολές στην κοινότητα
 
 --- task ---
 
-Inspire others who do this project with your book!
+Μπορεί να εμπνεύσεις άλλους που κάνουν αυτό το έργο με το βιβλίο σου!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Για να υποβάλεις το έργο σου ['Σου έφτιαξα ένα βιβλίο — στην Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} για να το δουν άλλα άτομα, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Ρίξε μια ματιά σε αυτά τα υπέροχα έργα της κοινότητάς μας ['Σου έκανα βιβλίο — Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Ο Sporg πηγαίνει σπίτι**: [Δες μέσα](https://scratch.mit.edu/projects/499498152/editor){:target="_ blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+**Διαστημικό ταξίδι**: [Δες μέσα](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**How winter came**: [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
+**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
 
 --- /task ---
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Μπορείς επίσης να δεις τα remix για το έργο [Σου έκανα ένα βιβλίο αρχικό έργο](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} για να δεις τι έχουν φτιάξει άλλοι δημιουργοί.
 
 --- /task ---
