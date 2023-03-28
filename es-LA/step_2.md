@@ -12,20 +12,20 @@ Un <span style="color: #0faeb0">**libro digital**</span>📖📲 (o libro electr
 
 --- task ---
 
-Piensa en el propósito de tu libro.
+Piensa en el propósito.
 
 Podría ser:
-- Para entretener a un niño más pequeño
+- Para entretener a un niño muy pequeño
 - ♻️ Para compartir un mensaje importante, como fomentar el reciclaje
-- Para enseñarle a alguien cómo hacer algo, como preparar su comida favorita
-- Para contar o volver a contar una historia
+- 🍕 Para enseñarle a alguien cómo hacer algo, como preparar su comida favorita
+- 📖 Para contar o volver a contar una historia
 - 🗣️ Para compartir algo sobre ti
-- Para expresarte y ser creativo
+- 🎨 Para expresarte y ser creativo
 - ¡O algo más!
 
 --- /task ---
 
-### ¿Para quién?
+### ¿Para quién está destinado?
 
 --- task ---
 
