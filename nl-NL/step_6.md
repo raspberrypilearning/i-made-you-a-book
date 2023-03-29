@@ -30,7 +30,7 @@ Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Commun
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
+**Op ontdekkingstocht**: [Bekijk van binnen](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
