@@ -3,7 +3,7 @@
 Decide el tema de tu libro y a qué audiencia irá dirigido.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Un <span style="color: #0faeb0">**libro digital**</span>📖📲 (o libro electrónico) es un libro creado para leerse en una computadora, tableta, teléfono celular, u otro dispositivo electrónico. 
+Un <span style="color: #0faeb0">**libro digital**</span> 📖📲 (o libro electrónico) es un libro creado para leerse en una computadora, tableta, teléfono celular, u otro dispositivo electrónico. 
 
 ¿Has leído algún libro en un dispositivo digital?
 </p>

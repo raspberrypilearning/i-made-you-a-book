@@ -87,12 +87,12 @@ Haz clic en el personaje y el objeto para elegir los que quieras agregar a la hi
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/627805165/?autostart=false" frameborder="0"></iframe>
 
-  **⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (Proyecto de la comunidad destacado)
+  **⭐ Accidental Teleportation** 🚀 : [Ver dentro](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (Proyecto de la comunidad destacado)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (Proyecto de la comunidad destacado)
+**⭐ How winter came** ☃️ : [Ver dentro](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (Proyecto de la comunidad destacado)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
