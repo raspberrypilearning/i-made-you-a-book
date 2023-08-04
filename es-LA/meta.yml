@@ -2,21 +2,21 @@
 title: Te hice un libro
 hero_image: images/banner.png
 description: Crea un libro con varias páginas para contar una historia o compartir
-  hechos
+hechos
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
-- title: Introducción
+- title: Lo que harás
 - title: Tu idea
+- title: Planifica tu libro
 - title: Construye y prueba
   completion:
   - engaged
   - internal
-- title: Reflexión
+- title: Lista de control
   completion:
   - external
-- title: Mejora tu proyecto
-- title: Comparte
-- title: "¿Qué sigue?"
+- title: Comparte y juega
+- title: '¿Qué sigue?'
