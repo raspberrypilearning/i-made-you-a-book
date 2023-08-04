@@ -1,152 +1,40 @@
-## Construye y prueba
+## Planifica tu libro 📔
 
-Ahora es el momento de hacer tu libro. Empieza poco a poco y agrega más a tu proyecto si tienes tiempo.
+Aprovecha este paso para planearlo. Puedes planearlo simplemente pensando, agregando fondos y objetos en Scratch, o dibujando o escribiendo, ¡o como quieras!
 
-![Varias páginas de un proyecto de libro.](images/pages-rama.png)
+![El escenario muestra un objeto pensando, "Algunas de las mejores ideas llegan jugando. Las buenas ideas llegarán por accidente."](images/best-ideas.png)
 
-**Consejo:** Recuerda probar tu proyecto cada vez que agregues algo. Es mucho más fácil encontrar y corregir errores antes de hacer más cambios.
-
---- task ---
-
-Deberás decidir en qué orden crear tu libro. Para comenzar, puedes:
-- Crear todas las páginas como fondos, o
-- Hacer que una página funcione primero
-
---- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Es posible que al principio no tengas tiempo para agregar todo lo que quieras a tu libro. Está bien — siempre puedes volver a tu proyecto más tarde. 
-</p>
+Ahora es el momento de empezar a pensar en las páginas (fondos) y los personajes y objetos (sprites) de tu libro.
 
 --- task ---
 
-Has desarrollado algunas habilidades realmente útiles en Scratch. Aquí hay un recordatorio para ayudarte a crear tu libro:
+Abre el [proyecto de iniciación te hice un libro](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch se abrirá en otra pestaña del navegador.
 
-Código:
+⏱️ ¿Poco tiempo? Puedes comenzar con uno de los [ejemplos](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
-[[[scratch3-changing-backdrops-pages-levels]]]
+--- collapse ---
+---
+title: Trabajar sin conexión
+---
 
-[[[scratch3-change-costumes-to-show-mood]]]
+Para obtener información sobre cómo configurar Scratch para usar sin conexión, visita [nuestra guía de "Introducción a Scratch"](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
-[[[scratch3-animate-movement-costumes]]]
-
-[[[scratch3-graphic-effects]]]
-
-[[[scratch3-show-hide-sprites-backdrops]]]
-
-[[[scratch3-positioning-with-layers]]]
-
-[[[scratch3-jiggle-a-sprite]]]
-
-El Editor de dibujo — fondos y disfraces:
-
-[[[scratch3-paint-a-new-backdrop-extended]]]
-
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
-
-[[[scratch3-use-text-tool]]]
-
-[[[scratch3-copy-parts-between-sprite-costumes]]]
-
-[[[scratch3-add-costumes-to-a-sprite]]]
-
-Sonido:
-
-[[[scratch3-add-sound]]]
-
-[[[scratch3-record-sound]]]
-
-[[[scratch3-text-to-speech]]]
-
-El editor de Scratch:
-
-[[[scratch3-copy-code]]]
-
-[[[scratch3-full-screen]]]
-
-[[[scratch3-duplicate-sprite]]]
-
+--- /collapse ---
 
 --- /task ---
 
 --- task ---
 
-**Prueba:** Muéstrale tu proyecto a otra persona y pídele su opinión. ¿Quieres hacer cambios a tu libro?
+Usa tu nuevo proyecto de Scratch para planear tu libro. No tienes que planificar todas las páginas, puedes agregarlas más tarde.
+
+También puedes usar ✏️ un lápiz y [esta hoja de planificación](resources/i-made-a-book-worksheet.pdf){:target="_blank"} o una hoja de papel para esbozar tus ideas.
+
+Piensa en los fondos y los objetos:
+- 🖼️ ¿Qué fondos o colores de fondo usarás en tu libro?
+- 🗒️ ¿Cómo interactuarán los usuarios con tu libro para pasar a la página siguiente?
+- 🦁 ¿Qué personajes y objetos habrá en tu libro?
+- 🏃‍♀️ ¿Cómo se animarán e interactuarán los objetos en cada página?
+
+![Un ejemplo de la hoja de planificación descargable completada por un niño. Los diseños dibujados a mano llenan los seis rectángulos de la página.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
-
---- task ---
-
-**Depurar:** Es posible que encuentres algunos errores en tu proyecto que necesites corregir. A continuación, se muestran algunos errores comunes:
-
---- collapse ---
----
-title: Un objeto se muestra u oculta en las páginas incorrectas
----
-
-Comprueba que el objeto tenga scripts `cuando el fondo cambie a`{:class="block3events"} con bloques `mostrar`{:class="block3looks"} o `esconder`{:class="block3looks"} según sea necesario. Comprueba que hayas elegido el nombre de fondo correcto en el bloque `cuando el fondo cambie a`{:class="block3events"}. Es útil dar nombres de fondo que pueda entender fácilmente, para ayudar a detectar problemas como este.
-
---- /collapse ---
-
---- collapse ---
----
-title: Un objeto se pone boca abajo
----
-
-Agrega un bloque `fijar estilo de rotación a izquierda-derecha`{:class="block3motion"} o `fijar estilo de rotación a no rotar`{:class="block3motion"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: Un objeto 'salta' cuando cambia de vestuario o rebota
----
-
-Asegúrate de que el disfraz esté centrado en el editor de Paint (alinea la cruz azul del disfraz con la cruz en el centro del editor de Paint).
-
---- /collapse ---
-
---- collapse ---
----
-title: No se reproduce un sonido
----
-
-¿Ha agregado un bloque para `iniciar sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, deberás agregar el sonido a este objeto en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta, y asegúrate de no haber bajado el volumen con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
-
---- /collapse ---
-
---- collapse ---
----
-title: Otros objetos continúan frente a un objeto
----
-
-Agrega un bloque `ir a la capa de adelante`{:class="block3looks"}.
-
---- /collapse ---
-
---- collapse ---
----
-title: Un objeto solo se mueve o cambia una vez
----
-
-Pon tu código dentro de un bloque `por siempre`{:class="block3control"} para que siga funcionando.
-
---- /collapse ---
-
---- collapse ---
----
-title: Las páginas están en el orden incorrecto
----
-
-Verifica en qué orden están tus fondos: haz clic en el panel Escenario y luego en **Fondos** para ver los fondos de tu proyecto.
-
---- /collapse ---
-
-Es posible que encuentres un error que no se incluye aquí. ¿Puedes averiguar cómo solucionarlo?
-
-Nos encanta conocer tus errores y cómo los solucionaste. Usa el botón **Enviar comentarios** en la parte inferior de esta página y cuéntanos si encontraste un error distinto en tu proyecto.
-
---- /task ---
-
-
---- save ---
