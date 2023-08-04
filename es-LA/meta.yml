@@ -1,8 +1,7 @@
 ---
 title: Te hice un libro
 hero_image: images/banner.png
-description: Crea un libro con varias páginas para contar una historia o compartir
-hechos
+description: Crea un libro con varias páginas para contar una historia o compartir hechos
 version: 4
 listed: true
 copyedit: false
@@ -19,4 +18,4 @@ steps:
   completion:
   - external
 - title: Comparte y juega
-- title: '¿Qué sigue?'
+- title: ¿Qué sigue?
