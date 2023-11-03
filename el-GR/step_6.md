@@ -1,21 +1,44 @@
-## Κοινοποίηση
+## Μοιράσου και παίξε
 
-Τώρα, ήρθε η ώρα να μοιραστείς το βιβλίο σου με το κοινό σου.
-
-Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch. Μπορείς να στείλεις έναν σύνδεσμο σε άτομα που γνωρίζεις και ολόκληρη η κοινότητα Scratch θα μπορεί να βρει το έργο σου και να το δοκιμάσει.
+Εάν διαθέτεις λογαριασμό Scratch, μπορείς να μοιραστείς το έργο σου μέσω του Scratch.
 
 [[[share-scratch]]]
 
-Γιατί να μην καλέσεις τους φίλους σου να δημιουργήσουν ένα έργο; Πες τους πως ήταν διασκεδαστικό.
-
-Εάν έχεις λογαριασμό Scratch και έχεις κοινοποιήσει το βιβλίο σου, πρόσεξε τα σχόλια που μπορούν να κάνουν άλλοι σχετικά με τη δημιουργία σου. Τα σχόλια είναι ένας πολύ καλός τρόπος για να επανέλθεις στο έργο σου και να το βελτιώσεις. Αγνόησε οποιαδήποτε σχόλια δεν σε βοηθούν ή είναι άσχετα.
-
 [[[comments-feedback-scratch]]]
+
+### Υποβολές στην κοινότητα
 
 --- task ---
 
-Δώσε έμπνευση στην κοινότητα του Ιδρύματος Raspberry Pi με το έργο σου!
+Μπορεί να εμπνεύσεις άλλους που κάνουν αυτό το έργο με το βιβλίο σου!
 
-Για να υποβάλεις το έργο σου στο Scratch studio ['I made you a book — Community'](https://scratch.mit.edu/studios/29092393){:target="_blank"} για να το δουν κι άλλα άτομα, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Για να υποβάλεις το έργο σου ['Σου έφτιαξα ένα βιβλίο — στην Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} για να το δουν άλλα άτομα, συμπλήρωσε [αυτήν τη φόρμα](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+
+--- /task ---
+
+--- task ---
+
+Ρίξε μια ματιά σε αυτά τα υπέροχα έργα της κοινότητάς μας ['Σου έκανα βιβλίο — Κοινότητα' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+
+**Ο Sporg πηγαίνει σπίτι**: [Δες μέσα](https://scratch.mit.edu/projects/918684060/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/918684060/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Διαστημικό ταξίδι**: [Δες μέσα](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
+</div>
+
+**Έτοιμος για εξερεύνηση**: [Δες μέσα](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
+<div class="scratch-preview" style="margin-left: 15px;">
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
+</div>
+
+--- /task ---
+
+--- task ---
+
+Μπορείς επίσης να δεις τα remix για το έργο [Σου έκανα ένα βιβλίο αρχικό έργο](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} για να δεις τι έχουν φτιάξει άλλοι δημιουργοί.
 
 --- /task ---
