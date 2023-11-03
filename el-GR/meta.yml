@@ -1,22 +1,23 @@
 ---
 title: Σου έφτιαξα ένα βιβλίο
 hero_image: images/banner.png
-description: Δημιούργησε ένα βιβλίο με πολλές σελίδες για να πεις μια ιστορία ή να
-  μοιραστείς γεγονότα
+description: Δημιούργησε ένα βιβλίο με πολλές σελίδες για να πεις μια ιστορία ή να μοιραστείς γεγονότα
+meta_title: Έργα κώδικα σε Scratch για παιδιά και εφήβους | Σου έφτιαξα ένα βιβλίο
+meta_description: Μάθε να προγραμματίζεις με Scratch με τα έργα κώδικα του Ιδρύματος Raspberry Pi για παιδιά και εφήβους. Δημιούργησε ένα ψηφικό βιβλίο στη Scratch για κάποιον ή κάποια που νοιάζεσαι.
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
-- title: Εισαγωγή
-- title: Η ιδέα σου
-- title: Δημιουργία κι έλεγχος
-  completion:
-  - engaged
-  - internal
-- title: Αναστοχασμός
-  completion:
-  - external
-- title: Αναβάθμιση του έργου σου
-- title: Κοινοποίηση
-- title: Πού θα βρεις βοήθεια
+  - title: Θα φτιάξεις
+  - title: Η ιδέα σου
+  - title: Σχεδίασε το βιβλίο σου
+  - title: Κατασκεύασε και δοκίμασε
+    completion:
+      - engaged
+      - internal
+  - title: Λίστα ελέγχου
+    completion:
+      - external
+  - title: Μοίρασε και παίξε
+  - title: Πού θα βρεις βοήθεια
