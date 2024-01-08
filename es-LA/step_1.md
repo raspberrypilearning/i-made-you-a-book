@@ -25,10 +25,8 @@ Busca los objetos que se muestran y se ocultan en diferentes páginas.
 
 </div>
 <div>
-  
-**Monstruo de las cosquillas**: [Ver dentro](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -71,25 +69,17 @@ Tu libro podría:
 Explora estos proyectos de ejemplo para obtener ideas para tu libro:
 
 ⭐ Comparte tu proyecto de 'Te hice un libro' y ten la oportunidad de que se muestre aquí.
-
-**Mi banda** 🎸 : [Ver dentro](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Cenicienta y la araña** 🕷️ : [Ver dentro](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Teletransportación accidental** 🚀 : [Ver dentro](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (proyecto destacado de la comunidad)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Cómo llegó el invierno** ☃️ : [Ver dentro](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (proyecto destacado de la comunidad)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /tarea ---
