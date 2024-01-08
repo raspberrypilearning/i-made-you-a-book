@@ -25,10 +25,8 @@ Wat gebeurt er als je op elke sprite klikt?
 
 </div>
 <div>
-  
-**Kietelmonster**: [Bekijk van binnen](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -71,25 +69,17 @@ Je boek kan:
 Verken deze voorbeeldprojecten om ideeën voor je boek op te doen:
 
 ⭐ Deel je voltooide 'Ik heb een boek voor je gemaakt'-project om kans te maken dat het hier wordt weergegeven.
-
-**Mijn band** 🎸 : [Bekijk van binnen](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Assepoester en de spin** 🕷️ : [Bekijk van binnen](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Onbedoelde teleportatie** 🚀 : [Bekijk van binnen](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Hoe de winter kwam** ☃️ : [Bekijk van binnen](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (aanbevolen gemeenschapsproject)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
