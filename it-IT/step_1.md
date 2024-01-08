@@ -26,9 +26,9 @@ Cosa succede quando clicchi sugli sprite?
 </div>
 <div>
 
-**Il mostro con il solletico**: [Guarda dentro](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Il mostro con il solletico**: [Guarda dentro](https://scratch.mit.edu/projects/948013489/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/948013489/?autostart=false" frameborder="0"></iframe>
 </div>
 
 </div>
