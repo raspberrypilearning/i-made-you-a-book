@@ -25,10 +25,8 @@
 
 </div>
 <div>
-  
-**Γαργάλησε το τέρας**: [Δες μέσα](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 </div>
@@ -71,25 +69,17 @@
 Μελέτησε τα παρακάτω παραδείγματα έργων για να πάρεις ιδέες για το βιβλίο σου:
 
 ⭐ Μοιράσου το ολοκληρωμένο σου έργο «Σου έκανα ένα βιβλίο» για να έχεις την ευκαιρία να προβληθεί εδώ.
-
-**Η μπάντα μου** 🎸 : [Δες μέσα](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Η Σταχτοπούτα και η αράχνη** 🕷️ : [Δες μέσα](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Τυχαία τηλεμεταφορά** 🚀 : [Δες μέσα](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
-
-**⭐ Πώς ήρθε ο χειμώνας** ☃️ : [Δες μέσα](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
 
 --- /task ---
