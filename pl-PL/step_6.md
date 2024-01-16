@@ -1,24 +1,24 @@
-## Share and play
+## Udostępnij i graj
 
-If you have a Scratch account, you can share your project through Scratch.
+Jeśli masz już konto Scratch, możesz udostępnić swój projekt przez Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Zgłoszenia społeczności
 
 --- task ---
 
-Inspire others who do this project with your book!
+Zainspiruj innych, którzy realizują ten projekt swoją książką!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Aby przesłać swój projekt do [studia Scratch "Zrobiłem Ci książkę — Społeczność”](https://scratch.mit.edu/studios/29092393){:target="_blank"}, aby inni mogli go zobaczyć, wypełnij [ten formularz](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Spójrz na te wspaniałe projekty społecznościowe z naszego studia Scratch [„Zrobiłem ci książkę — społeczność”](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -33,6 +33,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Możesz też przejrzeć remiksy projektu [Projekt Zrobiłem ci książkę](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"}, aby zobaczyć, co stworzyli inni twórcy.
 
 --- /task ---
