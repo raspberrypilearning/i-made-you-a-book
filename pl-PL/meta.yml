@@ -1,0 +1,23 @@
+---
+title: Zrobiłem Tobie książkę
+hero_image: images/banner.png
+description: Zrób książkę z wieloma stronami, aby opowiedzieć historię lub podzielić się faktami
+meta_title: Projekty kodowania scratch dla dzieci i młodzieży | Zrobiłem ci książkę
+meta_description: Naucz się kodować w Scratchu dzięki projektom kodowania Fundacji Raspberry Pi dla dzieci i młodzieży. Stwórz cyfrową książkę Scratch dla kogoś, na kim Ci zależy.
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+  - title: Co będziesz robić
+  - title: Twój pomysł
+  - title: Zaplanuj swoją książkę
+  - title: Buduj i testuj
+    completion:
+      - engaged
+      - internal
+  - title: Lista kontrolna
+    completion:
+      - external
+  - title: Udostępnij i graj
+  - title: Co dalej?
