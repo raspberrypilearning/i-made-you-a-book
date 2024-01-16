@@ -1,72 +1,72 @@
-## Checklist
+## Lista kontrolna
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Czy udało Ci się spełnić **założenia projektu**? Pomyśl o swoim projekcie i przejrzyj poniższą listę kontrolną oraz sprawdź funkcje, które posiada Twój projekt.
 
-### Your book should have:
+### Twoja książka powinna zawierać:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Wiele stron, z możliwością przejścia do następnej strony
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Co najmniej jeden duszek
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Różne akcje na każdej stronie
 
 --- /task ---
 
-### Your book could also have:
+### Twoja książka może również zawierać:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Głosy lub efekty dźwiękowe
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Tekst lub grafikę, utworzoną w edytorze Paint
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Interaktywne funkcje na każdej stronie
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Powtórka
 
-🎉 Take a moment to celebrate what you have made.
+Możesz pomyśleć o tym, jak zrobiłeś swoją książkę, aby pomóc sobie w przyszłych projektach:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Jak wpadłeś na swoje pomysły?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Jakich fajnych nowych rzeczy się nauczyłeś?
+
+--- /task ---
+
+### Teraz jesteś autorem cyfrowej książki!
+
+🎉 Poświęć chwilę na świętowanie tego, co zrobiłeś.
+
+--- task ---
+
+Gdzie zabierzesz swoje nowe moce? Co zrobisz dalej?
+
+--- /task ---
+
+![Scratch Cat w imprezowym kapeluszu.](images/reflect.png)
 
