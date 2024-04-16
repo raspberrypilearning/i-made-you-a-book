@@ -1,24 +1,24 @@
-## Share and play
+## Compartilhar e jogar
 
-If you have a Scratch account, you can share your project through Scratch.
+Se você tem uma conta Scratch, você pode compartilhar seu projeto através do Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Envios da comunidade
 
 --- task ---
 
-Inspire others who do this project with your book!
+Inspire outras pessoas a fazerem este projeto com o seu livro!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Para enviar seu projeto para nosso [estúdio Scratch 'Eu fiz um livro para você — Comunidade' ](https://scratch.mit.edu/studios/29092393){:target="_blank"} para que outras pessoas vejam, preencha [este formulário](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Dê uma olhada nesses fabulosos projetos comunitários do nosso [estúdio Scratch 'Eu fiz um livro para você — Comunidade' ](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -33,6 +33,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Você também pode ver os remixes de [Eu fiz um livro para você](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} para ver o que outros criadores fizeram.
 
 --- /task ---
