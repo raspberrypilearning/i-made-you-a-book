@@ -90,7 +90,7 @@ Explore estes projetos de exemplo para obter ideia para o seu livro:
 
 ### Obtenha ideias 💭
 
-Para obter ideias para o seu 📚 livro, **Ver interior** exemplo de projetos no ''Eu fiz um livro para você — Exemplos' estúdio Scratch: https://scratch.mit.edu /estúdios/29082370
+Para obter ideias para o seu 📚 livro, **Ver interior** exemplo de projetos no ''Eu fiz um livro para você — Exemplos' estúdio Scratch: https://scratch.mit.edu/studios/29082370
 
 ![O projeto 'Ilumine o caminho para casa'.](images/showcase_static.png)
 
