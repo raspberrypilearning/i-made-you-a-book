@@ -1,10 +1,10 @@
-## You will make
+## O que você vai fazer
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Crie um 📚 livro no Scratch baseado em sua própria ideia 💡.
 
-You will:
+Você deve:
 
-+ Create a digital book for someone specific
++ Criar um livro digital para alguém específico
 + Escolher quais habilidades usar para criar o seu livro
 + Compartilhar um endereço da web para o seu livro
 
@@ -15,13 +15,13 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Executar ▶️ 
 
-Click on the corner to turn the page.
+Clique no canto para virar a página.
 
-Look for sprites that show and hide on different pages.
+Procure por atores que aparecem e se escondem em páginas diferentes.
   
-What happens when you click on each sprite?
+O que acontece quando você clica em cada ator?
 
 </div>
 <div>
@@ -36,39 +36,39 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+O seu livro precisará atender aos critérios do **resumo do projeto**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+O <span style="color: #0faeb0">**resumo do projeto**</span> descreve o que um projeto deve fazer. É um pouco como receber uma missão para cumprir.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 RESUMO DO PROJETO: Crie um **livro digital**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Você precisará decidir que tipo de livro você gostaria de fazer e para quem ele se destina. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Seu livro deve:
++ 📃 Ter múltiplas páginas, com uma maneira de passar para a próxima página
++ 🐢 Ter pelo menos um sprite
++ 💬 Dizer ou fazer algo diferente em cada página
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Seu livro pode:
++ 🔉 Ter fala ou efeitos sonoros 
++ 🎨 Ter texto ou arte que foi criada no editor Paint
++ 🖱️ Ter recursos interativos em todas as páginas
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Obtenha ideias 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Explore estes projetos de exemplo para obter ideia para o seu livro:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Compartilhe seu projeto finalizado 'Eu fiz um livro para você' para ter a chance de ser apresentado aqui.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -88,11 +88,11 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Obtenha ideias 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Para obter ideias para o seu 📚 livro, **Ver interior** exemplo de projetos no ''Eu fiz um livro para você — Exemplos' estúdio Scratch: https://scratch.mit.edu /estúdios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![O projeto 'Ilumine o caminho para casa'.](images/showcase_static.png)
 
 --- /print-only ---
 
