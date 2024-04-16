@@ -1,11 +1,11 @@
-## Your idea 💡
+## Sua ideia 💡
 
-Decide the theme of your book and who will be the audience.
+Decida o tema do seu livro e qual será o público.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+Um <span style="color: #0faeb0">**livro digital**</span> 📖📲 (ou e-book) é um livro criado e lido em um computador, tablet, telefone ou outro dispositivo eletrônico. 
 
-❓ Have you read any books on a digital device?
+❓Você já leu algum livro em um dispositivo digital?
 </p>
 
 ### Por que você está fazendo o livro?
@@ -15,13 +15,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 Pense no propósito do seu livro.
 
 Pode ser:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+- 🧒 Para entreter uma criança mais nova
+- ♻️ Para compartilhar uma mensagem importante, como incentivar a reciclagem
+- 🍕 Para ensinar alguém a fazer algo, como preparar sua comida favorita
+- 📖 Para contar ou recontar uma história
+- 🗣️ Para compartilhar algo sobre você
+- 🎨 Para se expressar e ser criativo
+- Ou alguma outra coisa!
 
 --- /task ---
 
@@ -31,14 +31,14 @@ Pode ser:
 
 Pense sobre para quem você fará seu livro (seu **público**).
 
-It could be:
+Pode ser:
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧 Para um amigo
+- 👴 Para um membro da família
+- 👩‍🎓 Para uma classe escolar
+- 🏇 Para pessoas que compartilham um hobby
+- 👨‍🎤 Para fãs de um músico
+- Para outra pessoa ou apenas para você.
 
 --- /task ---
 
