@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Construa 🧱 e teste 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Agora é hora de construir seu livro. Comece pequeno e adicione mais ao seu projeto se tiver tempo.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Várias páginas de um projeto de livro.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Dica:** Lembre-se de testar seu projeto cada vez que adicionar algo. É muito mais fácil localizar e corrigir bugs antes de fazer mais alterações.
 
-### For each page 📃
+### Para cada página 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Adicione o plano de fundo e os novos atores necessários para esta página.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Escolha um ator e escolha um ícone de cenário.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Você precisará adicionar código para definir as posições e a visibilidade dos atores na primeira página de título e em cada página seguinte.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Para cada ator 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Você precisará adicionar código a cada personagem e objeto em seu livro. Considere se eles farão alguma coisa quando o projeto começar, quando o cenário mudar para uma página específica ou quando o ator for clicado.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Virando a página 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Você precisará de uma maneira para o leitor passar para a próxima página do livro.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Edite fantasias 🦁 e cenários 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Você pode editar ou adicionar fantasias e cenários no editor Paint.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![As guias de Fantasias e Cenários.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Os ícones de fantasias e cenários.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Adicionar som 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![A guia Sons.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![O ícone para adicionar um som.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![O ícone de gravação no menu adicionar som.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![O ícone de menu dos blocos de texto para fala.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Lembretes do editor Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Teste:** 🔄 Mostre seu projeto a outra pessoa e peça 🗣️ sua opinião. Deseja fazer alguma alteração em seu livro?
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Se você tiver tempo, você pode melhorar o seu projeto.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Você poderia:
+- Adicionar mais código aos seus atores
+- Adicionar outro ator
+- Adicionar outra página
+- Gravar um som
+- Criar uma nova fantasia no editor Pintar
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Depuração:** 🐞 Você pode encontrar alguns erros em seu projeto que precisa corrigir. Aqui estão alguns erros comuns:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+título: Um ator está aparecendo ou se escondendo nas páginas erradas
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Verifique se o ator tem os scripts `quando o cenário mudar para`{:class="block3events"} com os blocos `mostrar`{:class="block3looks"} ou `esconder`{:class="block3looks"} conforme necessário. Verifique se você escolheu o nome correto do cenário no bloco `quando o cenário mudar para`{:class="block3events"}. Uma dica é dar nomes aos cenários que você possa entender facilmente, para ajudar a detectar problemas como esse.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+título: Um ator está ficando de cabeça para baixo
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Adicione um bloco `defina o estilo de rotação para esquerda-direita`{:class="block3motion"} ou `defina o estilo de rotação para não rotacionar`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+título: Um ator 'pula' quando muda de fantasia ou salta
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Certifique-se de que a fantasia esteja centralizada no editor Paint (alinhe a cruz azul na fantasia com a cruz no centro do editor Paint).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+título: Um som não toca
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Você adicionou um bloco `toque o som`{:class="block3sound"} quando necessário? Se você copiou o código de outro ator, você precisará adicionar o som a este ator na guia **Sons**. Verifique o volume do seu computador ou tablet e certifique-se de não ter baixado o volume com o bloco de código - tente `mude o volume para`{:class="block3sound"}` 100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+título: Outros atores continuam na frente de um ator
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Adicione um bloco `vá para a camada da frente`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+título: Um ator só se move ou muda uma vez
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Coloque seu código dentro de um bloco `sempre`{:class="block3control"} para que ele continue executando.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+título: As páginas estão na ordem errada
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Verifique a ordem que seus cenários estão: clique no painel Palco e depois na guia **Cenários** para visualizar os cenários do seu projeto.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Você pode encontrar um erro que não esteja listado aqui. Você consegue descobrir como consertar?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Adoramos ouvir sobre seus erros e como você os corrigiu. Use o botão **Enviar comentários** na parte inferior desta página e diga-nos se você encontrou um erro diferente em seu projeto.
 
 --- /task ---
 
