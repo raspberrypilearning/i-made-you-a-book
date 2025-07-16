@@ -5,8 +5,8 @@ Create a 📚 book in Scratch based on your own idea 💡.
 You will:
 
 + Create a digital book for someone specific
-+ あなたの本を作るために使用するスキルを選択します
-+ あなたの本のウェブアドレスを共有します
++ 本を作るために使うスキルを選択します
++ 本のウェブアドレスを共有します
 
 --- no-print ---
 
