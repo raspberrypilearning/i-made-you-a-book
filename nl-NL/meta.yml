@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Maak een boek met meerdere pagina's om een verhaal te vertellen of feiten te delen
 meta_title: Scratch-programmeerprojecten voor kinderen en tieners | Ik heb een boek voor je gemaakt
 meta_description: Leer coderen in Scratch met de programmeerprojecten voor kinderen en tieners van de Raspberry Pi Foundation. Maak een digitaal Scratch-boek voor iemand om wie je geeft.
+pdf: resources/i-made-you-a-book.pdf
 version: 4
 listed: true
 copyedit: false
