@@ -4,6 +4,7 @@ hero_image: images/banner.png
 description: Crea un libro con più pagine per raccontare una storia o condividere fatti
 meta_title: Progetti di programmazione con Scratch per bambini e ragazzi | Ho creato un libro per te
 meta_description: Impara a programmare con Scratch con i progetti di programmazione per bambini e ragazzi offerti dalla Raspberry Pi Foundation. Crea un libro digitale con Scratch per qualcuno che conta per te.
+pdf: resources/i-made-you-a-book.pdf
 version: 4
 listed: true
 copyedit: false
