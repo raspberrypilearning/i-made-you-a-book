@@ -1,23 +1,23 @@
-## Plan your book 📔
+## 本を計画する 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+この手順を使用して本を計画します。 頭の中だけで考えたり、Scratchに背景やスプライトを追加したり、絵や文章を書いたり、それ以外にあなたの好きな方法で、計画を立てることができます。
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![考え中のスプライトを表示するステージ、" 遊びの中から最高のアイデアが生まれることがある。 よいアイデアは偶然見つかるものだ。"](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+それでは、本のページ（背景）と登場する人物や物（スプライト）について考えていきましょう。
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+[「私はあなたに本を作りました」基本プロジェクト](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}を開きます。 Scratchはブラウザの別のタブで開きます。
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+ゆっくりやる時間がないですか？ 忙しい人はプロジェクトの[例](https://scratch.mit.edu/studios/29082370){:target="_blank"}のいずれかから始めることができます。
 
 --- collapse ---
 ---
-title: Working offline
+title: オフラインでの作業
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Scratchをオフラインで使用するための設定方法については、 [「Scratch入門」ガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}を見てください。
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+新しいScratchプロジェクトを使用して本を計画します。 すべてのページを計画する必要はなく、後で追加することもできます。
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+✏️鉛筆と[この計画シート](resources/i-made-a-book-worksheet.pdf){:target="_blank"}または紙を使ってアイデアをスケッチすることもできます。
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+背景とスプライトについて考えてみましょう。
+- 🖼️あなたの本でどの背景や背景色を使いますか？
+- 🗒️読者はあなたの本をどのように操作して次のページに移動しますか？
+- 🦁あなたの本にどんな人物と物を登場させますか？
+- 🏃‍♀️各ページでスプライトはどのように動き、反応しますか？
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![子どもが記入したダウンロード可能な計画シートの例。 ページ上の6つの長方形に手描きのデザインが埋められている。](images/design-example.jpg){:width="300px"}
 
 --- /task ---
