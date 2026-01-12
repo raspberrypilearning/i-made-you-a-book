@@ -2,28 +2,28 @@
 title: 私はあなたに本を作りました
 hero_image: images/banner.png
 description: 物語を伝えたり事実を共有したりするために、複数ページの本を作成します
-meta_title: Scratch coding projects for kids and teens | I made you a book
-meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch digital book for someone you care about.
-pdf: resources/i-made-you-a-book.pdf
+meta_title: 子供と十代の若者向けのScratch コーディングプロジェクト | 私はあなたに本を作りました
+meta_description: Raspberry Pi Foundationの子供と十代の若者向けのコーディングプロジェクトで、Scratchによるコーディングを学びましょう。大切な人のためにデジタルブックを作成します。
+pdf: 資料/私はあなたに本を作りました
 version: 4
 listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: はじめに
   - 
     title: あなたのアイデア
   - 
-    title: Plan your book
+    title: 本を考える
   - 
-    title: Build and test
+    title: 作って試す
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: チェックリスト
     completion:
       - external
   - 
-    title: Share and play
+    title: 共有して遊ぶ
