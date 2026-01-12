@@ -92,7 +92,7 @@ Play with these example projects to get ideas for your book:
 
 To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+!['लाइट द वे होम' प्रोजेक्ट।](images/showcase_static.png)
 
 --- /print-only ---
 
