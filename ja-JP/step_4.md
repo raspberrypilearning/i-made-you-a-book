@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## 作って🧱試す🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+さあ、あなたの本を作る時が来ました。 小さなことから始めて、時間があればプロジェクトにさらに追加してください。
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![本のプロジェクトの複数のページ。](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**ヒント:** 何かを追加するたびに、プロジェクトをテストすることを忘れないでください。 バグを見つけて修正するのは、変更を重ねる前の方がはるかに簡単です。
 
-### For each page 📃
+### ページ📃ごとに
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+このページに必要な背景と新しいスプライトを追加します。
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![「スプライトを選ぶ」と「背景を選ぶ」アイコン。](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+最初のタイトルページとその後の各ページにコードを追加して、スプライトの位置や表示・非表示を設定する必要があります。
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### スプライト🐈🐢🎈ごとに
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+あなたの本の各キャラクターやオブジェクトスプライトにコードを追加する必要があります。 プロジェクトが開始した時、背景が特定のページに切り替わった時、あるいはスプライトがクリックされた時に何かを行うようにするか検討します。
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### ページ📖をめくる
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+読者が本の次のページに移動できる方法が必要になります。
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### コスチューム🦁と背景🖼️を編集する
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+ペイントエディターでコスチュームや背景を編集したり追加する必要があるかもしれません。
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![コスチュームと背景のタブ。](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![コスチュームと背景の「描く」アイコン。](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### 音🎵を追加する
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![音タブ。](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![「音を選ぶ」アイコン。](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![「音を選ぶ」メニューの「録音する」アイコン。](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![「音声合成」ブロックメニューのアイコン。](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Scratchエディターのリマインダー
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**テスト:** 🔄 プロジェクトを他の人に見せてフィードバック🗣️をもらいます。 本に何か変更を加えますか？
 
-⏱️ If you have time, you can upgrade your project.
+⏱️時間がある人は、プロジェクトをアップグレードしましょう。
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡こんなことができます
+- スプライトにコードを追加する
+- 別のスプライトを追加する
+- 別のページを追加する
+- 音を録音する
+- ペイントエディターで新しいコスチュームを作成する
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**デバッグ:** 🐞プロジェクトに修正が必要なバグが見つかる場合があります。 よくあるバグをいくつか紹介します。
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: スプライトが間違ったページで表示または非表示になっている
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+スプライトのコードに、`背景が・・・になったとき`{:class="block3events"}スクリプトに`表示する`{:class="block3looks"}または `隠す`{:class="block3looks"}ブロックが必要に応じて置かれていることを確認してください。 `背景が～になったとき`{:class="block3events"}ブロックで正しい背景名を選択していることを確認します。 わかりやすい背景名を付けると、このような問題を見つけるのに役立ちます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: スプライトが逆さまになってる
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+`回転方法を左右のみにする`{:class="block3motion"}または`回転方法を回転しないにする`{:class="block3motion"}ブロックを追加します。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: コスチュームを変更するとスプライトが「ジャンプ」したり跳ね返ったりする
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+コスチュームがペイントエディターの中央にあることを確認します（コスチュームの青い十字をペイントエディターの中央の十字線に合わせます）。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: 音が出ない
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+`～の音を鳴らす`{:class="block3sound"}ブロックを必要なところに追加しましたか？ 別のスプライトからコードをコピーした場合、このスプライトの**音**タブでその音を追加する必要があります。 コンピューターやタブレットの音量を確認し、コードで音量を下げていないことを確認します。例えば、 `音量を～%にする`{:class="block3sound"}で`100`に設定してみてください。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: 他のスプライトがスプライトの前面に来てしまう
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+`最前面へ移動する`{:class="block3looks"}ブロックを追加します。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: スプライトが一度しか移動または変更されない
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+コードを`ずっと`{:class="block3control"}ブロックの中に入れると動き続けます。
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: ページの順序が間違っている
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+次の方法で背景の順序を確認します。ステージペインをクリックし 、**背景**タブでプロジェクトの背景を表示します。
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+ここに記載されていないバグが見つかるかもしれません。 修正方法を見つけることができますか？
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+あなたが見つけたバグやその修正方法についてぜひ聞かせてください。 あなたのプロジェクトで別のバグを見つけたら、このページの一番下にある**フィードバックを送信**ボタンを使ってお知らせください。
 
 --- /task ---
 
