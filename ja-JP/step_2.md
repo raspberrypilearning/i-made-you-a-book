@@ -1,11 +1,11 @@
-## Your idea 💡
+## あなたのアイデア
 
-Decide the theme of your book and who will be the audience.
+本のテーマと対象読者を決めます。
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+<span style="color: #0faeb0">**デジタル ブック**</span> 📖📲（または電子書籍）は、コンピューター、タブレット、携帯電話、またはその他の電子機器で読むように作成された書籍です。 
 
-❓ Have you read any books on a digital device?
+❓ デジタル機器で本を読んだことがありますか？
 </p>
 
 ### どうして本を作ってるの？
@@ -15,13 +15,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 あなたの本の目的について考えてください。
 
 例えば:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+- 🧒 小さな子どもを楽しませるために
+- ♻️ リサイクルの奨励など、重要なメッセージを共有するために
+- 🍕 お気に入りの食べ物の作り方など、何かをする方法を誰かに教えるために
+- 📖 物語を語ったり、語り直したりするために
+- 🗣️ あなた自身について何かを共有するために
+- 🎨 自分を表現し、創造的になるために
+- または、何か他のことのために！
 
 --- /task ---
 
@@ -31,14 +31,14 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 
 誰のために本を作るかについて考えてください（ あなたの**観客**）。
 
-It could be:
+例えば
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧 友達に向けて
+- 👴 家族に向けて
+- 👩‍🎓 学校の授業に向けて
+- 🏇 同じ趣味を持つ人に向けて
+- 👨‍🎤 ある音楽家のファンに向けて
+- 他の誰かや自分自身に向けて。
 
 --- /task ---
 
