@@ -31,14 +31,14 @@ It could be:
 
 Think about who you will make your book for (your **audience**).
 
-It could be:
+जैसे की
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧दोस्त के लिए
+- 👴परिवार के किसी सदस्य के लिए
+- 👩‍🎓 स्कूल की कक्षा के लिए
+- 🏇 शौक साझा करने वाले लोगों के लिए
+- 👨‍🎤 एक संगीतकार के प्रशंसकों के लिए
+- किसी और के लिए या सिर्फ अपने लिए।
 
 --- /task ---
 
