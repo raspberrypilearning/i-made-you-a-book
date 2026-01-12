@@ -1,24 +1,24 @@
-## Share and play
+## 共有して遊ぶ
 
-If you have a Scratch account, you can share your project through Scratch.
+Scratchアカウントをお持ちの場合は、Scratchを介してプロジェクトを共有できます。
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### コミュニティへの投稿
 
 --- task ---
 
-Inspire others who do this project with your book!
+あなたの本で、このプロジェクトに取り組む他の人たちにひらめきを与えましょう！
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+他の人たちに見てもらうために、プロジェクトを[「I made you a book - Community（私はあなたに本を作りましたのコミュニティ）」Scratchスタジオ](https://scratch.mit.edu/studios/29092393){:target="_blank"}へ送信するには、[このフォーム](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}に記入してください。
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+[「I made you a book - Community（私はあなたに本を作りましたのコミュニティ）」Scratchスタジオ](https://scratch.mit.edu/studios/29092393){:target="_blank"}の素晴らしいコミュニティプロジェクトをご覧ください。
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="" frameborder="0"></iframe>
 </div>
@@ -33,6 +33,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+[「I made you a book（私はあなたに本を作りました）」スタータープロジェクト](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"}のリミックスを見て、他のクリエイターが作成したものもご確認ください。
 
 --- /task ---
