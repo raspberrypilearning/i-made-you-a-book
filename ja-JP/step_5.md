@@ -1,72 +1,72 @@
-## Checklist
+## チェックリスト
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+**プロジェクト概要**どおりになっていますか？ あなたのプロジェクトについて考えて、以下のチェックリストを確認し、プロジェクトの機能をチェックしてください。
 
-### Your book should have:
+### あなたの本には以下の内容が含まれている必要があります。
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+複数のページがあり、次のページに進む方法がある
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+少なくとも1つのスプライト
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+ページごとに異なるアクション
 
 --- /task ---
 
-### Your book could also have:
+### あなたの本には以下の内容も含めることができます。
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+音声または効果音
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+ペイントエディタで作成されたテキストやアート
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+すべてのページのインタラクティブ機能
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### ふりかえり
 
-🎉 Take a moment to celebrate what you have made.
+どのように本を作成したかを振り返ることで、将来のプロジェクトに役立てることができます。
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+どうやってアイデアを思いついたのですか？
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+どんなクールな新しいことを学びましたか？
+
+--- /task ---
+
+### これで、あなたもデジタルブックの著者になりました！
+
+🎉 少し時間を取って、あなたが作ったものをお祝いしましょう。
+
+--- task ---
+
+新しい力をどのように使いますか？ 次は何を作りますか？
+
+--- /task ---
+
+![パーティーハットをかぶったScratchキャット。](images/reflect.png)
 
