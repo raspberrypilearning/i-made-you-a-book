@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: 物語を伝えたり事実を共有したりするために、複数ページの本を作成します
 meta_title: 子供と十代の若者向けのScratch コーディングプロジェクト | 私はあなたに本を作りました
 meta_description: Raspberry Pi Foundationの子供と十代の若者向けのコーディングプロジェクトで、Scratchによるコーディングを学びましょう。大切な人のためにデジタルブックを作成します。
-pdf: 資料/私はあなたに本を作りました
+pdf: resources/i-made-you-a-book.pdf
 version: 4
 listed: true
 copyedit: false
