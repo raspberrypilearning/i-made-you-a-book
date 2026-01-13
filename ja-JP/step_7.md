@@ -11,9 +11,12 @@
 [その他のScratchプロジェクト](https://projects.raspberrypi.org/ja-JP/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) を探索して、試してみることもできます。
 
 ***
+
 このプロジェクトは以下のボランティアによって翻訳されました。
 
 大野 雅利
 東 文彦
+横川 裕隆
+遼
 
 ボランティアのおかげで、世界中の人々に母国語で学ぶ機会を与えることができます。翻訳を引き受けていただくことで、より多くの人々に手を差し伸べることができます。詳しくは [rpf.io/translate](https://rpf.io/translate) をご覧ください。
