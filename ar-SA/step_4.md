@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## أبني 🧱 واختبار 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+حان الوقت الآن لإعداد كتابك. ابدأ بمشروع صغير ، وأضف المزيد إلى مشروعك إذا كان لديك الوقت.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![صفحات متعددة لمشروع الكتاب.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**نصيحة:** تذكر أن تفحص مشروعك في كل مرة تضيف شيئًا. من الأسهل بكثير العثور على الأخطاء وإصلاحها قبل إجراء المزيد من التغييرات.
 
-### For each page 📃
+### لكل صفحة 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+أضف الخلفية والكائنات الجديدة التي تحتاجها لهذه الصفحة.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![اختر كائنًا و اختر خلفية.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+ستحتاج إلى إضافة تعليمات برمجية لأعداد المواضع ورؤية الكائنات على العنوان الأول الصفحة  وكل صفحة بعد ذلك.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### لكل كائن 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+ستحتاج إلى إضافة تعليمات برمجية لكل شخصية و كائن في كتابك. ضع في اعتبارك ما إذا كانوا سيفعلون أي شيء عند بدء المشروع ، أو عندما تتحول الخلفية إلى صفحة معينة أو عند النقر فوق الكائن.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### تقليب الصفحة 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+ستحتاج إلى طريقة للقارئ للانتقال إلى الصفحة التالية في كتابك.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### تحرير (تعديل) الازياء 🦁 والخلفيات 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+قد ترغب في تعديل أو إضافة أزياء أو خلفيات في محرر الرسام.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![علامات التبويب الأزياء والخلفيات.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![أيقونات محرر الازياء و الخلفية.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### إضافة صوت 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![علامة التبويب الأصوات.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![إضافة أيقونة الصوت.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![أيقونة التسجيل من قائمة إضافة الصوت.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![أيقونة قائمة الكتل "نص إلى كلام".](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### تذكيرات محرر Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,29 +126,30 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+هل قابلت **ملخص المشروع**؟ فكر في مشروعك وانتقل إلى قائمة المراجعة أدناه وتحقق من الميزات التي يحتوي عليها مشروعك. هل تريد إجراء أي تغييرات على كتابك؟
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ إذا كان لديك الوقت ، يمكنك تطوير مشروعك.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 يمكنك:
+- إضافة المزيد من التعليمات البرمجية إلى الكائنات الخاصة بك
+- إضافة كائن آخر
+- أضف صفحة أخرى
+- سجل صوتًا
+- قم بإنشاء أزياء جديدة في محرر الرسام
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**التصحيح:** 🐞 قد تجد بعض الأخطاء في مشروعك والتي تحتاج إلى إصلاحها. فيما يلي بعض الأخطاء الشائعة:
 
 --- collapse ---
 ---
 title: A sprite is showing or hiding on the wrong pages
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+تأكد من أن الكائن يحتوي على `عند تبديل الخلفية إلى ` نص برمجي {: class = "block3events"} مع الكتل البرمجية `عرض `{: class = "block3looks"} أو `
+إخفاء `{: class = "block3looks"} حسب الحاجة. تأكد من أنك اخترت اسم الخلفية الصحيح في كتلة `عندما تتحول الخلفية إلى `{: class = "block3events"}. من المفيد إعطاء أسماء الخلفيات التي يمكنك فهمها بسهولة ، للمساعدة في اكتشاف مثل هذه المشاكل.
 
 --- /collapse ---
 
@@ -157,7 +158,7 @@ Check that the sprite has `when backdrop switches to`{:class="block3events"} scr
 title: A sprite is going upside down
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+أضف كتلة `أضبط نمط تدوير يسار-يمين`{: class = "block3motion"} أو `أضبط نمط التدوير لا دوران `{: class = "block3motion"}.
 
 --- /collapse ---
 
@@ -166,7 +167,7 @@ Add a `set rotation style left-right`{:class="block3motion"} or `set rotation st
 title: A sprite 'jumps' when it changes costume or bounces
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+تأكد من أن الزي يتم توسيطه في محرر الرسام (قم بمحاذاة الصليب الأزرق في الزي مع علامة التقاطع في وسط محرر الرسام).
 
 --- /collapse ---
 
@@ -175,7 +176,7 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 title: A sound does not play
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+هل أضفت كتلة `تشغيل الصوت`{: class = "block3sound"} عند الحاجة أليها؟ إذا نسخت تعليمة برمجية من كائن آخر ، فستحتاج إلى إضافة الصوت إلى هذا الكائن من علامة التبويب **الأصوات**. تحقق من مستوى الصوت على جهاز الكمبيوتر أو الجهاز اللوحي، وتأكد من أنك لم تخفض مستوى الصوت في التعليمة البرمجية خاصتك - جرب `اجعل شدة الصوت `{: "class = "block3sound} `100`.
 
 --- /collapse ---
 
@@ -184,7 +185,7 @@ Have you added a block to `play sound`{:class="block3sound"} when needed? If you
 title: Other sprites keep going in front of a sprite
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+أضف كتلة `انتقل إلى الطبقة الأمامية`{: class = "block3looks"}.
 
 --- /collapse ---
 
@@ -193,7 +194,7 @@ Add a `go to front layer`{:class="block3looks"} block.
 title: A sprite only moves or changes once
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+ضع التعليمة البرمجية داخل كتلة `كرر باستمرار`{: class = "block3control"} بحيث تستمر في العمل.
 
 --- /collapse ---
 
@@ -202,13 +203,13 @@ Put your code inside a `forever`{:class="block3control"} block so that it keeps 
 title: The pages are in the wrong order
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+تحقق من ترتيب الخلفيات الخاصة بك: انقر فوق جزء المنصة ثم على علامة التبويب **الخلفيات** لعرض الخلفيات الخاصة بمشروعك.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+قد تجد خطأ غير مدرج هنا. هل يمكنك معرفة كيفية إصلاحه؟
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ نحن نحب أن نسمع عن أخطائك البرمجية وكيفية إصلاحها. استخدم الزر **إرسال ملاحظات** في أسفل هذه الصفحة وأخبرنا إذا وجدت خطأً مختلفًا في مشروعك.
 
 --- /task ---
 
