@@ -1,10 +1,10 @@
-## You will make
+## المقدمة
 
-Create a 📚 book in Scratch based on your own idea 💡.
+قم بإنشاء كتاب باستخدام منصة Scratch بناءً على فكرتك الخاصة.
 
-You will:
+سوف:
 
-+ Create a digital book for someone specific
++ تفكر في أفكار لإنشاء كتاب رقمي لشخص معين
 + تختار المهارات التي ستستخدمها في صنع كتابك
 + تشارك عنوان الموقع الالكتروني لكتابك
 
@@ -15,13 +15,13 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### جربها
 
-Click on the corner to turn the page.
+انقر على الزاوية لقلب الصفحة.
 
-Look for sprites that show and hide on different pages.
+ابحث عن الكائنات المتحركة التي تظهر وتختفي في صفحات مختلفة.
   
-What happens when you click on each sprite?
+ماذا يحدث عند النقر فوق كل كائن؟
 
 </div>
 <div>
@@ -38,72 +38,73 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+سيحتاج كتابك إلى تلبية **ملخص المشروع**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">**موجز المشروع**</span> يوضح ما يجب ان يفعله المشروع. إنه يشبه إلى حد ما إعطاء مهمة لإكمالها.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### ملخص المشروع: إنشاء **كتاب رقمي**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+يمكن أن يكون كتابك قصة أو كتابًا تعليميًا أو كتاب حقائق أو كتابًا تفاعليًا أو أي شيء آخر. يجب أن تختار لمن تكتب الكتاب ، مثل "أختي الصغيرة" أو "عشاق الديناصورات" أو "الأشخاص الذين يتعلمون الغناء". 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+يجب أن يكون كتابك:
++ يحتوي على صفحات متعددة ، مع طريقة للانتقال إلى الصفحة التالية
++ يتضمن كائن واحد على الأقل
++ يقول أو يفعل شيئًا مختلفًا في كل صفحة
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+يمكن لكتابك:
++ الحصول على كلام أو مؤثرات صوتية
++ الخصول على نص أو فن تم إنشاؤه في محرر الرسام
++ التمتع بميزات تفاعلية في كل صفحة
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### احصل على الإلهام
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+استكشف هذه الأمثلة على المشاريع للحصول على أفكار لكتابك:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ شارك بمشروعك النهائي "لقد صنعت لك كتابًا" لتحصل على فرصة عرضه هنا.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**يمزج قطة Scratch في**: [انظر من الداخل](https://scratch.mit.edu/projects/627753829/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**دغدغة وحش**: [انظر من الداخل](https://scratch.mit.edu/projects/627753229/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**قصة تصحيح أخطاء**: [شاهد ما بالداخل](https://scratch.mit.edu/projects/627754356/editor){:target="_blank"}
+انقر فوق الشخصية والكائن لاختيار العناصر التي تريدها في القصة ، ثم انقر فوق "المرحلة" لقلب الصفحة.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**أضيء الطريق إلى المنزل**: \[اطلع على البرنامج\](https://scratch.mit.edu/projects/627752762/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /task ---
+--- /مهمة ---
 
---- /no-print ---
+--- /بدون طباعة ---
 
---- print-only ---
+- للطباعة فقط -
 
-### Get ideas 💭
+### احصل على الإلهام
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+للحصول على أفكار لكتابك، **انظر في الداخل** مثال على مشاريع في 'صممت لك كتاباً' استوديو سكراتش: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![مشروع "اضاءة طريق المنزل".](images/showcase_static.png)
 
---- /print-only ---
+- / للطباعة فقط -
 
 
