@@ -14,7 +14,7 @@ Abra o [Projeto inicial 'Eu fiz um livro para você'](https://scratch.mit.edu/pr
 
 --- collapse ---
 ---
-title: Working offline
+title: Trabalhando off-line
 ---
 
 Para obter informações sobre como configurar o Scratch para uso off-line, visite nosso guia ['Introdução ao Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
