@@ -14,7 +14,7 @@ Open het [Ik heb een boek voor je gemaakt startproject](https://scratch.mit.edu/
 
 --- collapse ---
 ---
-title: Offline werken
+title: Working offline
 ---
 
 Voor informatie over hoe je Scratch instelt voor offline gebruik, ga je naar [onze handleiding 'Aan de slag met Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
