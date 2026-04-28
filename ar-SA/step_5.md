@@ -1,72 +1,72 @@
-## Checklist
+## قائمة تدقيق
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+هل أطلعت على **ملخص المشروع**؟ فكر في مشروعك وانتقل إلى قائمة المراجعة أدناه وتحقق من الميزات التي يحتوي عليها مشروعك.
 
-### Your book should have:
+### يجب أن يحتوي كتابك على:
 
---- task ---
+--- save ---
 
-Multiple pages, with a way to turn to the next page
+صفحات متعددة ، مع وسيلة للانتقال إلى الصفحة التالية
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-At least one sprite
+كائن واحد على الأقل
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-Different actions on every page
+إجراءات مختلفة في كل صفحة
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
-### Your book could also have:
+### يمكن أن يحتوي كتابك أيضًا على:
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-Speech or sound effects
+الكلام أو المؤثرات الصوتية
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-Text or art that has been created in the Paint editor
+نص أو عمل فني تم إنشاؤه في محرر الرسام
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-Interactive features on every page
+ميزات تفاعلية في كل صفحة
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
-### Reflection
+### تفكر
 
-You can reflect on how you made your book, to help you in your future projects:
+يمكنك التفكير في كيفية تأليف كتابك ، لمساعدتك في مشاريعك المستقبلية:
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-How did you get your ideas?
+كيف حصلت على أفكارك؟
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-What cool new thing(s) did you learn?
+ما الأشياء الجديدة الرائعة التي تعلمتها؟
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
-### Now, you are the author of a digital book!
+### الآن ، أنت مؤلف كتاب رقمي (ألكتروني)!
 
-🎉 Take a moment to celebrate what you have made.
+🎉 حان الوقت للاحتفال بما صنعته.
 
---- task ---
+قم بترقية او تطوير مشروعك
 
-Where will you take your new powers? What will you make next?
+أين ستأخذ طاقتك الجديدة؟ ماذا ستفعل بعد ذلك؟
 
---- /task ---
+قم بترقية او تطوير مشروعك
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+![القط Scratch يرتدي قبعة الحفلة.](images/reflect.png)
 
