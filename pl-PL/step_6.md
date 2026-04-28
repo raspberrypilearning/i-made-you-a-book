@@ -20,17 +20,17 @@ Aby przesłać swój projekt do [studia Scratch "Zrobiłem Ci książkę — Spo
 
 Spójrz na te wspaniałe projekty społecznościowe z naszego studia Scratch [„Zrobiłem ci książkę — społeczność”](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg idzie do domu**: [Zajrzyj do środka](https://scratch.mit.edu/projects/951568362/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+**Podróże kosmiczne**: [Zajrzyj do środka](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
+**Zamierzam odkrywać**: [Zajrzyj do środka](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
