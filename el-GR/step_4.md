@@ -44,7 +44,7 @@ when backdrop switches to [page v]
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-[[[scratch3-animate-movement-costumes]]]
+Ομιλία ή εφέ ήχου
 
 [[[scratch3-graphic-effects]]]
 
@@ -62,7 +62,7 @@ when backdrop switches to [page v]
 when this sprite clicked
 ```
 
-[[[scratch3-changing-backdrops-pages-levels]]]
+Διαδραστικές λειτουργίες σε κάθε σελίδα
 
 --- /task ---
 
@@ -72,17 +72,17 @@ when this sprite clicked
 
 Μπορεί να θέλεις να επεξεργαστείς ή να προσθέσεις ενδυαμασίες ή υπόβαθρα στο πρόγραμμα επεξεργασίας Ζωγραφική.
 
-![Οι καρτέλες Ενδυμασίες και Υπόβαθρα.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Οι καρτέλες Ενδυμασίες και Υπόβαθρα.](images/costumes-backdrops-tabs.png)Πώς σου ήρθαν οι ιδέες;
 
 ![Τα εικονίδια για τη ζωγραφική ενδυμασίας και υπόβαθρου.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
+Τι ωραία νέα πράγματα έμαθες;
 
 [[[scratch3-use-text-tool]]]
 
-[[[scratch3-copy-parts-between-sprite-costumes]]]
+Αφιέρωσε μια στιγμή για να απολαύσεις αυτό που έφτιαξες.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
