@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Napravite 🧱 i testirajte 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Sada je vrijeme da sastavite svoju knjigu. Počnite s malim i dodajte više svom projektu ako imate vremena.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Više stranica projekta knjiga.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Savjet:** Ne zaboravite testirati svoj projekt svaki put kada nešto dodate. Puno je lakše pronaći i ispraviti greške prije nego što napravite dodatne promjene.
 
-### For each page 📃
+### Za svaku stranicu 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Dodajte pozadinu i nove likove koji su vam potrebni za ovu stranicu.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Odaberite lik i odaberite ikone pozadine.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Morat ćete dodati kod za postavljanje položaja i vidljivosti likova na prvoj naslovnoj stranici i svakoj stranici nakon toga.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Za svaki lik 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Morat ćete dodati kod svakom liku i objektu u svojoj knjizi. Razmislite hoće li išta učiniti kada projekt započne, kada se pozadina prebaci na određenu stranicu ili kada se klikne na lik.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Okretanje stranice 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Trebat će vam način da vaš čitatelj prijeđe na sljedeću stranicu u vašoj knjizi.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Uredite kostime 🦁 i pozadine 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Možda ćete htjeti urediti ili dodati kostime ili pozadine u Paint uređivaču.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Kartice Kostimi i Pozadine.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Slika kostima i ikona pozadine.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Dodajte zvuk 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Kartica Zvukovi.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![Dodavanje ikone zvuka.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![Ikona snimanja iz izbornika za dodavanje zvuka.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![Izbornik blokova 'Tekst u govor'.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Podsjetnici Scratch uređivača
 
 [[[scratch3-copy-code]]]
 
@@ -126,29 +126,29 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Testirajte:** 🔄 Pokažite nekom drugom svoj projekt i zatražite 🗣️ njihove povratne informacije. Želite li nešto promijeniti u svojoj knjizi?
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Ako imate vremena, možete nadograditi svoj projekt.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Mogli biste:
+- Dodajte još koda svojim likovima
+- Dodajte još jedan lik
+- Dodajte još jednu stranicu
+- Snimite zvuk
+- Napravite novi kostim u Paint uređivaču
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Otklanjanje pogrešaka:** 🐞 Možda ćete pronaći neke greške u svom projektu koje trebate popraviti. Evo nekih uobičajenih grešaka:
 
 --- collapse ---
 ---
 title: A sprite is showing or hiding on the wrong pages
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Provjerite ima li lik `kada se pozadina prebacuje na`{:class="block3events"} skriptu s `prikazivanjem`{:class="block3looks"} ili `sakrivanjem`{:class="block3looks"} blokova prema potrebi. Provjerite jeste li odabrali ispravan naziv pozadine u `kada se pozadina prebacuje na`{:class="block3events"} blok. Pozadinama pomaže dati nazive koje možete lako razumjeti kako biste lakše uočili ovakve probleme.
 
 --- /collapse ---
 
@@ -157,7 +157,7 @@ Check that the sprite has `when backdrop switches to`{:class="block3events"} scr
 title: A sprite is going upside down
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Dodajte `postavite stil rotacije lijevo-desno`{:class="block3motion"} ili `postavite stil rotacije ne rotiraj`{:class="block3motion"} blok.
 
 --- /collapse ---
 
@@ -166,7 +166,7 @@ Add a `set rotation style left-right`{:class="block3motion"} or `set rotation st
 title: A sprite 'jumps' when it changes costume or bounces
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Provjerite je li kostim u centru Paint uređivača (poravnajte plavi križ u kostimu s križićem u središtu Paint uređivača).
 
 --- /collapse ---
 
@@ -175,7 +175,7 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 title: A sound does not play
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Jeste li dodali blok za `reprodukciju zvuka`{:class="block3sound"} kada je to potrebno? Ako ste kopirali kod s drugog lika, morat ćete dodati zvuk ovom liku na kartici **Zvukovi**. Provjerite glasnoću na računalu ili tabletu i uvjerite se da niste smanjili glasnoću kodom — pokušajte `postaviti glasnoću na`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
@@ -184,7 +184,7 @@ Have you added a block to `play sound`{:class="block3sound"} when needed? If you
 title: Other sprites keep going in front of a sprite
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Dodajte blok `idi na prednji sloj`{:class="block3looks"}.
 
 --- /collapse ---
 
@@ -193,7 +193,7 @@ Add a `go to front layer`{:class="block3looks"} block.
 title: A sprite only moves or changes once
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Stavite svoj kod unutar bloka `ponavljaj`{:class="block3control"} kako bi nastavio raditi.
 
 --- /collapse ---
 
@@ -202,13 +202,13 @@ Put your code inside a `forever`{:class="block3control"} block so that it keeps 
 title: The pages are in the wrong order
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Provjerite kojim redoslijedom su vaše pozadine: kliknite na okno Pozornica, a zatim na karticu **Pozadine** da biste vidjeli pozadine za svoj projekt.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Možda ćete pronaći grešku koja nije ovdje navedena. Možete li smisliti kako to popraviti?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Volimo čuti o vašim greškama i kako ste ih popravili. Upotrijebite gumb **Pošalji povratnu informaciju** na dnu ove stranice i recite nam ako ste pronašli drugu pogrešku u svom projektu.
 
 --- /task ---
 
