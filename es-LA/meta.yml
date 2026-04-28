@@ -19,7 +19,7 @@ steps:
   - 
     title: Construye y prueba
     completion:
-      - engaged
+      - external
       - internal
   - 
     title: Lista de control
