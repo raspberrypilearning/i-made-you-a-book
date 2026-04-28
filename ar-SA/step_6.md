@@ -1,24 +1,24 @@
-## Share and play
+## شارك والعب
 
-If you have a Scratch account, you can share your project through Scratch.
+إذا كان لديك حساب Scratch ، فيمكنك مشاركة مشروعك من خلال Scratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### تقديم المشروع للمجتمع
 
 --- task ---
 
-Inspire others who do this project with your book!
+ألهم الآخرين الذين يقومون بهذا المشروع بكتابك!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+لإرسال مشروعك إلى الاستوديو الخاص بمجتمع Scratch ['Party piñata — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} ليراه الاخرون، يرجى اكمال [هذا النموذج](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+ألق نظرة على هذه المشاريع المجتمعية الرائعة من ['لقد صنعت لك كتابًا - Community' Scratch studio](https://scratch.mit.edu/studios/29092393){: target = "_ blank"}:
 
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -39,6 +39,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+يمكنك أيضًا إلقاء نظرة على عمليات إعادة المزج لـ [لقد صنعت لك مشروعًا لبدء كتاب](https://scratch.mit.edu/projects/582223042/remixes){: target = "_ blank"} لمعرفة ما صنعه منشئو محتوى آخرون.
 
 --- /task ---
