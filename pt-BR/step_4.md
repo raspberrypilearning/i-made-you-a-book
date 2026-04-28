@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Um ator está aparecendo ou se escondendo nas páginas erradas
 ---
 
 Verifique se o ator tem os scripts `quando o cenário mudar para`{:class="block3events"} com os blocos `mostrar`{:class="block3looks"} ou `esconder`{:class="block3looks"} conforme necessário. Verifique se você escolheu o nome correto do cenário no bloco `quando o cenário mudar para`{:class="block3events"}. Uma dica é dar nomes aos cenários que você possa entender facilmente, para ajudar a detectar problemas como esse.
@@ -163,7 +163,7 @@ Adicione um bloco `defina o estilo de rotação para esquerda-direita`{:class="b
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: Um ator 'pula' quando muda de fantasia ou salta
 ---
 
 Certifique-se de que a fantasia esteja centralizada no editor Paint (alinhe a cruz azul na fantasia com a cruz no centro do editor Paint).
@@ -172,7 +172,7 @@ Certifique-se de que a fantasia esteja centralizada no editor Paint (alinhe a cr
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Um som não toca
 ---
 
 Você adicionou um bloco `toque o som`{:class="block3sound"} quando necessário? Se você copiou o código de outro ator, você precisará adicionar o som a este ator na guia **Sons**. Verifique o volume do seu computador ou tablet e certifique-se de não ter baixado o volume com o bloco de código - tente `mude o volume para`{:class="block3sound"}` 100`.
@@ -190,7 +190,7 @@ Adicione um bloco `vá para a camada da frente`{:class="block3looks"}.
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Um ator só se move ou muda uma vez
 ---
 
 Coloque seu código dentro de um bloco `sempre`{:class="block3control"} para que ele continue executando.
@@ -199,7 +199,7 @@ Coloque seu código dentro de um bloco `sempre`{:class="block3control"} para que
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: As páginas estão na ordem errada
 ---
 
 Verifique a ordem que seus cenários estão: clique no painel Palco e depois na guia **Cenários** para visualizar os cenários do seu projeto.
