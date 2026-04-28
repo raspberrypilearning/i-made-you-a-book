@@ -1,10 +1,10 @@
-## You will make
+## Cyflwyniad
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Crea lyfr yn Scratch yn seiliedig ar dy syniad dy hun. Bydd angen i dy lyfr fodloni **briff y prosiect**.
 
-You will:
+Mae <span style="color: #0faeb0">briff prosiect</span> yn disgrifio'r hyn y mae'n rhaid i brosiect ei wneud. Mae fel cael tasg arbennig i'w chwblhau.
 
-+ Create a digital book for someone specific
++ Meddwl am syniadau i greu llyfr digidol ar gyfer rhywun penodol
 + Dewis pa sgiliau i'w defnyddio i wneud dy lyfr
 + Rhannu cyfeiriad gwe ar gyfer dy lyfr
 
@@ -26,7 +26,7 @@ What happens when you click on each sprite?
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Goleuo'r ffordd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/627804682/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -64,20 +64,21 @@ Your book could:
 
 --- no-print ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Cymer olwg ar y prosiectau enghreifftiol hyn i gael syniadau ar gyfer dy lyfr:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+**Anghenfil goglais**: [Gweld tu mewn](https://scratch.mit.edu/projects/627814880/editor){:target="_blank"}
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Y Gath Scratch yn cuddio**: [Gweld tu mewn](https://scratch.mit.edu/projects/627816660/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**Stori ddifa chwilod**: [Gweld tu mewn](https://scratch.mit.edu/projects/627817880/editor){:target="_blank"}
+Clicia ar y cymeriad a'r gwrthrych i ddewis y rhai rwyt ti eu heisiau yn y stori, wedyn clicia ar y Llwyfan i droi'r dudalen.
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -98,7 +99,7 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Cael ysbrydoliaeth
 
 To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
 
