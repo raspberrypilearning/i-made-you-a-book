@@ -1,72 +1,72 @@
-## Checklist
+## Spisak
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Jeste li ispunili **sažetak projekta**? Razmislite o svom projektu i prođite kroz kontrolni popis u nastavku i označite značajke koje vaš projekt ima.
 
-### Your book should have:
+### Vaša bi knjiga trebala imati:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Više stranica, s mogućnošću prelaska na sljedeću stranicu
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Barem jedan lik
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Različite akcije na svakoj stranici
 
 --- /task ---
 
-### Your book could also have:
+### Vaša knjiga također može imati:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Govorni ili zvučni efekti
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Tekst ili slika koja je stvorena u Paint uređivaču
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Interaktivne značajke na svakoj stranici
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Što dalje?
 
-🎉 Take a moment to celebrate what you have made.
+Možete razmisliti o tome kako ste napravili svoju knjigu, da vam pomogne u vašim budućim projektima:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Kako ste došli do ideja?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Koju si super novu stvar naučio/la?
+
+--- /task ---
+
+### Sada ste autor digitalne knjige!
+
+🎉 Odvojite trenutak da proslavite ono što ste napravili.
+
+--- task ---
+
+Gdje ćete uzeti svoje nove moći? Što ćeš sljedeće napraviti?
+
+--- /task ---
+
+![Scratch Cat nosi kapu za zabavu.](images/reflect.png)
 
