@@ -19,7 +19,7 @@ steps:
   - 
     title: Construir e testar
     completion:
-      - engaged
+      - external
       - internal
   - 
     title: Lista de tarefas
