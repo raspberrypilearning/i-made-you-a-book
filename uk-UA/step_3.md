@@ -14,7 +14,7 @@
 
 --- collapse ---
 ---
-title: Робота в режимі офлайн
+title: Working offline
 ---
 
 Інформацію про те, як налаштувати Scratch для роботи в режимі офлайн, можна знайти у [нашому керівництві Початок роботи в Scratch'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
