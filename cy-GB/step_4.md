@@ -1,4 +1,4 @@
-## Build 🧱 and test 🔄
+## Myfyrio
 
 Now, it's time to build your book. Start small, and add more to your project if you have time.
 
@@ -6,7 +6,7 @@ Now, it's time to build your book. Start small, and add more to your project if 
 
 **Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
 
-### For each page 📃
+### Rwyt ti nawr yn awdur llyfr digidol!
 
 --- task ---
 
@@ -14,7 +14,7 @@ Add the backdrop and new sprites you need for this page.
 
 ![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+O leiaf un corlun
 
 ```blocks3
 when flag clicked
@@ -44,7 +44,7 @@ when backdrop switches to [page v]
 
 [[[scratch3-change-costumes-to-show-mood]]]
 
-[[[scratch3-animate-movement-costumes]]]
+Effeithiau lleferydd neu sain
 
 [[[scratch3-graphic-effects]]]
 
@@ -62,7 +62,7 @@ You will need a way for your reader to move to the next page in your book.
 when this sprite clicked
 ```
 
-[[[scratch3-changing-backdrops-pages-levels]]]
+Nodweddion rhyngweithiol ar bob tudalen
 
 --- /task ---
 
@@ -72,17 +72,17 @@ when this sprite clicked
 
 You may want to edit or add costumes or backdrops in the Paint editor.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png)Sut wnes di gael dy syniadau?
 
 ![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
-[[[scratch3-backdrops-and-sprites-using-shapes]]]
+Pa bethau newydd cŵl wnes di eu dysgu?
 
 [[[scratch3-use-text-tool]]]
 
-[[[scratch3-copy-parts-between-sprite-costumes]]]
+Cymer eiliad i ddathlu'r hyn rwyt ti wedi'i wneud.
 
 [[[scratch3-add-costumes-to-a-sprite]]]
 
@@ -92,7 +92,7 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Y Gath Scratch yn gwisgo het barti.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
