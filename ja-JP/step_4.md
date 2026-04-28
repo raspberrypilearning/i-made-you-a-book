@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: スプライトが間違ったページで表示または非表示になっている
+title: A sprite is showing or hiding on the wrong pages
 ---
 
 スプライトのコードに、`背景が・・・になったとき`{:class="block3events"}スクリプトに`表示する`{:class="block3looks"}または `隠す`{:class="block3looks"}ブロックが必要に応じて置かれていることを確認してください。 `背景が～になったとき`{:class="block3events"}ブロックで正しい背景名を選択していることを確認します。 わかりやすい背景名を付けると、このような問題を見つけるのに役立ちます。
@@ -154,7 +154,7 @@ title: スプライトが間違ったページで表示または非表示にな�
 
 --- collapse ---
 ---
-title: スプライトが逆さまになってる
+title: A sprite is going upside down
 ---
 
 `回転方法を左右のみにする`{:class="block3motion"}または`回転方法を回転しないにする`{:class="block3motion"}ブロックを追加します。
@@ -163,7 +163,7 @@ title: スプライトが逆さまになってる
 
 --- collapse ---
 ---
-title: コスチュームを変更するとスプライトが「ジャンプ」したり跳ね返ったりする
+title: A sprite 'jumps' when it changes costume or bounces
 ---
 
 コスチュームがペイントエディターの中央にあることを確認します（コスチュームの青い十字をペイントエディターの中央の十字線に合わせます）。
@@ -172,7 +172,7 @@ title: コスチュームを変更するとスプライトが「ジャンプ」�
 
 --- collapse ---
 ---
-title: 音が出ない
+title: A sound does not play
 ---
 
 `～の音を鳴らす`{:class="block3sound"}ブロックを必要なところに追加しましたか？ 別のスプライトからコードをコピーした場合、このスプライトの**音**タブでその音を追加する必要があります。 コンピューターやタブレットの音量を確認し、コードで音量を下げていないことを確認します。例えば、 `音量を～%にする`{:class="block3sound"}で`100`に設定してみてください。
@@ -181,7 +181,7 @@ title: 音が出ない
 
 --- collapse ---
 ---
-title: 他のスプライトがスプライトの前面に来てしまう
+title: Other sprites keep going in front of a sprite
 ---
 
 `最前面へ移動する`{:class="block3looks"}ブロックを追加します。
@@ -190,7 +190,7 @@ title: 他のスプライトがスプライトの前面に来てしまう
 
 --- collapse ---
 ---
-title: スプライトが一度しか移動または変更されない
+title: A sprite only moves or changes once
 ---
 
 コードを`ずっと`{:class="block3control"}ブロックの中に入れると動き続けます。
@@ -199,7 +199,7 @@ title: スプライトが一度しか移動または変更されない
 
 --- collapse ---
 ---
-title: ページの順序が間違っている
+title: The pages are in the wrong order
 ---
 
 次の方法で背景の順序を確認します。ステージペインをクリックし 、**背景**タブでプロジェクトの背景を表示します。
