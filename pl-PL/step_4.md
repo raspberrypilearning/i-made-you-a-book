@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: Duszek pojawia się lub znika na niewłaściwych stronach
+title: A sprite is showing or hiding on the wrong pages
 ---
 
 Sprawdź, czy duszek ma skrypty `kiedy tło zmieni się na` {:class="block3events"} z blokami `pokaż`{:class="block3looks"} lub `ukryj`{:class="block3looks"}, według potrzeb. Sprawdź, czy wybrałeś poprawną nazwę tła w bloku `kiedy tło zmieni się na`{:class="block3events"}. Pomaga to nadawać tłom nazwy, które są łatwe do zrozumienia, a to pomaga wykryć problemy tego typu.
@@ -154,7 +154,7 @@ Sprawdź, czy duszek ma skrypty `kiedy tło zmieni się na` {:class="block3event
 
 --- collapse ---
 ---
-title: Duszek porusza się do góry nogami
+title: A sprite is going upside down
 ---
 
 Dodaj blok `ustaw styl obrotu na lewo-prawo`{:class="block3motion"} lub `ustaw stylu obrotu na nie obracaj`{:class="block3motion"}.
@@ -163,7 +163,7 @@ Dodaj blok `ustaw styl obrotu na lewo-prawo`{:class="block3motion"} lub `ustaw s
 
 --- collapse ---
 ---
-title: Duszek „przeskakuje”, gdy zmienia kostium lub się odbija
+title: A sprite 'jumps' when it changes costume or bounces
 ---
 
 Upewnij się, że kostium jest wyśrodkowany w edytorze Paint (wyrównaj niebieski krzyż w kostiumie z celownikiem na środku edytora Paint).
@@ -172,7 +172,7 @@ Upewnij się, że kostium jest wyśrodkowany w edytorze Paint (wyrównaj niebies
 
 --- collapse ---
 ---
-title: Dźwięk nie jest odtwarzany
+title: A sound does not play
 ---
 
 Czy dodałeś blok `graj dźwięk`{:class="block3sound"} tam gdzie potrzeba? Jeśli skopiowałeś kod z innego duszka, będziesz musiał dodać dźwięk do tego duszka w zakładce **Dźwięki**. Sprawdź głośność na komputerze lub tablecie i upewnij się, że nie obniżyłeś głośności kodem — spróbuj bloku `ustaw głośność na`{:class="block3sound"} `100`.
@@ -181,7 +181,7 @@ Czy dodałeś blok `graj dźwięk`{:class="block3sound"} tam gdzie potrzeba? Je�
 
 --- collapse ---
 ---
-title: Inne duszki nachodzą na duszka
+title: Other sprites keep going in front of a sprite
 ---
 
 Dodaj blok `przesuń na wierzch`{:class="block3motion"}.
@@ -190,7 +190,7 @@ Dodaj blok `przesuń na wierzch`{:class="block3motion"}.
 
 --- collapse ---
 ---
-title: Duszek porusza się lub zmienia tylko raz
+title: A sprite only moves or changes once
 ---
 
 Umieść swój kod wewnątrz bloku `zawsze`{:class="block3control"}, aby nie przestawał działać.
@@ -199,7 +199,7 @@ Umieść swój kod wewnątrz bloku `zawsze`{:class="block3control"}, aby nie prz
 
 --- collapse ---
 ---
-title: Strony są w złej kolejności
+title: The pages are in the wrong order
 ---
 
 Sprawdź, w jakiej kolejności są Twoje tła: kliknij panel Scena, a następnie **Tła**, aby wyświetlić tła dla swojego projektu.
