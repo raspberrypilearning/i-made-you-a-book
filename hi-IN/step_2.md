@@ -1,35 +1,35 @@
-## Your idea 💡
+## आपका विचार 💡
 
-Decide the theme of your book and who will be the audience.
+अपनी पुस्तक का विषय तय करें और दर्शक कौन होंगे।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+A <span style="color: #0faeb0">**डिजिटल पुस्तक**</span> 📖📲 (या ई-पुस्तक) कंप्यूटर, टैबलेट, फोन या अन्य इलेक्ट्रॉनिक उपकरण पर बनाई और पढ़ी जाने वाली पुस्तक है। 
 
-❓ Have you read any books on a digital device?
+Ra
 </p>
 
-### Why are you making the book?
+### आप पुस्तक क्यों बना रहे हैं?
 
 --- task ---
 
-Think about the purpose of your book.
+अपनी किताब के उद्देश्य के बारे में सोचें।
 
-It could be:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+यह ऐसा हो सकता है:
+- एक छोटे बच्चे का ध्यन में रखना
+- ♻️ एक महत्वपूर्ण संदेश साझा करने के लिए, जैसे रीसाइक्लिंग को प्रोत्साहित करना
+- 🍕 किसी को कुछ करना सिखाना, जैसे अपना पसंदीदा भोजन कैसे बनाना है
+- 📖 कहानी सुनाना या फिर से सुनाना
+- 🗣️ अपने बारे में कुछ बताने के लिए
+- 🎨खुद को अभिव्यक्त करने और रचनात्मक होने के लिए
+- या कुछ और!
 
 --- /task ---
 
-### Who is it for?
+### यह किसके लिए है?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+इस बारे में सोचें कि आप किसके लिए अपनी किताब बनाएंगे (आपका **श्रोता**)।
 
 जैसे की
 
