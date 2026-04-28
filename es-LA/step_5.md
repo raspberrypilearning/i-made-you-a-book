@@ -4,69 +4,69 @@
 
 ### Tu libro debe tener:
 
---- task ---
+--- save ---
 
 Varias páginas, con una forma de pasar a la página siguiente
 
---- /task ---
+Mejora tu proyecto
 
---- task ---
+Mejora tu proyecto
 
 Al menos un objeto
 
---- /task ---
+Mejora tu proyecto
 
---- task ---
+Mejora tu proyecto
 
 Diferentes acciones en cada página
 
---- /task ---
+Mejora tu proyecto
 
 ### También podría tener:
 
---- task ---
+Mejora tu proyecto
 
 Efectos de voz o sonido
 
---- /task ---
+Mejora tu proyecto
 
---- task ---
+Mejora tu proyecto
 
 Texto o arte creado en el editor de dibujo
 
---- /task ---
+Mejora tu proyecto
 
---- task ---
+Mejora tu proyecto
 
 Funciones interactivas en cada página
 
---- /task ---
+Mejora tu proyecto
 
 ### Reflexión
 
 Puedes reflexionar sobre cómo hiciste tu libro, para ayudarte en tus proyectos futuros:
 
---- task ---
+Mejora tu proyecto
 
 ¿Cómo obtuviste tus ideas?
 
---- /task ---
+Mejora tu proyecto
 
---- task ---
+Mejora tu proyecto
 
 ¿Qué cosas nuevas y geniales aprendiste?
 
---- /task ---
+Mejora tu proyecto
 
 ### ¡Ahora eres el autor de un libro digital!
 
 🎉 Tómate un momento para celebrar lo que has hecho.
 
---- task ---
+Mejora tu proyecto
 
 ¿Dónde usarás tus nuevos poderes? ¿Qué harás a continuación?
 
---- /task ---
+Mejora tu proyecto
 
 ![El gato Scratch con un gorro de fiesta.](images/reflect.png)
 
