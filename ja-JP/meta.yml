@@ -19,7 +19,7 @@ steps:
   - 
     title: 作って試す
     completion:
-      - engaged
+      - external
       - internal
   - 
     title: チェックリスト
