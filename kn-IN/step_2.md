@@ -8,13 +8,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 ❓ Have you read any books on a digital device?
 </p>
 
-### Why are you making the book?
+### ನೀವೇಕೆ ಪುಸ್ತಕ ತಯಾರಿಸುತ್ತಿದ್ದೀರಿ?
 
 --- task ---
 
-Think about the purpose of your book.
+ನಿಮ್ಮ ಪುಸ್ತಕದ ಉದ್ದೇಶದ ಬಗ್ಗೆ ಯೋಚಿಸಿ.
 
-It could be:
+ಇದು ಆಗಿರಬಹುದು:
 - 🧒 To entertain a younger child
 - ♻️ To share an important message, such as encouraging recycling
 - 🍕 To teach someone how to do something, such as how to make your favourite food
@@ -25,11 +25,11 @@ It could be:
 
 --- /task ---
 
-### Who is it for?
+### ಇದು ಯಾರಿಗಾಗಿ?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+ನೀವು ನಿಮ್ಮ ಪುಸ್ತಕವನ್ನು ಯಾರಿಗಾಗಿ ತಯಾರಿಸುತ್ತಿದ್ದೀರಿ ಎಂದು ಯೋಚಿಸಿ (your **audience**).
 
 It could be:
 
