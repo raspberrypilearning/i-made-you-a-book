@@ -1,4 +1,4 @@
-## What next?
+## ಮುಂದೆ ಏನು?
 
 You have reached the end of the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path! Try using Scratch to make more cool stuff.
 
