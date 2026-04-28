@@ -1,36 +1,36 @@
-## Share and play
+## Yabelana kwaye udlale
 
-If you have a Scratch account, you can share your project through Scratch.
+Ukuba une akhawunti kaScratch, ungabelana ngeprojekthi yakho kuScratch.
 
 [[[share-scratch]]]
 
 [[[comments-feedback-scratch]]]
 
-### Community submissions
+### Iziphakamiso zoluntu
 
 --- task ---
 
-Inspire others who do this project with your book!
+Khuthaza abanye abenza le projekthi ngencwadi yakho!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Ukungenisa iprojekthi yakho kwi [studiyo soluntu luka Scratch u — 'Ndikwenzele incwadi](https://scratch.mit.edu/studios/29092393){:target="_blank"} ukuze abanye abantu bayibone, nceda ugcwalise [le fomu](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Jonga ezi projekthi zingumangaliso zasekuhlaleni kwi **studiyo soluntu luka Scratch u — 'Ndikwenzele incwadi**{:target="_blank"}:
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**USporg ubuyela ekhaya**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+**Uhambo lwasesibhakabhakeni**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
+**Ndiyo kuhlola**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -39,6 +39,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Ungajonga nemixube ye [projekthi yokuqala uNdikwenzele incwadi](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} ukuze ubone uba abanye abadali benze ntoni.
 
 --- /task ---
