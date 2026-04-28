@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## Yakha kwaye uvavanye 🔄
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+Ngoku, lixesha lokwakha incwadi yakho. Qala kancinci, uze wongeze ngakumbi kwiprojekthi yakho ukuba unexesha.
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![Amaphepha amaninzi eprojekthi yencwadi.](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**Icebiso:** Khumbula ukuvavanya iprojekthi yakho ngalo lonke ixesha usongeza into. Kulula kakhulu ukufumana nokulungisa iimpazamo ngaphambi kokuba wenze utshintsho oluninzi.
 
-### For each page 📃
+### Kwiphepha ngalinye 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+Yongeza imvelaphi kunye neesprites ezintsha ozidingayo kweli phepha.
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![Khetha i-sprite kwaye ukhethe ii-icon zemvelaphi.](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+Kuzofuneka wongeze ikhowudi ukuze usete iindawo kunye nokubonakala kwe-sprites kwiphepha lokuqala lesihloko kunye nephepha ngalinye emva koko.
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### Kwi-sprite nganye 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+Kuzofuneka wongeze ikhowudi kumlinganiswa ngamnye kunye ne-object sprite kwincwadi yakho. Cinga ukuba baza kwenza nantoni na xa iprojekthi iqala, xa imvelaphi itshintshela kwiphepha elithile okanye xa i-sprite sicofiwe.
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### Ukutyhila iphepha 📖
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+Uzodinga indlela yokuba umfundi wakho adlulele kwiphepha elilandelayo kwincwadi yakho.
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### Hlela iimpahla 🦁 kunye nemvelaphi 🖼️
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+Usenokufuna ukuhlela okanye ukongeza iimpahla okanye iimvelaphi kumhleli we peyinti.
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![Iithebhu yeMpahla kunye nee-Mvelaphi.](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![Isinxibo sepeyinti kunye nee icon zemvelaphi.](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### Yongeza isandi 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![Ithebhu yeZandi.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![I-icon yokongeza isandi.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![I-icon yokurekhoda evela kwimenyu yokongeza isandi.](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+![Icon ye menyu ye bhloko yombhalo ukuya kwintetho.](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### Izikhumbuzo zomhleli ku Scratch
 
 [[[scratch3-copy-code]]]
 
@@ -126,89 +126,89 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**Uvavanyo:** 🔄 Bonisa omnye umntu iprojekthi yakho uze ucele 🗣️ impendulo yakhe. Ingaba ufuna ukwenza naluphi na utshintsho kwincwadi yakho?
 
-⏱️ If you have time, you can upgrade your project.
+⏱️ Ukuba unexesha, unokuphucula iprojekthi yakho.
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+💡 Unga:
+- Yongeza ngakumbi ikhowudi kwi-sprites zakho
+- Yongeza esinye i-sprite
+- Yongeza elinye iphepha
+- Rekhoda isandi
+- Yenza isinxibo esitsha kumhleli we peyinti
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**Ukulungisa impazamo:** 🐞 Usenofumana iimpazamo kwiprojekthi yakho ekufuneke uzilungise. Nazi ezinye iimpazamo eziqhelekileyo:
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: I-sprite sivela okanye sifihlakele kumaphepha angalunganga
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+Jonga ukuba i-sprite sine `xa imvelaphi itshintshela kwi-`{:class="block3events"} scripts ezine <0>bonisa</0>{:class="block3looks"} okanye <0>fihla</0>{:class="block3looks"} iibhloko njengoko kudingeka. Qinisekisa ukuba ukhethe igama elilio lemvelaphi kwi- `xa imvelaphi itshintshela kwi-`{:class="block3events"} bhloko. Kuyanceda ukunika ii-emvelaphi amagama ozokuwaqonda ngokulula, ukunceda ekufumaneni iingxaki ezinje.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite is going upside down
+title: I-sprite sijonge emazantsi amantla angaphezulu
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+Yongeza ibhloko ye `seta isitayile sokujikeleza ukusuka ekhohlo ukuya ekunene`{:class="block3motion"} okanye `seta isitayile sokujikeleza ungajikelezi`{:class="block3motion"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite 'jumps' when it changes costume or bounces
+title: I-sprite 'siyatsiba' xa sitshintsha isinxibo okanye sigxume
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+Qinisekisa ukuba isinxibo sibekwe embindini kumhleli we Peyinti (bhala umnqamlezo oluhlaza okwesibhakabhaka kwisinxibo kunye nomgca onqamlezileyo embindini womhleli wePaint).
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sound does not play
+title: Isandi asidlali
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+Ngaba wongeze ibhloko `dlala isandi`{:class="block3sound"} xa kufuneka? Ukuba ukope ikhowudi kwesinye i-sprite, kuzofuneka wongeze isandi kwesi sprite kwithebhu ethi **iZandi**. Jonga ivolumu kwikhompyutha okanye kwithebhulethi yakho, uqinisekise ukuba awuyithobanga ivolumu ngekhowudi — zama `setha ivolumu ibe yi`{:class="block3sound"} `100`.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: Other sprites keep going in front of a sprite
+title: Ezinye iziprite zimana zisiya phambi kwe-sprite
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+Yongeza ibhloko ethi `ukuya kumaleko angaphambili`{:class="block3looks"}.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: I-sprite sishukuma okanye sitshintshe kube kanye kuphela
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+Faka ikhowudi yakho ngaphakathi kwibhloko e- `ngonaphakade`{:class="block3control"} ukuze iqhubeke isebenza.
 
 --- /collapse ---
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Amaphepha alandelelana ngendlela engeyiyo
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+Jonga ukuba imvelaphi yakho ilandelelana kanjani na: cofa kwi payini yeQonga uze ucofe kwithebhu ethi **Iimvelaphi** ukuze ubone iimvelaphi zeprojekthi yakho.
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+Usenofumana impazamo engadweliswanga apha. Ingaba ungajonga indlela yokuyilungisa?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+🗣️ Siyakuthanda ukuva ngeempazamo zakho kunye nendlela ozilungise ngayo. Sebenzisa iqosha loku **Thumela impendulo** elisezantsi kweli phepha kwaye usixelele ukuba ufumene impazamo eyahlukileyo na kwiprojekthi yakho.
 
 --- /task ---
 
