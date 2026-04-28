@@ -1,11 +1,11 @@
-## Your idea 💡
+## فكرتك 💡
 
-Decide the theme of your book and who will be the audience.
+حدد موضوع كتابك ومن سيكون الجمهور.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+<span style="color: #0faeb0">** كتاب رقمي **</span> 📖📲 (أو كتاب إلكتروني) هو كتاب يتم إنشاؤه وقراءته على جهاز الكمبيوتر أو جهاز لوحي أو هاتف نقال أو أي جهاز إلكتروني آخر. 
 
-❓ Have you read any books on a digital device?
+❓ هل قرأت أي كتب بأستخدام جهاز ألكتروني؟
 </p>
 
 ### لماذا قمت بتصميم الكتاب؟
@@ -15,13 +15,13 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 فكر في الغرض من كتابك.
 
 من الممكن أن تكون:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+- للترفيه عن طفل أصغر سنًا
+- لمشاركة رسالة مهمة ، مثل تشجيع إعادة التدوير
+- لتعليم شخص ما كيفية عمل شيء ما ، مثل كيفية صنع طعامك المفضل
+- لرواية أو إعادة سرد قصة
+- لمشاركة شيء عن نفسك
+- للتعبير عن نفسك وتكون مبدعا
+- أو شيء آخر!
 
 --- /task ---
 
@@ -31,14 +31,14 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 
 فكر حول لمن سوف تعد كتابك (**جمهورك**).
 
-It could be:
+من الممكن أن تكون:
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧 لصديق
+- 👴 لأحد أفراد الأسرة
+- 👩‍🎓 لفصل مدرسي
+- 🏇 للأشخاص الذين يشتركون بنفس الهواية
+- 👨‍🎤 لمحبي الموسيقي
+- لشخص آخر أو لنفسك أنت.
 
 --- /task ---
 
