@@ -1,12 +1,12 @@
-## You will make
+## Vi ćete napraviti
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Napravite 📚 knjigu u Scratchu na temelju vlastite ideje 💡.
 
-You will:
+Vi ćete:
 
-+ Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Napravite digitalnu knjigu za nekog određenog
++ Odaberite koje ćete vještine koristiti za izradu svoje knjige
++ Podijelite web adresu svoje knjige
 
 --- no-print ---
 
@@ -15,13 +15,13 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Igraj ▶️ 
 
-Click on the corner to turn the page.
+Kliknite na kut da okrenete stranicu.
 
-Look for sprites that show and hide on different pages.
+Potražite likove koji se prikazuju i skrivaju na različitim stranicama.
   
-What happens when you click on each sprite?
+Što se događa kada kliknete na svaki lik?
 
 </div>
 <div>
@@ -38,39 +38,39 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Vaša će knjiga morati zadovoljiti **projektni sažetak**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">**sažetak projekta**</span> opisuje što se u projektu mora napraviti. To je pomalo kao da ste dobili misiju koju morate izvršiti.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 SAŽETAK PROJEKTA: Stvorite **digitalnu knjigu**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Morat ćete odlučiti koju vrstu knjige želite izraditi i za koga je. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Vaša bi knjiga trebala:
++ 📃 Imati više stranica, s mogućnošću prelaska na sljedeću stranicu
++ 🐢 Imati barem jedan lik
++ 💬 Recite ili učinite nešto drugačije na svakoj stranici
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Vaša bi knjiga mogla:
++ 🔉 Sadržati govor ili zvučni efekti 
++ 🎨 Imajte tekst ili sliku stvorenu u Paint uređivaču
++ 🖱️ Imajte interaktivne značajke na svakoj stranici
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Dobijte ideje 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Igrajte se s ovim primjerima projekata da biste dobili ideje za svoju knjigu:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Podijelite svoj završeni projekt 'Napravio sam ti knjigu' kako biste imali priliku da bude predstavljen ovdje.
 
 **My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -92,18 +92,18 @@ Play with these example projects to get ideas for your book:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /task ---
+--- /zadatak ---
 
---- /no-print ---
+--- /bez ispisa ---
 
---- print-only ---
+--- samo za ispis ---
 
-### Get ideas 💭
+### Dobijte ideje 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Da biste dobili ideje za svoju 📚 knjigu, **Pogledajte unutra** primjer projekata u Scratch studiju 'Napravio sam ti knjigu — Primjeri': https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Projekt 'Osvijetli put kući'.](images/showcase_static.png)
 
---- /print-only ---
+--- /samo za ispis ---
 
 
