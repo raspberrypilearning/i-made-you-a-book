@@ -1,12 +1,12 @@
-## You will make
+## आपको बनाना है
 
-Create a 📚 book in Scratch based on your own idea 💡.
+अपने विचार 💡 के आधार पर स्क्रैच में एक 📚 पुस्तक बनाएं।
 
-You will:
+आप करेंगे:
 
-+ Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ किसी विशिष्ट व्यक्ति के लिए एक डिजिटल पुस्तक बनाएं
++ अपनी पुस्तक बनाने के लिए कुशलताओं का चयन करेंगे
++ अपनी पुस्तक के लिए एक वेब एड्रेस साझा करेंगे
 
 --- no-print ---
 
@@ -15,13 +15,13 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### इसे आज़माएं
 
-Click on the corner to turn the page.
+पेज पलटने के लिए कोने पर क्लिक करें।
 
-Look for sprites that show and hide on different pages.
+स्प्राइट्स की तलाश करें जो अलग-अलग पेजों पर दिखते और छिपते हैं।
   
-What happens when you click on each sprite?
+जब आप प्रत्येक स्प्राइट पर क्लिक करते हैं तो क्या होता है?
 
 </div>
 <div>
@@ -38,39 +38,39 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+आपकी पुस्तक को **परियोजना संक्षेप** को पूरा करने की आवश्यकता होगी।
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+एक <span style="color: #0faeb0">**परियोजना संक्षेप**</span> बताता है कि किसी प्रोजेक्ट को क्या करना चाहिए। यह कुछ हद तक एक मिशन पूरा करने जैसा है
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 प्रोजेक्ट संक्षिप्त: एक **डिजिटल पुस्तक** बनाएं
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+आपको यह तय करना होगा कि आप किस प्रकार की पुस्तक बनाना चाहते हैं और यह किसके लिए है। 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+आपकी पुस्तक में:
++ कई पेज हों, अगले पेज पर जाने के तरीका भी हो
++ कम से कम एक स्प्राइट हो
++ प्रत्येक पेज पर कुछ अलग कहें या करें
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+आपकी पुस्तक में यह सब हो सकता है:
++ भाषण या ध्वनि प्रभाव
++ पेंट एडिटर में बनायी हुई कला या शब्द
++ प्रत्येक पेज पर इंटरैक्टिव सुविधाएं
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### विचार प्राप्त करें 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+अपनी किताब के लिए विचार प्राप्त करने के लिए इन उदाहरण प्रोजेक्ट्स का अन्वेषण करें:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ अपने तैयार 'मैंने तुम्हारे लिए एक किताब बनाई है' प्रोजेक्ट को यहां प्रदर्शित होने के अवसर के लिए साझा करें।
 
 **My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -92,15 +92,15 @@ Play with these example projects to get ideas for your book:
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /task ---
+--- /काम ---
 
---- /no-print ---
+--- /नो-प्रिंट ---
 
---- print-only ---
+--- केवल प्रिंट ---
 
-### Get ideas 💭
+### विचार प्राप्त करें 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+अपनी किताब के लिए विचार प्राप्त करने के लिए, 'I मैंने तुम्हारे लिए एक किताब बनाई है — उदाहरणों' स्क्रैच स्टूडियो: https://scratch.mit.edu/studios/29082370 में **अंदर देखें** उदाहरण प्रोजेक्ट्स
 
 !['लाइट द वे होम' प्रोजेक्ट।](images/showcase_static.png)
 
