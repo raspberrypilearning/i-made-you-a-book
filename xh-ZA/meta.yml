@@ -1,0 +1,23 @@
+---
+title: Ndikwenzele Incwadi
+hero_image: images/banner.png
+description: Yenza incwadi enamaphepha amaninzi wenzela ukubalisa ibali lakho okanye wabelane nezibakala
+meta_title: Iiprojekthi ku Scratch, zokubhala iikhowudi zabantwana kunye nolutsha | Ndikwenzele incwadi
+meta_description: Funda ukwenza ikhowudi kuScratch ngeeprojekthi zeekhowudi zeRaspberry Pi Foundation zabantwana kunye nolutsha. Yenzala umnthu omkhathaleleyo incwadi edijithali.
+pdf: resources/i-made-you-a-book.pdf
+version: 4
+listed: true
+copyedit: false
+last_tested: '2021-03-09'
+steps:
+  - title: Uya kwenza
+  - title: Icebo lakho
+  - title: Cwangcisa incwadi yakho
+  - title: Yakha kwaye uvavanye
+    completion:
+      - engaged
+      - internal
+  - title: Uluhlu lokujonga
+    completion:
+      - external
+  - title: Yabelanani kwaye nidlale
