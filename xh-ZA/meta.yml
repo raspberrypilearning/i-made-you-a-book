@@ -10,14 +10,14 @@ listed: true
 copyedit: false
 last_tested: '2021-03-09'
 steps:
-  - title: Uya kwenza
-  - title: Icebo lakho
-  - title: Cwangcisa incwadi yakho
-  - title: Yakha kwaye uvavanye
-    completion:
-      - engaged
-      - internal
-  - title: Uluhlu lokujonga
-    completion:
-      - external
-  - title: Yabelanani kwaye nidlale
+- title: Uya kwenza
+- title: Icebo lakho
+- title: Cwangcisa incwadi yakho
+- title: Yakha kwaye uvavanye
+  completion:
+  - engaged
+  - internal
+- title: Uluhlu lokujonga
+  completion:
+  - external
+- title: Yabelanani kwaye nidlale
