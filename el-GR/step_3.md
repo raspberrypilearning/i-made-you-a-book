@@ -14,7 +14,7 @@
 
 --- collapse ---
 ---
-title: Εργασία εκτός σύνδεσης
+title: Working offline
 ---
 
 Για πληροφορίες σχετικά με τον τρόπο ρύθμισης του Scratch για χρήση εκτός σύνδεσης, επισκέψου τον [οδηγό «Ξεκινώντας με το Scratch»](https://projects.raspberrypi.org/en/projects/getting-started-scratch): target = "_ blank"}.
