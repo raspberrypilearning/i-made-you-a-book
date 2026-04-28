@@ -5,8 +5,8 @@ Create a 📚 book in Scratch based on your own idea 💡.
 You will:
 
 + Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ ನಿಮ್ಮ ಪುಸ್ತಕವನ್ನು ತಯಾರಿಸಲು ಯಾವ ಕೌಶಲ್ಯಗಳನ್ನು ಬಳಸಬೇಕು ಎಂಬುದನ್ನು ಆರಿಸಿ
++ ನಿಮ್ಮ ಪುಸ್ತಕಕ್ಕಾಗಿ ವೆಬ್(web) ವಿಳಾಸವನ್ನು ಹಂಚಿಕೊಳ್ಳಿ
 
 --- no-print ---
 
