@@ -1,23 +1,23 @@
-## Plan your book 📔
+## خطط لكتابك 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+استخدم هذه الخطوة لوضع خطة لتصميم كتابك. يمكنك التخطيط بمجرد التفكير ، وإضافة الخلفيات والكائنات في Scratch ، أو الرسم أو الكتابة - أو كيفما تريد!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![المنصة تظهر تفكير الكائن ، "تأتي بعض أفضل الأفكار من اللعب أو التنفيذ. ستجد أفكارًا جيدة عن طريق الصدفة."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+حان الوقت الآن للبدء في التفكير في الصفحات (الخلفيات) و (الشخصيات) في كتابك.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+افتح [ مشروع بداية لقد صنعت لك كتاب ](https://scratch.mit.edu/projects/582223042/editor){: target = "_ blank"}. سيتم فتح Scratch في تبويب متصفح أخرى.
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ ليس الكثير من الوقت؟ يمكنك البدء من أحد الأمثلة [](https://scratch.mit.edu/studios/29082370){: target = "_ blank"}.
 
 --- collapse ---
 ---
 title: Working offline
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+للحصول على معلومات حول كيفية إعداد Scratch للاستخدام دون اتصال بالانترنت، قم بزيارة دليل [" العمل مع Scratch "](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+استخدم مشروع سكراتش جديد للتخطيط لكتابك. لست مضطرًا إلى تخطيط جميع الصفحات يمكنك إضافتها لاحقًا.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+يمكنك أيضًا استخدام ✏️ قلم رصاص و [ورقة التخطيط هذه](resources/i-made-a-book-worksheet.pdf){: target = "_ blank"} أو قطعة من الورق لرسم أفكارك.
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+فكر في الخلفيات والشخصيات (الكائنات):
+- 🖼️ ما الخلفيات أو ألوان الخلفية التي ستستخدمها في كتابك؟
+- 🗒️ كيف سيتفاعل المستخدمون مع كتابك للانتقال إلى الصفحة التالية؟
+- 🦁 ما هي الشخصيات والأشياء التي ستكون لديك في كتابك؟
+- 🏃‍♀️ كيف ستتحرك الكائنات المتحركة وتتفاعل في كل صفحة؟
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![مثال على ورقة التخطيط القابلة للتنزيل التي يملأها طفل. تملأ تصميمات الرسم اليدوي المستطيلات الستة على الصفحة.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
