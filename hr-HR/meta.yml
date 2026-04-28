@@ -1,7 +1,7 @@
 ---
-title: I made you a book
+title: Napravio sam ti knjigu
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: Napravite knjigu s više stranica da ispričate priču ili podijelite činjenice
 meta_title: Scratch coding projects for kids and teens | I made you a book
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch digital book for someone you care about.
 pdf: resources/i-made-you-a-book.pdf
@@ -11,19 +11,19 @@ copyedit: false
 last_tested: '2021-03-09'
 steps:
   - 
-    title: You will make
+    title: Vi ćete napraviti
   - 
-    title: Your idea
+    title: Vaša ideja
   - 
-    title: Plan your book
+    title: Planirajte svoju knjigu
   - 
-    title: Build and test
+    title: Napravite i testirajte
     completion:
       - engaged
       - internal
   - 
-    title: Checklist
+    title: Spisak
     completion:
       - external
   - 
-    title: Share and play
+    title: Podijelite i igrajte se
