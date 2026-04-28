@@ -19,7 +19,7 @@ steps:
   - 
     title: Κατασκεύασε και δοκίμασε
     completion:
-      - engaged
+      - external
       - internal
   - 
     title: Λίστα ελέγχου
