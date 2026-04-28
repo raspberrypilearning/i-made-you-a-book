@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: Er wordt een sprite op de verkeerde pagina's weergegeven of verborgen
+title: A sprite is showing or hiding on the wrong pages
 ---
 
 Controleer of de sprite bij `wanneer achtergrond verandert naar`{:class="block3events"} scripts een `verschijn`{:class="block3looks"} of `verdwijn`{:class="block3looks"} blok heeft. Controleer of je de juiste achtergrond naam hebt gekozen in het `wanneer achtergrond verandert naar`{:class="block3events"} blok. Het helpt om achtergronden namen te geven die je gemakkelijk kunt begrijpen, om dit soort problemen op te sporen.
@@ -154,7 +154,7 @@ Controleer of de sprite bij `wanneer achtergrond verandert naar`{:class="block3e
 
 --- collapse ---
 ---
-title: Een sprite staat ondersteboven
+title: A sprite is going upside down
 ---
 
 Voeg een `maak draaistijl links-rechts`{:class="block3motion"} blok toe of `maak draaistijl niet draaien`{:class="block3motion"}.
@@ -163,7 +163,7 @@ Voeg een `maak draaistijl links-rechts`{:class="block3motion"} blok toe of `maak
 
 --- collapse ---
 ---
-title: Een sprite 'springt' wanneer hij van uiterlijk verandert of stuitert
+title: A sprite 'jumps' when it changes costume or bounces
 ---
 
 Zorg ervoor dat het uiterlijk gecentreerd is in de teken-editor (lijn het blauwe kruis in het uiterlijk op met het dradenkruis in het midden van de teken-editor).
@@ -172,7 +172,7 @@ Zorg ervoor dat het uiterlijk gecentreerd is in de teken-editor (lijn het blauwe
 
 --- collapse ---
 ---
-title: Er wordt geen geluid afgespeeld
+title: A sound does not play
 ---
 
 Heb je een `start geluid`{:class="block3sound"} blok toegevoegd waar dat nodig is? Als je code van een andere sprite hebt gekopieerd, moet je het geluid aan deze sprite toevoegen in het tabblad **Geluiden**. Controleer het volume op je computer of tablet en zorg ervoor dat je het volume niet met code hebt verlaagd — probeer `zet volume op`{:class="block3sound"} `100%`.
@@ -181,7 +181,7 @@ Heb je een `start geluid`{:class="block3sound"} blok toegevoegd waar dat nodig i
 
 --- collapse ---
 ---
-title: Andere sprites worden steeds voor een sprite weergegeven
+title: Other sprites keep going in front of a sprite
 ---
 
 Voeg een `ga naar laag voorgrond`{:class="block3looks"} blok toe.
@@ -190,7 +190,7 @@ Voeg een `ga naar laag voorgrond`{:class="block3looks"} blok toe.
 
 --- collapse ---
 ---
-title: Een sprite beweegt of verandert maar één keer
+title: A sprite only moves or changes once
 ---
 
 Zet je code in een `herhaal`{:class="block3control"} blok zodat het blijft bewegen.
@@ -199,7 +199,7 @@ Zet je code in een `herhaal`{:class="block3control"} blok zodat het blijft beweg
 
 --- collapse ---
 ---
-title: De pagina's staan in de verkeerde volgorde
+title: The pages are in the wrong order
 ---
 
 Controleer in welke volgorde je achtergronden zich bevinden: klik op het deelvenster Speelveld en vervolgens op **Achtergronden** om de achtergronden voor jouw project te bekijken.
