@@ -1,72 +1,72 @@
-## Checklist
+## Uluhlu lokujonga
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+Ngaba udibene **nengcaciso emfutshane yeprojekthi**? Cinga ngeprojekthi yakho kwaye ujonge uluhlu olungezantsi uze ujonge iimpawu enazo iprojekthi yakho.
 
-### Your book should have:
+### Incwadi yakho kufuneka ibe ne:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+Amaphepha amaninzi, anendlela yokutyhila uye kwiphepha elilandelayo
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+Okungenani i-sprite esinye
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+Izenzo ezahlukeneyo kwiphepha nganye
 
 --- /task ---
 
-### Your book could also have:
+### Incwadi yakho inokuba nayo:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+Intetho okanye iziphumo zesandi
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+Umbhalo okanye ubugcisa obudalwe kumhleli wePeyinti
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+Iimpawu ezisebenzayo kwiphepha nganye
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### Ukucinga
 
-🎉 Take a moment to celebrate what you have made.
+Ungacinga ngendlela owenze ngayo incwadi yakho, ukuze ikuncede kwiiprojekthi zakho zexesha elizayo:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+Uzifumene njani izimvo zakho?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+Zeziphi izinto ezintsha nezimnandi ozifundileyo?
+
+--- /task ---
+
+### Ngoku, ungumbhali wencwadi edijithali!
+
+🎉 Ziphe ixesha lokubhiyozela oko ukwenzileyo.
+
+--- task ---
+
+Uza kuwathatha phi amandla akho amatsha? Uza kwenza ntoni ngokulandelayo?
+
+--- /task ---
+
+![Ikati ka Scratch inxibe umnqwazi wepati.](images/reflect.png)
 
