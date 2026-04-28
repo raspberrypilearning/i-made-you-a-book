@@ -1,10 +1,10 @@
-## Plan your book 📔
+## Adeiladu a phrofi
 
 Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
 
 ![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+**Awgrym:** Cofia brofi dy brosiect bob tro y byddi di'n ychwanegu rhywbeth. Mae'n llawer haws dod o hyd i chwilod a'u trwsio cyn i ti wneud mwy o newidiadau.
 
 --- task ---
 
@@ -27,14 +27,14 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+[[[scratch3-animate-movement-costumes]]]
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
+[[[scratch3-graphic-effects]]]
+- Greu’r holl dudalennau fel cefnlenni, neu
+- Sicrhau fod un dudalen yn gweithio gyntaf
 - 🦁 Which characters and objects will you have in your book?
 - 🏃‍♀️ How will the sprites be animated and interact on each page?
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg)[[[scratch3-show-hide-sprites-backdrops]]]
 
 --- /task ---
