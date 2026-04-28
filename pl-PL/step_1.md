@@ -26,7 +26,7 @@ Co się stanie, gdy klikniesz na każdego duszka?
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Połaskotać Potwora**: [Zajrzyj do środka](https://scratch.mit.edu/projects/951564669/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -72,22 +72,22 @@ Zagraj w te przykładowe projekty, aby znaleźć pomysły na swoją książkę:
 
 ⭐ Udostępnij swój ukończony projekt "Zrobiłem ci książkę", aby mieć szansę na opublikowanie go tutaj.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Mój zespół** 🎸 : [Zajrzyj do środka](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Kopciuszek i pająk** 🕷️ : [Zajrzyj do środka](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Przypadkowa teleportacja** 🚀 : [Zajrzyj do środka](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (wyróżniony projekt społeczności)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Jak nadeszła zima** ☃️ : [Zajrzyj do środka](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (wyróżniony projekt społeczności)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
