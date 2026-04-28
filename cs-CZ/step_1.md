@@ -1,12 +1,12 @@
-## You will make
+## Co budeš dělat
 
-Create a 📚 book in Scratch based on your own idea 💡.
+Vytvořte si 📚 knihu ve Scratchi na základě vlastního nápadu 💡.
 
-You will:
+Budeš:
 
-+ Create a digital book for someone specific
-+ Choose which skills to use to make your book
-+ Share a web address for your book
++ Vytvořte digitální knihu pro někoho konkrétního
++ Vyberte si, jaké dovednosti použijete k vytvoření své knihy
++ Sdílejte webovou adresu své knihy
 
 --- no-print ---
 
@@ -15,13 +15,13 @@ You will:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Play ▶️ 
+### Hrát ▶️ 
 
-Click on the corner to turn the page.
+Kliknutím na roh otočíte stránku.
 
-Look for sprites that show and hide on different pages.
+Hledejte postavičky, které se zobrazují a skrývají na různých stránkách.
   
-What happens when you click on each sprite?
+Co se stane, když kliknete na kařdou postavičku?
 
 </div>
 <div>
@@ -38,39 +38,39 @@ What happens when you click on each sprite?
 
 --- /no-print ---
 
-Your book will need to meet the **project brief**.
+Vaše kniha bude muset splňovat zadání **projektu**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
+<span style="color: #0faeb0">**stručný popis projektu**</span> popisuje, co musí projekt dělat. Je to trochu jako dostat úkol, který je třeba splnit.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯 PROJECT BRIEF: Create a **digital book**
+### 🎯 STRUČNÝ POPIS PROJEKTU: Vytvořte **digitální knihu**
 <hr style="border-top: 2px solid black;">
 
-You will need to decide what type of book you would like to make and who it is for. 
+Budete se muset rozhodnout, jaký typ knihy byste chtěli vytvořit a pro koho je určena. 
 
-Your book should:
-+ 📃 Have multiple pages, with a way to turn to the next page
-+ 🐢 Have at least one sprite
-+ 💬 Say or do something different on every page
+Vaše kniha by měla:
++ 📃 Obsahovat více stránek s možností přejít na další stránku
++ 🐢 Obsahovat alespoň jednu postavičku
++ 💬 Na každé stránce říci nebo udělat něco jiného
 
-Your book could:
-+ 🔉 Have speech or sound effects 
-+ 🎨 Have text or art that has been created in the Paint editor
-+ 🖱️ Have interactive features on every page
+Vaše kniha by mohla:
++ 🔉 Obsahovat řeč nebo zvukové efekty 
++ 🎨 Obsahovat text nebo grafiku, která byla vytvořena v editoru Malování
++ 🖱️ Mít interaktivní funkce na každé stránce
 </div>
 
 --- no-print ---
 
-### Get ideas 💭
+### Inspiruj se 💭
 
 --- task ---
 
-Play with these example projects to get ideas for your book:
+Pohraj si s těmito ukázkovými projekty, a inspiruj se pro svou knihu:
 
-⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
+⭐ Podělte se o svůj hotový projekt „Udělal jsem vám knihu“, abys měl šanci, že že zde bude uveden.
 
 **My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -98,11 +98,11 @@ Play with these example projects to get ideas for your book:
 
 --- print-only ---
 
-### Get ideas 💭
+### Inspiruj se 💭
 
-To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: https://scratch.mit.edu/studios/29082370
+Chcete-li získat nápady pro svou 📚 knihu, **Podívejte se na** příklad projektů ve studiu Scratch „Udělal jsem ti knihu — Příklady“: https://scratch.mit.edu/studios/29082370
 
-![The 'Light the way home' project.](images/showcase_static.png)
+![Projekt „Světlo se na cestu domů“.](images/showcase_static.png)
 
 --- /print-only ---
 
