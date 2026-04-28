@@ -1,23 +1,23 @@
-## Plan your book 📔
+## अपनी पुस्तक की योजना बनाएं 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+अपनी पुस्तक की योजना बनाने के लिए इस चरण का उपयोग करें। आप केवल सोचकर, स्क्रैच में पृष्ठभूमि और स्प्राइट्स जोड़कर, या ड्राइंग या लिखकर योजना बना सकते हैं - या फिर भी आप चाहें!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![मंच एक प्रेतपूर्ण सोच को दर्शाता है, "कुछ बेहतरीन विचार खेल से आते हैं। आपको दुर्घटना से अच्छे विचार मिलेंगे|"](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+अब, अपनी पुस्तक में पृष्ठों (पृष्ठभूमि) और पात्रों और वस्तुओं (स्प्राइट्स) के बारे में सोचना शुरू करने का समय आ गया है।
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+[मैंने आपको एक बुक स्टार्टर प्रोजेक्ट बनाया है](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"} खोलें। स्क्रैच दूसरे ब्राउजर टैब में खुलेगा।
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ ज्यादा समय नहीं है? आप [उदाहरण](https://scratch.mit.edu/studios/29082370){:target="_blank"} में से किसी एक से शुरू कर सकते हैं।
 
 --- collapse ---
 ---
 title: Working offline
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Scratch को ऑफ़लाइन उपयोग के लिए कैसे सेट करें, इस बारे में जानकारी के लिए, [ 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"} पर जाएं।
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+अपनी किताब की योजना बनाने के लिए अपने नए स्क्रैच प्रोजेक्ट का उपयोग करें। आपको उन सभी पृष्ठों की योजना बनाने की आवश्यकता नहीं है आप बाद में और बना सकते हैं।
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+आप अपने विचारों को स्केच करने के लिए ✏️ एक पेंसिल और [इस प्लानिंग शीट](resources/i-made-a-book-worksheet.pdf){:target="_blank"} या कागज के एक टुकड़े का भी उपयोग कर सकते हैं।
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+बैकड्रॉप और चित्रों के बारे में सोचें:
+- 🖼️ आप अपनी पुस्तक में किन पृष्ठभूमि या पृष्ठभूमि के रंगों का उपयोग करेंगे?
+- 🗒️ अगले पृष्ठ पर जाने के लिए उपयोगकर्ता आपकी पुस्तक के साथ कैसे इंटरैक्ट करेंगे?
+- 🦁 आपकी पुस्तक में कौन से पात्र और वस्तुएं होंगी?
+- 🏃‍♀️ प्रत्येक पृष्ठ पर स्प्राइट्स कैसे एनिमेटेड और इंटरैक्ट करेंगे?
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![एक बच्चे द्वारा भरी गई डाउनलोड करने योग्य योजना पत्रक का एक उदाहरण। हाथ ड्रा डिजाइन पृष्ठ पर छह आयतों को भरते हैं।](images/design-example.jpg){:width="300px"}
 
 --- /task ---
