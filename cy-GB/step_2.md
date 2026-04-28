@@ -1,6 +1,6 @@
-## Your idea 💡
+## Dy syniad
 
-Decide the theme of your book and who will be the audience.
+Defnyddia'r cam yma i gynllunio dy lyfr. Galli di gynllunio drwy feddwl, ychwanegu cefndiroedd a chorluniau yn Scratch, neu drwy dynnu llun neu ysgrifennu - sut bynnag sydd well gen ti!
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
@@ -15,12 +15,12 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 Meddylia am bwrpas dy lyfr.
 
 Gallai fod:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
+- I ddifyrru plentyn iau
+- I rannu neges bwysig, fel annog ailgylchu
+- I ddysgu rhywun sut i wneud rhywbeth, fel sut i goginio dy hoff fwyd
+- I ddweud neu ailadrodd stori
+- I rannu rhywbeth amdanat ti dy hun
+- I fynegi dy hun a bod yn greadigol
 - Or something else!
 
 --- /task ---
@@ -31,12 +31,12 @@ Gallai fod:
 
 Ystyria i bwy wyt ti eisiau gwneud y llyfr (dy **gynulleidfa**).
 
-It could be:
+Gallai fod i ffrind, i aelod o'r teulu, i ddosbarth ysgol, i bobl sy'n rhannu hobi, i ffans cerddor, neu dim ond i ti dy hun.
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
+- Pa gefnlenni neu liwiau cefndir fyddi di'n eu defnyddio yn dy lyfr?
+- Sut bydd defnyddwyr yn rhyngweithio â dy lyfr i droi i'r dudalen nesaf?
+- Pa gymeriadau a gwrthrychau fydd gen ti yn dy lyfr?
+- Sut fydd y corluniau yn cael eu hanimeiddio ac yn rhyngweithio ar bob tudalen?
 - 👨‍🎤 For fans of a musician
 - For someone else or just for yourself.
 
