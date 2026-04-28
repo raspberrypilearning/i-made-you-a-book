@@ -1,44 +1,44 @@
-## Your idea 💡
+## Vaša ideja 💡
 
-Decide the theme of your book and who will be the audience.
+Odaberite temu svoje knjige i tko će biti publika.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a book created and read on a computer, tablet, phone, or other electronic device. 
+<span style="color: #0faeb0">**Digitalna knjiga**</span> 📖📲 (ili e-knjiga) je knjiga stvorena i čitana na računalu, tabletu, telefonu ili drugom elektroničkom uređaju. 
 
-❓ Have you read any books on a digital device?
+❓ Jeste li čitali neku knjigu na digitalnom uređaju?
 </p>
 
-### Why are you making the book?
+### Zašto praviš knjigu?
 
 --- task ---
 
-Think about the purpose of your book.
+Razmislite o svrsi svoje knjige.
 
-It could be:
-- 🧒 To entertain a younger child
-- ♻️ To share an important message, such as encouraging recycling
-- 🍕 To teach someone how to do something, such as how to make your favourite food
-- 📖 To tell or retell a story
-- 🗣️ To share something about yourself
-- 🎨 To express yourself and be creative
-- Or something else!
+Može biti:
+- 🧒 Za zabavu mlađeg djeteta
+- ♻️ Za dijeljenje važne poruke, kao što je poticanje recikliranja
+- 🍕 Naučiti nekoga kako nešto učiniti, na primjer kako napraviti svoju omiljenu hranu
+- 📖 Ispričati ili prepričati priču
+- 🗣️ Da podijelite nešto o sebi
+- 🎨 Da se izrazite i budete kreativni
+- Ili nešto drugo!
 
 --- /task ---
 
-### Who is it for?
+### Za koga je to?
 
 --- task ---
 
-Think about who you will make your book for (your **audience**).
+Razmislite o tome za koga ćete napraviti svoju knjigu (vaša **publika**).
 
-It could be:
+Može biti:
 
-- 👧 For a friend
-- 👴 For a family member
-- 👩‍🎓 For a school class
-- 🏇 For people who share a hobby
-- 👨‍🎤 For fans of a musician
-- For someone else or just for yourself.
+- 👧 Za prijatelja
+- 👴 Za člana obitelji
+- 👩‍🎓 Za školski razred
+- 🏇 Za ljude koji dijele hobi
+- 👨‍🎤 Za ljubitelje glazbe
+- Za nekog drugog ili samo za sebe.
 
 --- /task ---
 
