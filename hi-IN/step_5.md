@@ -1,72 +1,72 @@
-## Checklist
+## जांच सूची
 
-Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
+क्या आप **परियोजना संक्षिप्त**से मिले? अपने प्रोजेक्ट के बारे में सोचें और नीचे दी गई जांच सूची पर जाएं और अपने प्रोजेक्ट की सुविधाओं की जाँच करें।
 
-### Your book should have:
+### आपकी पुस्तक में यह होना चाहिए:
 
 --- task ---
 
-Multiple pages, with a way to turn to the next page
+कई पृष्ठ, अगले पृष्ठ पर जाने के तरीके के साथ
 
 --- /task ---
 
 --- task ---
 
-At least one sprite
+कम से कम एक स्प्राइट
 
 --- /task ---
 
 --- task ---
 
-Different actions on every page
+प्रत्येक पृष्ठ पर भिन्न क्रियाएँ
 
 --- /task ---
 
-### Your book could also have:
+### आपकी किताब में ये भी हो सकते हैं:
 
 --- task ---
 
-Speech or sound effects
-
---- /task ---
-
---- task ---
-
-Text or art that has been created in the Paint editor
+बोली या ध्वनि प्रभाव
 
 --- /task ---
 
 --- task ---
 
-Interactive features on every page
-
---- /task ---
-
-### Reflection
-
-You can reflect on how you made your book, to help you in your future projects:
-
---- task ---
-
-How did you get your ideas?
+पाठ या कला जो पेंट संपादक में बनाई गई है
 
 --- /task ---
 
 --- task ---
 
-What cool new thing(s) did you learn?
+प्रत्येक पृष्ठ पर संवादात्मक सुविधाएँ
 
 --- /task ---
 
-### Now, you are the author of a digital book!
+### सोचिए
 
-🎉 Take a moment to celebrate what you have made.
+आप अपनी भविष्य की परियोजनाओं में मदद के लिए इस पर विचार कर सकते हैं कि आपने अपनी पुस्तक कैसे बनाई:
 
 --- task ---
 
-Where will you take your new powers? What will you make next?
+आपको अपने विचार कैसे मिले?
 
 --- /task ---
 
-![The Scratch Cat wearing a party hat.](images/reflect.png)
+--- task ---
+
+आपने कौन सी नई चीज़ (चीजों) सीखेगी?
+
+--- /task ---
+
+### अब, आप एक डिजिटल पुस्तक के लेखक हैं!
+
+🎉 आपने जो बनाया है उसका जश्न मनाने के लिए कुछ समय निकालें।
+
+--- task ---
+
+आप अपनी नई शक्तियों को कहां ले जाएंगे? आप आगे क्या बनाएँगे?
+
+--- /task ---
+
+![स्क्रैच कैट ने पार्टी हैट पहन रखी है।](images/reflect.png)
 
