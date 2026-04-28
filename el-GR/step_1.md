@@ -26,7 +26,7 @@
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Γαργάλησε το τέρας**: [Δες μέσα](https://scratch.mit.edu/projects/918683445/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -72,22 +72,22 @@
 
 ⭐ Μοιράσου το ολοκληρωμένο σου έργο «Σου έκανα ένα βιβλίο» για να έχεις την ευκαιρία να προβληθεί εδώ.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Η μπάντα μου** 🎸 : [Δες μέσα](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Η Σταχτοπούτα και η αράχνη** 🕷️ : [Δες μέσα](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Τυχαία τηλεμεταφορά** 🚀 : [Δες μέσα](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Πώς ήρθε ο χειμώνας** ☃️ : [Δες μέσα](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (επιλεγμένο έργο κοινότητας)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
