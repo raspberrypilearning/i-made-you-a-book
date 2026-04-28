@@ -1,11 +1,11 @@
-## What next?
+## Što dalje?
 
-You have reached the end of the [Introduction to Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro) path! Try using Scratch to make more cool stuff.
+Došli ste do kraja puta [Uvod u Scratch](https://projects.raspberrypi.org/en/pathways/scratch-intro)! Pokušajte upotrijebiti Scratch da napravite više cool stvari.
 
-To learn more skills, so you can bring all your ideas to life in Scratch, move on to our [More Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) path!
+Da biste naučili više vještina, kako biste mogli oživjeti sve svoje ideje u Scratchu, prijeđite na naš [Više Scratch](https://projects.raspberrypi.org/en/pathways/more-scratch) put!
 
-If you need a reminder of what you have learned, you can go to our ['Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
+Ako trebate podsjetnik na ono što ste naučili, možete ići na naš [vodič 'Početak rada sa Scratchom'](https://projects.raspberrypi.org/en/projects/getting-started-scratch).
 
 [[[scratch-coolest-projects]]]
 
-You can also explore our [other Scratch projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) and try them out.
+Također možete istražiti naše [drugih Scratch projekata](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201) i isprobati ih.
