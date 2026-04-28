@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: A sprite is showing or hiding on the wrong pages
+title: Un objeto se muestra u oculta en las páginas incorrectas
 ---
 
 Comprueba que el objeto tenga `cuando el fondo cambie a`{:class="block3events"} con bloques `mostrar`{:class="block3looks"} o `esconder`{:class="block3looks"} según sea necesario. Comprueba que hayas elegido el nombre de fondo correcto en el bloque`cuando el fondo cambie a`{:class="block3events"}. Es útil darle a los fondos nombres que puedas entender fácilmente, para ayudar a detectar problemas como este.
@@ -172,7 +172,7 @@ Asegúrate de que el disfraz esté centrado en el editor de dibujo (alinea la cr
 
 --- collapse ---
 ---
-title: A sound does not play
+title: No se reproduce un sonido
 ---
 
 ¿Has agregado un bloque a `reproducir sonido`{:class="block3sound"} cuando sea necesario? Si has copiado el código de otro objeto, le deberás agregar el sonido a este en la pestaña **Sonidos**. Verifica el volumen en tu computadora o tableta y asegúrate de no haberlo bajado con el código; prueba `fijar volumen a`{:class="block3sound"} `100`.
@@ -190,7 +190,7 @@ Agrega un bloque `ir a la capa de adelante`{:class="block3looks"}.
 
 --- collapse ---
 ---
-title: A sprite only moves or changes once
+title: Un objeto solo se mueve o cambia una vez
 ---
 
 Pon tu código dentro de un bloque `por siempre`{:class="block3control"} para que siga funcionando.
@@ -199,7 +199,7 @@ Pon tu código dentro de un bloque `por siempre`{:class="block3control"} para qu
 
 --- collapse ---
 ---
-title: The pages are in the wrong order
+title: Las páginas están en el orden incorrecto
 ---
 
 Verifica en qué orden están tus fondos: haz clic en el panel escenario y luego en **Fondos** para ver los fondos de tu proyecto.
