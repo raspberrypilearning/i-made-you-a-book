@@ -1,20 +1,20 @@
-## Build 🧱 and test 🔄
+## निर्माण और परीक्षण करें
 
-Now, it's time to build your book. Start small, and add more to your project if you have time.
+अब, आपकी किताब बनाने का समय आ गया है। छोटे से शुरू करें, और यदि आपके पास समय हो तो अपनी परियोजना में और जोड़ें।
 
-![Multiple pages of a book project.](images/pages-rama.png)
+![बुक प्रोजेक्ट के कई पृष्ठ।](images/pages-rama.png)
 
-**Tip:** Remember to test your project each time you add something. It is much easier to find and fix bugs before you make more changes.
+**युक्ति:** प्रत्येक बार जब आप कुछ जोड़ते हैं तो अपनी परियोजना का परीक्षण करना याद रखें। अधिक बदलाव करने से पहले गलती को खोजना और ठीक करना बहुत आसान है।
 
-### For each page 📃
+### प्रत्येक पृष्ठ के लिए 📃
 
 --- task ---
 
-Add the backdrop and new sprites you need for this page.
+इस पृष्ठ के लिए आवश्यक बैकड्रॉप और नए चित्र जोड़ें।
 
-![Choose a sprite and choose a backdrop icons.](images/sprite-and-backdrop.png)
+![एक स्प्राइट चुनें और एक पृष्ठभूमि आइकन चुनें।](images/sprite-and-backdrop.png)
 
-You will need to add code to set the positions and visibility of sprites on the first title page and each page after that.
+पहले शीर्षक पृष्ठ और उसके बाद प्रत्येक पृष्ठ पर चित्र की स्थिति और दृश्यता सेट करने के लिए आपको कोड लिखने की आवश्यकता होगी।
 
 ```blocks3
 when flag clicked
@@ -28,11 +28,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### For each sprite 🐈 🐢 🎈
+### प्रत्येक चित्र के लिए 🐈 🐢 🎈
 
 --- task ---
 
-You will need to add code to each character and object sprite in your book. Consider whether they will do anything when the project starts, when the backdrop switches to a particular page or when the sprite is clicked.
+आपको अपनी पुस्तक में प्रत्येक वर्ण और वस्तु चित्र में कोड जोड़ने की आवश्यकता होगी। इस बात पर विचार करें कि जब परियोजना शुरू होती है, जब पृष्ठभूमि किसी विशेष पृष्ठ पर जाती है या जब स्प्राइट पर क्लिक किया जाता है तो क्या वे कुछ करेंगे।
 
 ```blocks3
 when flag clicked
@@ -52,11 +52,11 @@ when backdrop switches to [page v]
 
 --- /task ---
 
-### Turning the page 📖
+### पन्ना 📖 पलटना
 
 --- task ---
 
-You will need a way for your reader to move to the next page in your book.
+आपको अपने पाठक को अपनी पुस्तक के अगले पृष्ठ पर भेजने के लिए एक मार्ग की आवश्यकता होगी।
 
 ```blocks3
 when this sprite clicked
@@ -66,15 +66,15 @@ when this sprite clicked
 
 --- /task ---
 
-### Edit costumes 🦁 and backdrops 🖼️
+### वेशभूषा 🦁 और पृष्ठभूमि 🖼️ को बदले
 
 --- task ---
 
-You may want to edit or add costumes or backdrops in the Paint editor.
+आप पेंट संपादक में वेशभूषा या पृष्ठभूमि को संपादित करना या जोड़ना चाह सकते हैं।
 
-![The Costumes and Backdrops tabs.](images/costumes-backdrops-tabs.png){:width="250px"}
+![वेशभूषा और पृष्ठभूमि टैब।](images/costumes-backdrops-tabs.png){:width="250px"}
 
-![The paint costume and backdrop icons.](images/sprite-and-backdrop.png)
+![पेंट पोशाक और पृष्ठभूमि चिह्न।](images/sprite-and-backdrop.png)
 
 [[[scratch3-paint-a-new-backdrop-extended]]]
 
@@ -88,11 +88,11 @@ You may want to edit or add costumes or backdrops in the Paint editor.
 
 --- /task ---
 
-### Add sound 🎵
+### ध्वनि डालें 🎵
 
 --- task ---
 
-![The Sounds tab.](images/sound-editor-tab.png)
+![ध्वनि टैब.](images/sound-editor-tab.png)
 
 ```blocks3
 when flag clicked
@@ -102,21 +102,21 @@ when this sprite clicked
 when backdrop switches to [page v]
 ```
 
-![The add a sound icon.](images/sound-icon.png)
+![एक ध्वनि चिह्न जोड़ें.](images/sound-icon.png)
 
 [[[scratch3-add-sound]]]
 
-![The record icon from the add sound menu.](images/record-sound.png)
+![ध्वनि जोड़ें मेनू से रिकॉर्ड आइकन।](images/record-sound.png)
 
 [[[scratch3-record-sound]]]
 
-![The text to speech blocks menu icon.](images/text-to-speech.png)
+!['टेक्स्ट टू स्पीच' ब्लॉक मेनू](images/text-to-speech.png)
 
 [[[scratch3-text-to-speech]]]
 
 --- /task ---
 
-### Scratch editor reminders
+### स्क्रैच संपादक अनुस्मारक
 
 [[[scratch3-copy-code]]]
 
@@ -126,29 +126,29 @@ when backdrop switches to [page v]
 
 --- task ---
 
-**Test:** 🔄 Show someone else your project and ask for 🗣️ their feedback. Do you want to make any changes to your book?
+**परीक्षण:** अपने प्रोजेक्ट को किसी और को दिखाएँ और अपनी प्रतिक्रिया प्राप्त करें। क्या आप अपनी किताब में कोई बदलाव करना चाहते हैं?
 
-⏱️ If you have time, you can upgrade your project.
+यदि आपके पास समय है, तो आप अपने प्रोजेक्ट को अपग्रेड कर सकते हैं।
 
-💡 You could:
-- Add more code to your sprites
-- Add another sprite
-- Add another page
-- Record a sound
-- Create a new costume in the Paint editor
+आप ऐसा कर सकते हैं:
+- अपने स्प्राइट्स में और कोड डालें
+- एक और स्प्राइट डालें
+- एक और पन्ना डालें
+- ध्वनि रिकॉर्ड करें
+- पेंट संपादक में एक नई पोशाक बनाएं
 
 --- /task ---
 
 --- task ---
 
-**Debug:** 🐞 You might find some bugs in your project that you need to fix. Here are some common bugs:
+**गतियां सही करें:** आपको अपने प्रोजेक्ट में कुछ गलतियां मिल सकती हैं जिन्हें आपको ठीक करने की आवश्यकता है। यहाँ कुछ सामान्य गलतियां हैं:
 
 --- collapse ---
 ---
 title: A sprite is showing or hiding on the wrong pages
 ---
 
-Check that the sprite has `when backdrop switches to`{:class="block3events"} scripts with `show`{:class="block3looks"} or `hide`{:class="block3looks"} blocks as needed. Check that you have chosen the correct backdrop name in the `when backdrop switches to`{:class="block3events"} block. It helps to give backdrops names that you can understand easily, to help spot problems like this.
+जांचें कि स्प्राइट के पास `when background,`{:class="block3events"} स्क्रिप्ट `show`{:class="block3looks"} या `hide`{:class="block3looks"} ब्लॉक हैं, जैसा आवश्यक है। जांचें कि आपने `when background`{:class="block3events"} ब्लॉक में सही पृष्ठभूमि नाम चुना है। यह ऐसे बैकड्रॉप नाम देने में मदद करता है जिन्हें आप आसानी से समझ सकते हैं, ताकि इस तरह की समस्याओं को दूर करने में मदद मिल सके।
 
 --- /collapse ---
 
@@ -157,7 +157,7 @@ Check that the sprite has `when backdrop switches to`{:class="block3events"} scr
 title: A sprite is going upside down
 ---
 
-Add a `set rotation style left-right`{:class="block3motion"} or `set rotation style don't rotate`{:class="block3motion"} block.
+`set rotation style left-right`{:class="block3motion"} या `set rotation style`{:class="block3motion"} ब्लॉक को जोड़ें।
 
 --- /collapse ---
 
@@ -166,7 +166,7 @@ Add a `set rotation style left-right`{:class="block3motion"} or `set rotation st
 title: A sprite 'jumps' when it changes costume or bounces
 ---
 
-Make sure that the costume is centred in the Paint editor (line up the blue cross in the costume with the crosshair in the centre of the Paint editor).
+सुनिश्चित करें कि पोशाक पेंट संपादक में केंद्रित है (पेंट संपादक के केंद्र में क्रॉसहेयर के साथ पोशाक में नीले क्रॉस को पंक्तिबद्ध करें)।
 
 --- /collapse ---
 
@@ -175,7 +175,7 @@ Make sure that the costume is centred in the Paint editor (line up the blue cros
 title: A sound does not play
 ---
 
-Have you added a block to `play sound`{:class="block3sound"} when needed? If you have copied code from another sprite, you will need to add the sound to this sprite in the **Sounds** tab. Check the volume on your computer or tablet, and make sure that you have not lowered the volume with code — try `set volume to`{:class="block3sound"} `100`.
+क्या आपने जरूरत पड़ने पर `प्ले साउंड`{:class="block3sound"} में ब्लॉक जोड़ा है? यदि आपने किसी अन्य स्प्राइट से कोड कॉपी किया है, तो आपको **ध्वनि** टैब में इस स्प्राइट में ध्वनि जोड़ने की आवश्यकता होगी। अपने कंप्यूटर या टैबलेट पर वॉल्यूम जांचें, और सुनिश्चित करें कि आपने कोड के साथ वॉल्यूम कम नहीं किया है - वॉल्यूम `सेट करें`{:class="block3sound"} `100`।
 
 --- /collapse ---
 
@@ -184,7 +184,7 @@ Have you added a block to `play sound`{:class="block3sound"} when needed? If you
 title: Other sprites keep going in front of a sprite
 ---
 
-Add a `go to front layer`{:class="block3looks"} block.
+एक `go to front layer`{:class="block3looks"} ब्लॉक जोड़ें।
 
 --- /collapse ---
 
@@ -193,7 +193,7 @@ Add a `go to front layer`{:class="block3looks"} block.
 title: A sprite only moves or changes once
 ---
 
-Put your code inside a `forever`{:class="block3control"} block so that it keeps running.
+अपना कोड `हमेशा के लिए`{:class='block3control'} ब्लॉक के अंदर रखें ताकि यह चलता रहे।
 
 --- /collapse ---
 
@@ -202,13 +202,13 @@ Put your code inside a `forever`{:class="block3control"} block so that it keeps 
 title: The pages are in the wrong order
 ---
 
-Check what order your backdrops are in: click on the Stage pane and then on the **Backdrops** tab to view the backdrops for your project.
+जांचें कि आपकी बैकड्रॉप किस क्रम में हैं: स्टेज फलक पर क्लिक करें और फिर अपने प्रोजेक्ट के लिए बैकड्रॉप देखने के लिए **Backdrops** टैब पर क्लिक करें।
 
 --- /collapse ---
 
-You might find a bug that is not listed here. Can you work out how to fix it?
+आपको एक बग मिल सकता है जो यहां सूचीबद्ध नहीं है। क्या आप यह पता लगा सकते हैं कि इसे कैसे ठीक किया जाए?
 
-🗣️ We love hearing about your bugs and how you fixed them. Use the **Send feedback** button at the bottom of this page and tell us if you found a different bug in your project.
+हमें आपके बग्स के बारे में सुनना अच्छा लगता है और ये भी की आपने उन्हें कैसे ठीक किया। **फ़ीडबैक भेजें** बटन का उपयोग करें और हमें बताएं कि क्या आपको अपने प्रोजेक्ट में कोई भिन्न बग मिला है।
 
 --- /task ---
 
