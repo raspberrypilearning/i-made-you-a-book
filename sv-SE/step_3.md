@@ -14,7 +14,7 @@ Nu är det dags att börja tänka på sidorna (bakgrunderna) och karaktärerna o
 
 --- collapse ---
 ---
-title: Jobbar offline
+title: Working offline
 ---
 
 För information om hur du ställer in Scratch för offlineanvändning, besök vår ["Komma igång med Scratch"-guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
