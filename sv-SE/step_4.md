@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: En sprite visas eller döljs på fel sidor
+title: A sprite is showing or hiding on the wrong pages
 ---
 
 Kontrollera att sprajten har `när bakgrunden byter till`{:class="block3events"}-kod med `visa`{:class="block3looks"}- eller `dölj`{:class="block3looks"}-block enligt behov. Kontrollera att du har valt rätt bakgrundsnamn i `när bakgrunden byter till`{:class="block3events"}-blocket. Det underlättar att ge bakgrundsnamn som du lätt kan förstå för att hjälpa till att upptäcka problem som detta.
@@ -154,7 +154,7 @@ Kontrollera att sprajten har `när bakgrunden byter till`{:class="block3events"}
 
 --- collapse ---
 ---
-titel: En sprajt går upp och ner
+title: A sprite is going upside down
 ---
 
 Lägg till ett `"sätt rotationsstil vänster-höger"`{:class="block3motion"}-block eller ett `"sätt rotationsstil, rotera inte"`{:class="block3motion"}-block.
@@ -163,7 +163,7 @@ Lägg till ett `"sätt rotationsstil vänster-höger"`{:class="block3motion"}-bl
 
 --- collapse ---
 ---
-titel: En sprajt "hoppar" när den byter klädsel eller studsar
+title: A sprite 'jumps' when it changes costume or bounces
 ---
 
 Se till att klädseln är centrerad i målarredigeraren (placera det blåa korset i klädseln över krysset i mitten av målarredigeraren).
@@ -172,7 +172,7 @@ Se till att klädseln är centrerad i målarredigeraren (placera det blåa korse
 
 --- collapse ---
 ---
-title: Ett ljud spelas inte upp
+title: A sound does not play
 ---
 
 Har du lagt till ett block som `spelar ljud`{:class="block3sound"} när det behövs? Om du har kopierat kod från en annan sprajt måste du lägga till ljudet till denna sprajt i **Ljud**fliken. Kontrollera volymen på din dator eller surfplatta och se till att du inte har sänkt volymen med kod — prova `sätt volymen till`{:class="block3sound"} `100`.
@@ -181,7 +181,7 @@ Har du lagt till ett block som `spelar ljud`{:class="block3sound"} när det beh�
 
 --- collapse ---
 ---
-title: Andra sprajter går framför en sprajt hela tiden
+title: Other sprites keep going in front of a sprite
 ---
 
 Lägg till ett `"gå till översta lagret"`{:class="block3looks"}-block.
@@ -190,7 +190,7 @@ Lägg till ett `"gå till översta lagret"`{:class="block3looks"}-block.
 
 --- collapse ---
 ---
-title: En sprajt rör sig eller ändras bara en gång
+title: A sprite only moves or changes once
 ---
 
 Lägg din kod i ett `för alltid`{:class="block3control"}-block så att den fortsätter att köras.
@@ -199,7 +199,7 @@ Lägg din kod i ett `för alltid`{:class="block3control"}-block så att den fort
 
 --- collapse ---
 ---
-title: Sidorna är i fel ordning
+title: The pages are in the wrong order
 ---
 
 Kontrollera i vilken ordning dina bakgrunder är: klicka på scenpanelen och sedan på fliken **Bakgrunder** för att se bakgrunderna i ditt projekt.
