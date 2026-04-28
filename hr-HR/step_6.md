@@ -1,6 +1,6 @@
-## Share and play
+## Podijelite i igrajte se
 
-If you have a Scratch account, you can share your project through Scratch.
+Ako imate Scratch račun, možete podijeliti svoj projekt putem Scratch-a.
 
 [[[share-scratch]]]
 
@@ -10,15 +10,15 @@ If you have a Scratch account, you can share your project through Scratch.
 
 --- task ---
 
-Inspire others who do this project with your book!
+Inspirirajte druge koji rade na ovom projektu s vašom knjigom!
 
-To submit your project to our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} for other people to see, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+Da biste poslali svoj projekt u našu ['Napravio sam vam knjigu — Zajednica' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} kako bi ga drugi ljudi vidjeli, ispunite [ovaj obrazac](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---
 
 --- task ---
 
-Take a look at these fabulous community projects from our ['I made you a book — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
+Pogledajte ove fantastične projekte zajednice iz našeg ['Napravio sam ti knjigu — zajednica' Scratch studija](https://scratch.mit.edu/studios/29092393){:target="_blank"}:
 
 **Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
@@ -39,6 +39,6 @@ Take a look at these fabulous community projects from our ['I made you a book �
 
 --- task ---
 
-You can also look at the remixes for the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} to see what other creators have made.
+Također možete pogledati remikseve za [Napravio sam ti početni projekt za knjigu](https://scratch.mit.edu/projects/582223042/remixes){:target="_blank"} da vidite što su drugi kreatori napravili.
 
 --- /task ---
