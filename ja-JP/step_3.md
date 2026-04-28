@@ -14,7 +14,7 @@
 
 --- collapse ---
 ---
-title: オフラインでの作業
+title: Working offline
 ---
 
 Scratchをオフラインで使用するための設定方法については、 [「Scratch入門」ガイド](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}を見てください。
