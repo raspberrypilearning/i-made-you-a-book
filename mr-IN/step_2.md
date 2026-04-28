@@ -14,7 +14,7 @@ A <span style="color: #0faeb0">**digital book**</span> 📖📲 (or e-book) is a
 
 Think about the purpose of your book.
 
-It could be:
+हे असू शकते:
 - 🧒 To entertain a younger child
 - ♻️ To share an important message, such as encouraging recycling
 - 🍕 To teach someone how to do something, such as how to make your favourite food
