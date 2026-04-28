@@ -145,7 +145,7 @@ when backdrop switches to [page v]
 
 --- collapse ---
 ---
-title: Uno sprite si mostra o si nasconde nelle pagine sbagliate
+title: A sprite is showing or hiding on the wrong pages
 ---
 
 Controlla che lo sprite abbia lo script `quando lo sfondo passa a`{:class="block3events"} con i blocchi `mostra`{:class="block3looks"} o `nascondi`{:class="block3looks"} nel modo che tu pensi sia corretto. Verifica di aver scelto il nome dello sfondo corretto nel blocco `quando lo sfondo passa a`{:class="block3events"}. È utile assegnare agli sfondi nomi che puoi capire facilmente, per aiutarti a rintracciare problemi come questo.
@@ -154,7 +154,7 @@ Controlla che lo sprite abbia lo script `quando lo sfondo passa a`{:class="block
 
 --- collapse ---
 ---
-title: Uno sprite va a testa in giù
+title: A sprite is going upside down
 ---
 
 Aggiungi un blocco `usa stile rotazione sinistra-destra`{:class="block3motion"} o un blocco`usa stile rotazione non ruotare`{:class="block3motion"}.
@@ -163,7 +163,7 @@ Aggiungi un blocco `usa stile rotazione sinistra-destra`{:class="block3motion"} 
 
 --- collapse ---
 ---
-title: Uno sprite 'saltella' quando cambia costume o rimbalza
+title: A sprite 'jumps' when it changes costume or bounces
 ---
 
 Assicurati che il costume sia centrato nell'editor di Paint (allinea la croce blu nel costume con il mirino al centro dell'editor di Paint).
@@ -172,7 +172,7 @@ Assicurati che il costume sia centrato nell'editor di Paint (allinea la croce bl
 
 --- collapse ---
 ---
-title: Un suono non viene riprodotto
+title: A sound does not play
 ---
 
 Hai aggiunto un blocco `avvia riproduzione suono`{:class="block3sound"}? Se hai copiato il codice da un altro sprite, dovrai aggiungere il suono a questo sprite nella scheda **Suoni**. Controlla il volume sul tuo computer o tablet e assicurati di non averlo abbassato con il codice: prova `porta volume a`{:class="block3sound"} `100`.
@@ -181,7 +181,7 @@ Hai aggiunto un blocco `avvia riproduzione suono`{:class="block3sound"}? Se hai 
 
 --- collapse ---
 ---
-title: Alcuni sprite continuano ad andare davanti altri sprite
+title: Other sprites keep going in front of a sprite
 ---
 
 Aggiungi un blocco `porta in primo piano`{:class="block3looks"}.
@@ -190,7 +190,7 @@ Aggiungi un blocco `porta in primo piano`{:class="block3looks"}.
 
 --- collapse ---
 ---
-title: Uno sprite si muove o cambia costume solamente una volta
+title: A sprite only moves or changes once
 ---
 
 Inserisci il tuo codice all'interno di un blocco `per sempre`{:class="block3control"} in modo che continui a funzionare.
@@ -199,7 +199,7 @@ Inserisci il tuo codice all'interno di un blocco `per sempre`{:class="block3cont
 
 --- collapse ---
 ---
-title: Le pagine sono nell'ordine sbagliato
+title: The pages are in the wrong order
 ---
 
 Controlla in che ordine sono i tuoi sfondi: fai clic sul riquadro degli Stage e poi sulla scheda **Sfondi** per visualizzare gli sfondi del tuo progetto.
