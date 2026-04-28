@@ -1,23 +1,23 @@
-## Plan your book 📔
+## Planirajte svoju knjigu 📔
 
-Use this step to plan your book. You can plan by just thinking, adding backdrops and sprites in Scratch, or drawing or writing — or however you like!
+Koristite ovaj korak za planiranje svoje knjige. Možete planirati samo razmišljajući, dodajući pozadine i likove u Scratchu, ili crtajući ili pišući — ili kako god želite!
 
-![The Stage showing a sprite thinking, "Some of the best ideas come from playing. You will find good ideas by accident."](images/best-ideas.png)
+![Pozornica prikazuje lika kako razmišlja, "Neke od najboljih ideja dolaze iz igranja. Slučajno ćete pronaći dobre ideje."](images/best-ideas.png)
 
-Now, it's time to start to think about the pages (backdrops) and the characters and objects (sprites) in your book.
+Sada je vrijeme da počnete razmišljati o stranicama (pozadinama) te likovima i objektima (likovima) u vašoj knjizi.
 
 --- task ---
 
-Open the [I made you a book starter project](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch will open in another browser tab.
+Otvori [Napravio sam ti početni projekt knjige](https://scratch.mit.edu/projects/582223042/editor){:target="_blank"}. Scratch će se otvoriti u drugoj kartici preglednika.
 
-⏱️ Not much time? You can start from one of the [examples](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
+⏱️ Nemate puno vremena? Možete početi od jednog od [primjera](https://scratch.mit.edu/studios/29082370){:target="_blank"}.
 
 --- collapse ---
 ---
 title: Working offline
 ---
 
-For information about how to set up Scratch for offline use, visit [our 'Getting started with Scratch' guide](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
+Za informacije o tome kako postaviti Scratch za izvanmrežnu upotrebu, posjeti [naš vodič 'Početak rada sa Scratchom'](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_blank"}.
 
 --- /collapse ---
 
@@ -25,16 +25,16 @@ For information about how to set up Scratch for offline use, visit [our 'Getting
 
 --- task ---
 
-Use your new Scratch project to plan your book. You don't have to plan all the pages you can add more later.
+Koristite svoj novi Scratch projekt za planiranje svoje knjige. Ne morate planirati sve stranice, možeteih dodati dodati.
 
-You can also use ✏️ a pencil and [this planning sheet](resources/i-made-a-book-worksheet.pdf){:target="_blank"} or a piece of paper to sketch your ideas.
+Također možete koristiti ✏️ olovku i [ovaj list za planiranje](resources/i-made-a-book-worksheet.pdf){:target="_blank"} ili komad papira da skicirate svoje ideje.
 
-Think about the backdrops and sprites:
-- 🖼️ Which backdrops or background colours will you use in your book?
-- 🗒️ How will users interact with your book to turn to the next page?
-- 🦁 Which characters and objects will you have in your book?
-- 🏃‍♀️ How will the sprites be animated and interact on each page?
+Razmislite o pozadinama i likovima:
+- 🖼️ Koje ćete pozadine ili boje pozadine koristiti u svojoj knjizi?
+- 🗒️ Kako će korisnici komunicirati s vašom knjigom da pređu na sljedeću stranicu?
+- 🦁 Koje ćete likove i predmete imati u svojoj knjizi?
+- 🏃‍♀️ Kako će likovi biti animirani i međusobno komunicirati na svakoj stranici?
 
-![An example of the downloadable planning sheet filled in by a child. Hand draw designs fill the six rectangles on the page.](images/design-example.jpg){:width="300px"}
+![Primjer planske tablice koju je ispunilo dijete za preuzimanje. Ručno nacrtani dizajni ispunjavaju šest pravokutnika na stranici.](images/design-example.jpg){:width="300px"}
 
 --- /task ---
