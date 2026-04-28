@@ -20,17 +20,17 @@ Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Commun
 
 Om je project in te dienen bij onze ['Ik heb een boek voor je gemaakt — Community' Scratch studio](https://scratch.mit.edu/studios/29092393){:target="_blank"} zodat andere mensen het kunnen zien, vul dan [dit formulier](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"} in.
 
-**Sporg goes home**: [See inside](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
+**Sporg gaat naar huis**: [Bekijk van binnen](https://scratch.mit.edu/projects/499498152/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/499498152/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Space travel**: [See inside](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
+**Ruimtevaart**: [Bekijk van binnen](https://scratch.mit.edu/projects/707649190/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707649190/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**Going to explore**: [See inside](https://scratch.mit.edu/projects/819661547/editor/){:target="_blank"}
+**Hoe het winter werd**:[Bekijk van binnen](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/819661547/?autostart=false" frameborder="0"></iframe>
 </div>
