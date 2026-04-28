@@ -1,18 +1,18 @@
-## Checklist
+## Uwchraddio dy brosiect
 
 Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
 ### Your book should have:
 
---- task ---
+Gallet ti:
 
-Multiple pages, with a way to turn to the next page
+Mae gan bob prosiect yn [stiwdio scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29082370){:target="_blank"} ddolen **Gweld tu mewn**, y galli di ei defnyddio i agor y prosiect yn y golygydd Scratch a tharo golwg ar y cod i gael syniadau a gweld sut mae'r prosiect yn gweithio.
 
---- /task ---
+**Sporg yn mynd adref**: [Gweld tu mewn](https://scratch.mit.edu/projects/627820474/editor){:target="_blank"}
 
---- task ---
+Cymer olwg ar ein ['stiwdio Scratch 'Dw i wedi creu llyfr i ti'](https://scratch.mit.edu/studios/29092393/){:target="_blank"} i weld prosiectau mae aelodau'r gymuned wedi'u creu.
 
-At least one sprite
+--- save ---
 
 --- /task ---
 
