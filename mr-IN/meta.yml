@@ -1,7 +1,7 @@
 ---
-title: I made you a book
+title: मी तुला एक पुस्तक बनवले
 hero_image: images/banner.png
-description: Create a book with multiple pages to tell a story or share facts
+description: कथा सांगण्यासाठी किंवा तथ्ये सांगण्यासाठी अनेक पृष्ठांसह एक पुस्तक तयार करा
 meta_title: Scratch coding projects for kids and teens | I made you a book
 meta_description: Learn to code in Scratch with the Raspberry Pi Foundation's coding projects for kids and teens. Make a Scratch digital book for someone you care about.
 pdf: resources/i-made-you-a-book.pdf
@@ -13,7 +13,7 @@ steps:
   - 
     title: You will make
   - 
-    title: Your idea
+    title: तुमची कल्पना
   - 
     title: Plan your book
   - 
