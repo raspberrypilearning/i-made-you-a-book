@@ -26,7 +26,7 @@ Vad händer när du klickar på varje sprajt?
 </div>
 <div>
   
-**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Kittelmonster**: [Se inuti](https://scratch.mit.edu/projects/827412358/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -72,22 +72,22 @@ Kolla på dessa exempelprojekt för att få inspiration till din bok:
 
 ⭐ Dela ditt färdiga "Jag har gjort en bok till dig"-projekt för en chans att få det visat här.
 
-**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**Mitt band** 🎸 : [Se inuti](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Askungen och spindeln** 🕷️ : [Se inuti](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
+**⭐ Misslyckad teleportering** 🚀 : [Se inuti](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (utvalt community-projekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
+**⭐ Hur vintern kom** ☃️ : [Se inuti](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (utvalt samhällsprojekt)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
