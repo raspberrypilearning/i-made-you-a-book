@@ -14,7 +14,7 @@ Ouvre le [ projet de démarrage « Je t'ai fait un livre »](https://scratch.m
 
 --- collapse ---
 ---
-title: Working offline
+title: Travailler hors ligne
 ---
 
 Pour plus d'informations sur la configuration de Scratch pour une utilisation hors connexion, consulte [notre guide « Premiers pas avec Scratch »](https://projects.raspberrypi.org/en/projects/getting-started-scratch){:target="_ blank"}.
