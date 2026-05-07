@@ -1,12 +1,12 @@
-## Uzakwena
+## You will make
 
-Yenza incwadi ethi 📚 kuScratch ngokusekelwe kwingcinga namacebo yakho 💡.
+Create a 📚 book in Scratch based on your own idea 💡. 
 
-Uzaku:
+You will:
 
-+ Yenzela umntu okhethekileyo kuwe incwadi edijithali
-+ Khetha izakhono oza kuzisebenzisa ukwenza incwadi yakho
-+ Yabelana ngedilesi yewebhu yencwadi yakho
++ Create a digital book for someone specific
++ Choose which skills to use to make your book
++ Share a web address for your book
 
 --- no-print ---
 
@@ -15,18 +15,18 @@ Uzaku:
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1">
 
-### Dlala ▶️ 
+### Play ▶️ 
 
-Cofa ekomemi ukuze utyhile iphepha.
+Click on the corner to turn the page.
 
-Khangela ii-sprites eziziflihlayo ziziveze kumaphepha ahlukeneyo.
+Look for sprites that show and hide on different pages.
   
-Kwenzeka ntoni xa ucofa kwi-sprite ngasinye?
+What happens when you click on each sprite?
 
 </div>
 <div>
   
-**iZim ilinyumbazayo**: [Jonga ngaphakathi](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
+**Tickle monster**: [See inside](https://scratch.mit.edu/projects/500189097/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/500189097/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -38,56 +38,56 @@ Kwenzeka ntoni xa ucofa kwi-sprite ngasinye?
 
 --- /no-print ---
 
-Incwadi yakho kuya kufuneka ihlangabezane  **Isishwankathelo socwangciso lweprojekthi***.
+Your book will need to meet the **project brief**.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-I- <span style="color: #0faeb0">**Isishwankathelo socwangciso lweprojekthi**</span> lucacisa oko kufuneka kwenziwe yiprojekthi. Kufana nje nokunikwa umsebenzi ekufuneka uwugqibe.
+A <span style="color: #0faeb0">**project brief**</span> describes what a project must do. It is a bit like being given a mission to complete.
 </p>
 
 <div style="border-top: 15px solid #f3524f; background-color: whitesmoke; margin-bottom: 20px; padding: 10px;">
 
-### 🎯ISISHWANKATHELO SOCWANCISO LWEPROJEKTHI: Yenza **incwadi yedijithali**
+### 🎯 PROJECT BRIEF: Create a **digital book**
 <hr style="border-top: 2px solid black;">
 
-Kuya kufuneka ukhethe ukuba oluphi uhlobo lwencwadi kwaye uyenzela bani. 
+You will need to decide what type of book you would like to make and who it is for. 
 
-Incwadi yakho kufuneka:
-+ 📃 Ibe namaphepha amaninzi, ngendlela yotyhila uye kwiphepha elilandelayo
-+ 🐢 Ibe ne-sprite esinye ubuncinane
-+ 💬 Ithethe okanye yenze into eyahlukileyo kwiphepha ngalinye
+Your book should:
++ 📃 Have multiple pages, with a way to turn to the next page
++ 🐢 Have at least one sprite
++ 💬 Say or do something different on every page
 
-Incwadi yakho inokuba:
-+ 🔉 Ibe neziphumo zentetho okanye zesandi 
-+ 🎨 Ibe nemihlathi okanye ubugcisa obudalwe kwihlelo wepeyinti
-+ 🖱️ Ibe nentsebenziswano nomfundi wencwadi kwiphepha ngalinye
+Your book could:
++ 🔉 Have speech or sound effects 
++ 🎨 Have text or art that has been created in the Paint editor
++ 🖱️ Have interactive features on every page
 </div>
 
 --- no-print ---
 
-### Fumana izimvo 💭
+### Get ideas 💭
 
 --- task ---
 
-Dlala ngale mizekelo ukuze ufumana amacebo eyakho incwadi:
+Play with these example projects to get ideas for your book:
 
-⭐ Yabelana ngeprojekthi yakho egqityiweyo 'Ndikwenzele Incwadi'  ukuze ube nethuba lokuba iboniswe apha.
+⭐ Share your finished 'I made you a book' project for a chance of it being featured here.
 
-**Iqela lam lomculo** 🎸 : [Jonga ngaphakathi](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
+**My band** 🎸 : [See inside](https://scratch.mit.edu/projects/724148783/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/724148783/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ UCinderella Nesigcawu** 🕷️ : [Jonga ngaphakathi](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
+**⭐ Cinderella and the spider** 🕷️ : [See inside](https://scratch.mit.edu/projects/799448516/editor){:target="_blank"}
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/799448516/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Ukutzibina selendikwenye indawo** 🚀 : [Jonga ngaphakathi](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (iprojekthi ebonisiweyo eluntunwni)
+**⭐ Accidental Teleportation** 🚀 : [See inside](https://scratch.mit.edu/projects/793833913/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/793833913/?autostart=false" frameborder="0"></iframe>
 </div>
 
-**⭐ Uhlobo ubusika bufike ngayo** ☃️ : [Jonga ngaphakathi](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (iprojekthi yoluntu evelele)
+**⭐ How winter came** ☃️ : [See inside](https://scratch.mit.edu/projects/707648744/editor){:target="_blank"} (featured community project)
 <div class="scratch-preview" style="margin-left: 15px;">
   <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/707648744/?autostart=false" frameborder="0"></iframe>
 </div>
@@ -98,11 +98,12 @@ Dlala ngale mizekelo ukuze ufumana amacebo eyakho incwadi:
 
 --- print-only ---
 
-### Fumana izimvo
+### Get ideas 💭
 
-Ukuze ufumane amacebo ngencwadi📚 yakho, **Jonga ngaphakathi** imizekelo yeeprojekthi kwi-'I made you a book — Umzekelo we-' Scratch studio: https://scratch.mit.edu/studios/29082370
+To get ideas for your 📚 book, **See inside** example projects in the 'I made you a book — Examples' Scratch studio: 
+https://scratch.mit.edu/studios/29082370
 
-![Iprojekthi ethi 'Khanyisa indlela eya ekhaya'.](images/showcase_static.png)
+![The 'Light the way home' project.](images/showcase_static.png)
 
 --- /print-only ---
 

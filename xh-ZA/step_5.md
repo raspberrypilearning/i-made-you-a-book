@@ -1,72 +1,72 @@
-## Uluhlu lokujonga
+## Checklist
 
-Ngaba udibene **nengcaciso emfutshane yeprojekthi**? Cinga ngeprojekthi yakho kwaye ujonge uluhlu olungezantsi uze ujonge iimpawu enazo iprojekthi yakho.
+Did you meet the **project brief**? Think about your project and go through the checklist below and check off the features that your project has.
 
-### Incwadi yakho kufuneka ibe ne:
+### Your book should have:
 
 --- task ---
 
-Amaphepha amaninzi, anendlela yokutyhila uye kwiphepha elilandelayo
+Multiple pages, with a way to turn to the next page
 
 --- /task ---
 
 --- task ---
 
-Okungenani i-sprite esinye
+At least one sprite
 
 --- /task ---
 
 --- task ---
 
-Izenzo ezahlukeneyo kwiphepha nganye
+Different actions on every page
 
 --- /task ---
 
-### Incwadi yakho inokuba nayo:
+### Your book could also have:
 
 --- task ---
 
-Intetho okanye iziphumo zesandi
-
---- /task ---
-
---- task ---
-
-Umbhalo okanye ubugcisa obudalwe kumhleli wePeyinti
+Speech or sound effects
 
 --- /task ---
 
 --- task ---
 
-Iimpawu ezisebenzayo kwiphepha nganye
-
---- /task ---
-
-### Ukucinga
-
-Ungacinga ngendlela owenze ngayo incwadi yakho, ukuze ikuncede kwiiprojekthi zakho zexesha elizayo:
-
---- task ---
-
-Uzifumene njani izimvo zakho?
+Text or art that has been created in the Paint editor
 
 --- /task ---
 
 --- task ---
 
-Zeziphi izinto ezintsha nezimnandi ozifundileyo?
+Interactive features on every page
 
 --- /task ---
 
-### Ngoku, ungumbhali wencwadi edijithali!
+### Reflection
 
-🎉 Ziphe ixesha lokubhiyozela oko ukwenzileyo.
+You can reflect on how you made your book, to help you in your future projects:
 
 --- task ---
 
-Uza kuwathatha phi amandla akho amatsha? Uza kwenza ntoni ngokulandelayo?
+How did you get your ideas?
 
 --- /task ---
 
-![Ikati ka Scratch inxibe umnqwazi wepati.](images/reflect.png)
+--- task ---
+
+What cool new thing(s) did you learn?
+
+--- /task ---
+
+### Now, you are the author of a digital book!
+
+🎉 Take a moment to celebrate what you have made.
+
+--- task ---
+
+Where will you take your new powers? What will you make next?
+
+--- /task ---
+
+![The Scratch Cat wearing a party hat.](images/reflect.png)
 
